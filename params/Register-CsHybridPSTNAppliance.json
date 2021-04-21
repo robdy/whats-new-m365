@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Verbose",
+  "Name",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Tenant",
+  "InMemory",
+  "WarningAction",
+  "OutVariable",
+  "MediationServerIPAddress",
+  "MediationServerFqdn",
+  "Force",
+  "SiteName",
+  "AsJob"
+]

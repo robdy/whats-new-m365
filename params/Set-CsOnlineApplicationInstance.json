@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "DisplayName",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "OnpremPhoneNumber",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "OutVariable",
+  "ApplicationId",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

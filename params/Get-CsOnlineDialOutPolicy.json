@@ -1,0 +1,17 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "LocalStore",
+  "ErrorVariable",
+  "Identity",
+  "OutBuffer",
+  "WarningAction",
+  "Filter",
+  "InformationVariable",
+  "AsJob"
+]

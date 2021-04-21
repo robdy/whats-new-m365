@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "MaxResults",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "SearchQuery",
+  "OutBuffer",
+  "ErrorVariable",
+  "MailEnabledOnly",
+  "Tenant",
+  "WarningAction",
+  "ExactMatchOnly",
+  "DomainController",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

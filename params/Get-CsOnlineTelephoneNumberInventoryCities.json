@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Force",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "Tenant",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "CapitalOrMajorCity",
+  "OutBuffer",
+  "ErrorVariable",
+  "InventoryType",
+  "CountryOrRegion",
+  "WarningAction",
+  "RegionalGroup",
+  "DomainController",
+  "Area",
+  "InformationVariable",
+  "AsJob"
+]

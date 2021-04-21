@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "PipelineVariable",
+  "Verbose",
+  "OutVariable",
+  "CallFlowId",
+  "InformationAction",
+  "Disable",
+  "WarningVariable",
+  "Debug",
+  "Type",
+  "OutBuffer",
+  "ErrorVariable",
+  "Tenant",
+  "ScheduleId",
+  "WarningAction",
+  "DomainController",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

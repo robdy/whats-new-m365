@@ -1,0 +1,20 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "ErrorVariable",
+  "OutBuffer",
+  "WarningAction",
+  "DomainController",
+  "TelephoneNumberRanges",
+  "TelephoneNumbers",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

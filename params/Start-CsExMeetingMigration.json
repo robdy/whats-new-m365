@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "TargetMeetingType",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "CleanupSipDisabled",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "SourceMeetingType",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

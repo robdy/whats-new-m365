@@ -1,0 +1,19 @@
+[
+  "ErrorAction",
+  "ExposeSDNConfigurationJsonBlob",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Verbose",
+  "Debug",
+  "PipelineVariable",
+  "LocalStore",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "Filter",
+  "InformationVariable",
+  "AsJob"
+]

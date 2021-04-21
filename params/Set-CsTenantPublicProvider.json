@@ -1,0 +1,18 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "Provider",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Tenant",
+  "WarningAction",
+  "WarningVariable",
+  "InformationVariable",
+  "AsJob"
+]

@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "AppIds",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Description",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "InMemory",
+  "WarningAction",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

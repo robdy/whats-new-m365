@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Description",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "SuggestedFeedsEnabledType",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "TrendingFeedsEnabledType",
+  "Force",
+  "Instance",
+  "AsJob"
+]

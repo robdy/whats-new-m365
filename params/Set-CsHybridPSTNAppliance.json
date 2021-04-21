@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "MaintenanceMode",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "PipelineVariable",
+  "WarningAction",
+  "MediationServerGruu",
+  "Force",
+  "Instance",
+  "AsJob"
+]

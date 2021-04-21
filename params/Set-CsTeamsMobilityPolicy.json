@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "IPVideoMobileMode",
+  "Description",
+  "Verbose",
+  "InformationVariable",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "IPAudioMobileMode",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "Force",
+  "Instance",
+  "AsJob"
+]

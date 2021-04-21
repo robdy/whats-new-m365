@@ -1,0 +1,19 @@
+[
+  "ErrorAction",
+  "TenantId",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "FQDN",
+  "ErrorVariable",
+  "OutBuffer",
+  "WarningAction",
+  "PhoneNumber",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

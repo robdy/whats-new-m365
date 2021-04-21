@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "TenantDomain",
+  "InformationAction",
+  "Provider",
+  "Debug",
+  "PipelineVariable",
+  "OutBuffer",
+  "ErrorVariable",
+  "LicenseState",
+  "Identity",
+  "WarningVariable",
+  "Tenant",
+  "WarningAction",
+  "ResultSize",
+  "OutVariable",
+  "DomainController",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

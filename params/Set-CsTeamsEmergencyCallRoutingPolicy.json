@@ -1,0 +1,23 @@
+[
+  "EmergencyNumbers",
+  "InformationVariable",
+  "Description",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "ErrorAction",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "AllowEnhancedEmergencyServices",
+  "Force",
+  "Instance",
+  "AsJob"
+]

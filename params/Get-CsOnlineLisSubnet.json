@@ -1,0 +1,20 @@
+[
+  "ErrorAction",
+  "TenantId",
+  "ErrorVariable",
+  "Subnet",
+  "OutVariable",
+  "InformationAction",
+  "IsDebug",
+  "Verbose",
+  "Debug",
+  "PipelineVariable",
+  "TargetStore",
+  "WarningVariable",
+  "OutBuffer",
+  "WarningAction",
+  "NCSApiUrl",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

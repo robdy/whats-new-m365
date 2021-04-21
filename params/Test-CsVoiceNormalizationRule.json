@@ -1,0 +1,16 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "DialedNumber",
+  "Debug",
+  "PipelineVariable",
+  "ErrorVariable",
+  "OutBuffer",
+  "NormalizationRule",
+  "WarningAction",
+  "WarningVariable",
+  "InformationVariable",
+  "AsJob"
+]

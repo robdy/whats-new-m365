@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Description",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "CentralSite",
+  "Confirm",
+  "NetworkRegionID",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "PipelineVariable",
+  "WarningAction",
+  "Force",
+  "Instance",
+  "AsJob"
+]

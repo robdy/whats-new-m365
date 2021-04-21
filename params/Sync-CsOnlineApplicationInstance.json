@@ -1,0 +1,20 @@
+[
+  "ErrorAction",
+  "CallbackUri",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Verbose",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "ObjectId",
+  "Tenant",
+  "WarningAction",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

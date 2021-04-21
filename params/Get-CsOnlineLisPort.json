@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "PortID",
+  "TenantId",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "IsDebug",
+  "Debug",
+  "PipelineVariable",
+  "OutBuffer",
+  "ChassisID",
+  "WarningVariable",
+  "ErrorVariable",
+  "WarningAction",
+  "NCSApiUrl",
+  "TargetStore",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

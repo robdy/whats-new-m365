@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "First",
+  "WarningVariable",
+  "Debug",
+  "PrimaryUri",
+  "PipelineVariable",
+  "IncludeStatus",
+  "OutBuffer",
+  "ErrorVariable",
+  "Skip",
+  "Tenant",
+  "WarningAction",
+  "DomainController",
+  "ApplicationId",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

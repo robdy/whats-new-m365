@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "BranchApplianceFqdns",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "InMemory",
+  "WarningAction",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

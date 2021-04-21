@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Description",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "MediaBitRateKb",
+  "AllowIPVideo",
+  "Force",
+  "Instance",
+  "AsJob"
+]

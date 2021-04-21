@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "FileName",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "Debug",
+  "Content",
+  "OutBuffer",
+  "AudioFileExpiryInterval",
+  "Identity",
+  "Tenant",
+  "PipelineVariable",
+  "WarningAction",
+  "DomainController",
+  "ApplicationId",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

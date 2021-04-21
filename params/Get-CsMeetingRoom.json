@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "PipelineVariable",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "Credential",
+  "ErrorVariable",
+  "LdapFilter",
+  "Filter",
+  "OutBuffer",
+  "WarningAction",
+  "Identity",
+  "OU",
+  "DomainController",
+  "ResultSize",
+  "InformationVariable",
+  "AsJob"
+]

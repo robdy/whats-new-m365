@@ -1,0 +1,20 @@
+[
+  "ErrorAction",
+  "AllowInternationalCalls",
+  "Verbose",
+  "OutVariable",
+  "OutBuffer",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "HybridPSTNSite",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

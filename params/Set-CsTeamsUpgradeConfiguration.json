@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "SfBMeetingJoinUx",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "DownloadTeams",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "Force",
+  "Instance",
+  "AsJob"
+]

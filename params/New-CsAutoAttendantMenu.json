@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "Name",
+  "InformationAction",
+  "Prompts",
+  "EnableDialByName",
+  "Debug",
+  "PipelineVariable",
+  "DirectorySearchMethod",
+  "OutBuffer",
+  "ErrorVariable",
+  "WarningVariable",
+  "Tenant",
+  "WarningAction",
+  "OutVariable",
+  "DomainController",
+  "MenuOptions",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

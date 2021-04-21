@@ -1,0 +1,20 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "ActiveType",
+  "Debug",
+  "WarningAction",
+  "PipelineVariable",
+  "OutBuffer",
+  "ErrorVariable",
+  "WarningVariable",
+  "Tenant",
+  "TextToSpeechPrompt",
+  "DomainController",
+  "AudioFilePrompt",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

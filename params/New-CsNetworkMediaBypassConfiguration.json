@@ -1,0 +1,22 @@
+[
+  "BypassID",
+  "ExternalBypassMode",
+  "InternalBypassMode",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "ErrorAction",
+  "PipelineVariable",
+  "AlwaysBypass",
+  "OutBuffer",
+  "ErrorVariable",
+  "EnableDefaultBypassID",
+  "Tenant",
+  "WarningAction",
+  "Enabled",
+  "EnabledForAudioVideoConferences",
+  "InformationVariable",
+  "AsJob"
+]

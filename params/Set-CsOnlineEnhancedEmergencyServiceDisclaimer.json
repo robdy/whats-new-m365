@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "Version",
+  "ForceAccept",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "WarningVariable",
+  "Tenant",
+  "WarningAction",
+  "DomainController",
+  "CountryOrRegion",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

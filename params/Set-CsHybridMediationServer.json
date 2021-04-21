@@ -1,0 +1,20 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "OutBuffer",
+  "InformationAction",
+  "WarningVariable",
+  "AccessProxyExternalFqdn",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "Fqdn",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

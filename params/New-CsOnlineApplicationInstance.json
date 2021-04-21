@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "UserPrincipalName",
+  "DisplayName",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Verbose",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Tenant",
+  "WarningAction",
+  "OutVariable",
+  "ApplicationId",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

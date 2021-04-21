@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "Description",
+  "Verbose",
+  "IPAddress",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "InMemory",
+  "WarningAction",
+  "MaskBits",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

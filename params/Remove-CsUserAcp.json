@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "Name",
+  "InformationAction",
+  "PassThru",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "ErrorVariable",
+  "ParticipantPasscode",
+  "Identity",
+  "OutBuffer",
+  "WarningAction",
+  "OutVariable",
+  "TollNumber",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

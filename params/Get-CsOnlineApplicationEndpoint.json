@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "RunFullProvisioningFlow",
+  "OutVariable",
+  "Verbose",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "InformationAction",
+  "OutBuffer",
+  "ErrorVariable",
+  "IsInternalRun",
+  "Tenant",
+  "Uri",
+  "WarningAction",
+  "DomainController",
+  "PhoneNumber",
+  "Ring",
+  "Audience",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

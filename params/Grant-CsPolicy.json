@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "InformationAction",
+  "PassThru",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "PolicyName",
+  "OutBuffer",
+  "AdditionalParameters",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "ErrorVariable",
+  "DomainController",
+  "PolicyType",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

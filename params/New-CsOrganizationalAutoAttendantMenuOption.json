@@ -1,0 +1,21 @@
+[
+  "ErrorAction",
+  "Action",
+  "Verbose",
+  "OutVariable",
+  "CallTarget",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "VoiceResponses",
+  "OutBuffer",
+  "ErrorVariable",
+  "DtmfResponse",
+  "Tenant",
+  "WarningAction",
+  "DomainController",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

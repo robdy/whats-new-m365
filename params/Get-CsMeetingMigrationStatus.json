@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "PipelineVariable",
+  "Verbose",
+  "OutVariable",
+  "StartTime",
+  "WarningVariable",
+  "Debug",
+  "MigrationType",
+  "InformationAction",
+  "Confirm",
+  "SummaryOnly",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "State",
+  "EndTime",
+  "WhatIf",
+  "InformationVariable",
+  "AsJob"
+]

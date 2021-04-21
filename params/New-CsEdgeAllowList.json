@@ -1,0 +1,15 @@
+[
+  "WarningVariable",
+  "OutBuffer",
+  "InformationVariable",
+  "Verbose",
+  "InformationAction",
+  "Debug",
+  "OutVariable",
+  "AllowedDomain",
+  "ErrorVariable",
+  "PipelineVariable",
+  "ErrorAction",
+  "WarningAction",
+  "AsJob"
+]

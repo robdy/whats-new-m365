@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "DisableCallsAndMeetings",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "InMemory",
+  "WarningAction",
+  "Confirm",
+  "DisableAudioVideoInCallsAndMeetings",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]

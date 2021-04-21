@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "EnableApplePushNotificationService",
+  "Identity",
+  "Tenant",
+  "WarningAction",
+  "EnableMicrosoftPushNotificationService",
+  "Force",
+  "Instance",
+  "AsJob"
+]

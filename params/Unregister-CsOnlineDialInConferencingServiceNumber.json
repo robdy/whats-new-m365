@@ -1,0 +1,23 @@
+[
+  "ErrorAction",
+  "InformationVariable",
+  "BridgeName",
+  "Verbose",
+  "TenantDomain",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "OutBuffer",
+  "ErrorVariable",
+  "RemoveDefaultServiceNumber",
+  "Tenant",
+  "BridgeId",
+  "WarningAction",
+  "Identity",
+  "OutVariable",
+  "DomainController",
+  "Force",
+  "Instance",
+  "AsJob"
+]
