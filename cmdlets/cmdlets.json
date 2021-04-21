@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Clear-CsOnlineTelephoneNumberReservationTEST2",
+    "Name": "Clear-CsOnlineTelephoneNumberReservation",
     "CommandType": "Function"
   },
   {
