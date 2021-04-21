@@ -1,25 +1,25 @@
 [
   {
     "Category": "Cmdlet",
-    "Object": "Clear-CsOnlineTelephoneNumberReservationTEST2",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberReservationTEST2",
     "Event": "Remove",
     "Timestamp": "2021-04-21 18:39:05"
   },
   {
     "Category": "Cmdlet",
-    "Object": "Clear-CsOnlineTelephoneNumberReservation",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberReservation",
     "Event": "Add",
     "Timestamp": "2021-04-21 18:39:05"
   },
   {
     "Category": "Cmdlet",
-    "Object": "Clear-CsOnlineTelephoneNumberReservationTEST",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberReservationTEST",
     "Event": "Remove",
     "Timestamp": "2021-04-21 18:34:43"
   },
   {
     "Category": "Cmdlet",
-    "Object": "Clear-CsOnlineTelephoneNumberReservation",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberReservation",
     "Event": "Add",
     "Timestamp": "2021-04-21 18:34:43"
   },
