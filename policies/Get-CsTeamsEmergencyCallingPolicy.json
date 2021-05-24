@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "NotificationGroup",
+  "NotificationDialOutNumber",
+  "ExternalLocationLookupMode",
+  "NotificationMode",
+  "Description",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

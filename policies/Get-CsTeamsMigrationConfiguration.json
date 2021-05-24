@@ -1,0 +1,15 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "EnableLegacyClientInterop",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

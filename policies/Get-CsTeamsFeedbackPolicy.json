@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "UserInitiatedMode",
+  "ReceiveSurveysMode",
+  "AllowScreenshotCollection",
+  "AllowEmailCollection",
+  "AllowLogCollection",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

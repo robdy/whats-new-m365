@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "AllowBroadcastMeeting",
+  "AllowOpenBroadcastMeeting",
+  "AllowBroadcastMeetingRecording",
+  "AllowAnonymousBroadcastMeeting",
+  "BroadcastMeetingRecordingEnforced",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

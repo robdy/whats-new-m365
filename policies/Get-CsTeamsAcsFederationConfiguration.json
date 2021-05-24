@@ -1,0 +1,18 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "AllowedAcsResources",
+  "BlockedAcsResources",
+  "EnableAcsUsers",
+  "AllowAllAcsResources",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

@@ -1,0 +1,22 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "EnableTranscription",
+  "ShareData",
+  "EnableTranscriptionProfanityMasking",
+  "EnableEditingCallAnswerRulesSetting",
+  "MaximumRecordingLength",
+  "EnableTranscriptionTranslation",
+  "PrimarySystemPromptLanguage",
+  "SecondarySystemPromptLanguage",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

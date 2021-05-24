@@ -1,0 +1,22 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "AllowUserEditMessage",
+  "AllowUserDeleteMessage",
+  "AllowUserChat",
+  "AllowGiphy",
+  "GiphyRatingType",
+  "AllowMemes",
+  "AllowImmersiveReader",
+  "AllowStickers",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

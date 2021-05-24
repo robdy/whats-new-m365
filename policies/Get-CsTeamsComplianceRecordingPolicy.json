@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "ComplianceRecordingApplications",
+  "Enabled",
+  "WarnUserOnRemoval",
+  "DisableComplianceRecordingAudioNotificationForCalls",
+  "Description",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

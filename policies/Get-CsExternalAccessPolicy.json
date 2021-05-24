@@ -1,0 +1,22 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "EnableFederationAccess",
+  "EnableXmppAccess",
+  "EnablePublicCloudAccess",
+  "EnablePublicCloudAudioVideoAccess",
+  "EnableOutsideAccess",
+  "EnableAcsFederationAccess",
+  "EnableTeamsConsumerAccess",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "AllowManagedUpdates",
+  "AllowPreview",
+  "UpdateDayOfWeek",
+  "UpdateTime",
+  "UpdateTimeOfDay",
+  "AllowPublicPreview",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

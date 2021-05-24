@@ -1,0 +1,20 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "ManageTagsPermissionMode",
+  "TeamOwnersEditWhoCanManageTagsMode",
+  "SuggestedPresetTags",
+  "CustomTagsMode",
+  "ShiftBackedTagsMode",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

@@ -1,0 +1,22 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "EnableShiftPresence",
+  "ShiftNoticeMessage",
+  "ShiftNoticeFrequency",
+  "ShiftNoticeMessageType",
+  "ShiftNoticeMessageCustom",
+  "AccessType",
+  "AccessGracePeriodMinutes",
+  "EnableScheduleOwnerPermissions",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

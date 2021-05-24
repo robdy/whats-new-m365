@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "AllowBroadcastScheduling",
+  "AllowBroadcastTranscription",
+  "BroadcastAttendeeVisibilityMode",
+  "BroadcastRecordingMode",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "AppPresetList",
+  "PinnedAppBarApps",
+  "PinnedMessageBarApps",
+  "AppPresetMeetingList",
+  "Description",
+  "AllowSideLoading",
+  "AllowUserPinning",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

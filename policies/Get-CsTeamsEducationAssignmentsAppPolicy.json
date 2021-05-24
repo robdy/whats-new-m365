@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "ParentDigestEnabledType",
+  "MakeCodeEnabledType",
+  "TurnItInEnabledType",
+  "TurnItInApiUrl",
+  "TurnItInApiKey",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "HybridPSTNSites",
+  "HybridPSTNAppliances",
+  "TenantUpdateTimeWindows",
+  "PeerDestination",
+  "HybridConfigServiceInternalUrl",
+  "HybridConfigServiceExternalUrl",
+  "UseOnPremDialPlan",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

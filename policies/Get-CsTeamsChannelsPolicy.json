@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "AllowOrgWideTeamCreation",
+  "AllowPrivateTeamDiscovery",
+  "AllowPrivateChannelCreation",
+  "AllowSharedChannelCreation",
+  "AllowChannelSharingToExternalUser",
+  "AllowUserToParticipateInExternalSharedChannel",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

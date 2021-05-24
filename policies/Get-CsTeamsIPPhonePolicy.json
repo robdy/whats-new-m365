@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "SignInMode",
+  "SearchOnCommonAreaPhoneMode",
+  "AllowHomeScreen",
+  "AllowBetterTogether",
+  "AllowHotDesking",
+  "HotDeskingIdleTimeoutInMinutes",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

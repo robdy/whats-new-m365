@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "Description",
+  "CortanaVoiceInvocationMode",
+  "AllowCortanaVoiceInvocation",
+  "AllowCortanaAmbientListening",
+  "AllowCortanaInContextSuggestions",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

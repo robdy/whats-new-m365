@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "AllowedDomains",
+  "BlockedDomains",
+  "AllowFederatedUsers",
+  "AllowPublicUsers",
+  "AllowTeamsConsumer",
+  "TreatDiscoveredPartnersAsUnverified",
+  "SharedSipAddressSpace",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

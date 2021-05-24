@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PSComputerName",
+  "RunspaceId",
+  "PSShowComputerName",
+  "DefaultCatalogApps",
+  "GlobalCatalogApps",
+  "PrivateCatalogApps",
+  "Description",
+  "DefaultCatalogAppsType",
+  "GlobalCatalogAppsType",
+  "PrivateCatalogAppsType",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]
