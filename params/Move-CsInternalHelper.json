@@ -12,6 +12,7 @@
   "TeamDataMoveToTeam",
   "LocalDeploymentInfoHostingProviderFqdn",
   "ResourceData",
+  "MajorVersion",
   "Verbose",
   "Debug",
   "ErrorAction",

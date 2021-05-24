@@ -15,6 +15,7 @@
   "Force",
   "AllowStickers",
   "AllowSmartCompose",
+  "AllowFullChatPermissionUserToDeleteAnyMessage",
   "AllowUrlPreviews",
   "Tenant",
   "ErrorAction",

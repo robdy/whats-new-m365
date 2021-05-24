@@ -20,6 +20,7 @@
   "Tenant",
   "WarningVariable",
   "WarningAction",
+  "AllowPublicPreview",
   "Force",
   "Instance",
   "AsJob"

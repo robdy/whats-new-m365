@@ -37,6 +37,7 @@
   "PipelineVariable",
   "OverflowSharedVoicemailAudioFilePrompt",
   "EnableTimeoutSharedVoicemailTranscription",
+  "OboResourceAccountIds",
   "OutBuffer",
   "DomainController",
   "Name",

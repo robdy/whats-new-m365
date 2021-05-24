@@ -29,6 +29,7 @@
   "AllowCallForwardingToPhone",
   "AllowPrivateCalling",
   "WhatIf",
+  "CallRecordingExpirationDays",
   "AllowDelegation",
   "Debug",
   "AutoAnswerEnabledType",

@@ -1,8 +1,9 @@
 [
-  "ErrorAction",
+  "DomainController",
   "NameFilter",
   "Skip",
   "Verbose",
+  "InformationVariable",
   "OutVariable",
   "OutBuffer",
   "InformationAction",
@@ -18,8 +19,8 @@
   "Tenant",
   "PipelineVariable",
   "WarningAction",
-  "DomainController",
+  "FilterInvalidObos",
   "Force",
-  "InformationVariable",
+  "ErrorAction",
   "AsJob"
 ]

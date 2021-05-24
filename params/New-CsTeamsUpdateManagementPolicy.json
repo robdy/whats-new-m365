@@ -20,6 +20,7 @@
   "Tenant",
   "InMemory",
   "WarningAction",
+  "AllowPublicPreview",
   "Force",
   "ErrorAction",
   "AsJob"
