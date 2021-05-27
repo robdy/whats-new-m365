@@ -1,6 +1,99 @@
 [
   {
     "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "MsAccessToken",
+    "Event": "Remove",
+    "Timestamp": "2021-05-27 03:49:07"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "AadAccessToken",
+    "Event": "Remove",
+    "Timestamp": "2021-05-27 03:49:07"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "AccessTokens",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:07"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamChannelUser",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamChannelUser",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-Operation",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamChannelUser",
+    "Event": "Add",
+    "Timestamp": "2021-05-27 03:49:05"
+  },
+  {
+    "Category": "Param",
     "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
     "Param": "AllowPublicPreview",
     "Event": "Add",

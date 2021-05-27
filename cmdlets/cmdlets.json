@@ -2228,6 +2228,14 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Add-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Add-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2240,7 +2248,15 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-MultiGeoRegion",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-Operation",
     "CommandType": "Cmdlet"
   },
   {
@@ -2252,7 +2268,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
   {
@@ -2280,7 +2308,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
   {
@@ -2305,6 +2345,14 @@
   },
   {
     "Name": "Set-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]
