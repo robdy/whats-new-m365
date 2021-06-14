@@ -193,7 +193,16 @@ try {
 try {
   $allPoliciesCmdlets = $currentCmdlets | Where-Object {
   $_.Name -match "Get-Cs\w*(Policy|Configuration|Settings)$" -and 
-  $_.Name -notin @("Get-CsOnlineVoicemailUserSettings","Get-CsUserPstnSettings")
+  $_.Name -notin @(
+    "Get-CsOnlineVoicemailUserSettings", # User cmdlet
+    "Get-CsUserPstnSettings", # User cmdlet
+    # Not available for dev tenant
+    "Get-CsOnlineDialInConferencingTenantSettings",
+    "Get-CsNetworkConfiguration",
+    "Get-CsTenantNetworkConfiguration",
+    # Not working currently
+    "Get-CsTeamsWorkLoadPolicy"
+    )
   }
 
   if (-not (Test-Path $dataPoliciesFolder)) {
