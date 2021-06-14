@@ -1,5 +1,33 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage2",
+    "Event": "Remove",
+    "Timestamp": "2021-06-14 12:42:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage1",
+    "Event": "Remove",
+    "Timestamp": "2021-06-14 12:42:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "CommaSeparator",
+    "Event": "Add",
+    "Timestamp": "2021-06-14 12:42:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguages",
+    "Event": "Add",
+    "Timestamp": "2021-06-14 12:42:45"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Get-Operation",
     "Param": null,

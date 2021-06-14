@@ -52,15 +52,15 @@
   "AllowCarbonSummary",
   "RoomPeopleNameUserOverride",
   "AllowMeetingCoach",
-  "MeetingInviteLanguage1",
-  "MeetingInviteLanguage2",
   "MeetingRecordingExpirationDays",
   "LiveStreamingMode",
+  "MeetingInviteLanguages",
   "DataSource",
   "Key",
   "ScopeClass",
   "Anchor",
   "Identity",
   "TypedIdentity",
-  "Element"
+  "Element",
+  "CommaSeparator"
 ]
