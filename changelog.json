@@ -1,5 +1,238 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "ApplicationId",
+    "Event": "Remove",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "CertificateThumbprint",
+    "Event": "Remove",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantFederationConfiguration",
+    "Param": "AllowTeamsConsumer",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage1",
+    "Event": "Remove",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage2",
+    "Event": "Remove",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguages",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailPolicy",
+    "Param": "SecondarySystemPromptLanguage",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailPolicy",
+    "Param": "PrimarySystemPromptLanguage",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Param": "EnableTeamsConsumerAccess",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage1",
+    "Event": "Remove",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage2",
+    "Event": "Remove",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguages",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineVoicemailPolicy",
+    "Param": "SecondarySystemPromptLanguage",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineVoicemailPolicy",
+    "Param": "PrimarySystemPromptLanguage",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Param": "EnableTeamsConsumerAccess",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallableEntity",
+    "Param": "EnableSharedVoicemailSystemPromptSuppression",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Invoke-CsInternalPsTelemetry",
+    "Param": "TeamsModuleAuthTypeUsed",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:50"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineAudioFile",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionUser",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineAudioFile",
+    "Event": "Add",
+    "Timestamp": "2021-06-18 02:39:49"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "MeetingInviteLanguage2",

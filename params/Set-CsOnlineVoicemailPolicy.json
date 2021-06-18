@@ -2,6 +2,7 @@
   "ErrorAction",
   "InformationVariable",
   "Verbose",
+  "PrimarySystemPromptLanguage",
   "OutVariable",
   "WhatIf",
   "InformationAction",
@@ -20,6 +21,7 @@
   "Tenant",
   "EnableTranscriptionTranslation",
   "WarningAction",
+  "SecondarySystemPromptLanguage",
   "Force",
   "Instance",
   "AsJob"

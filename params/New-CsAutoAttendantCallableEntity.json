@@ -4,6 +4,7 @@
   "Verbose",
   "OutVariable",
   "InformationAction",
+  "EnableSharedVoicemailSystemPromptSuppression",
   "WarningVariable",
   "Debug",
   "Type",

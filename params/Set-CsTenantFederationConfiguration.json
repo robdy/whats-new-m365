@@ -13,7 +13,7 @@
   "PipelineVariable",
   "TreatDiscoveredPartnersAsUnverified",
   "Confirm",
-  "AllowFederatedUsers",
+  "AllowTeamsConsumer",
   "ErrorVariable",
   "AllowedDomains",
   "Tenant",
@@ -21,6 +21,7 @@
   "Identity",
   "AllowPublicUsers",
   "WhatIf",
+  "AllowFederatedUsers",
   "Force",
   "Instance",
   "AsJob"

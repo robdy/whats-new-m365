@@ -240,6 +240,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsOnlineAudioFile",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsOnlineDialInConferencingBridge",
     "CommandType": "Function"
   },
@@ -456,6 +460,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsTeamsAudioConferencingPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -561,6 +569,30 @@
   },
   {
     "Name": "Get-CsTeamsShiftsAppPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionConnector",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionSyncResult",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionUser",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionWfmTeam",
     "CommandType": "Function"
   },
   {
@@ -813,6 +845,10 @@
   },
   {
     "Name": "Grant-CsTeamsAppSetupPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Grant-CsTeamsAudioConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1180,6 +1216,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsTeamsAudioConferencingPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -1253,6 +1293,14 @@
   },
   {
     "Name": "New-CsTeamsPinnedApp",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionTeamMap",
     "CommandType": "Function"
   },
   {
@@ -1428,6 +1476,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Remove-CsOnlineAudioFile",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Remove-CsOnlineDialInConferencingTenantSettings",
     "CommandType": "Function"
   },
@@ -1500,6 +1552,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Remove-CsTeamsAudioConferencingPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Remove-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -1569,6 +1625,14 @@
   },
   {
     "Name": "Remove-CsTeamsPinnedApp",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsConnectionTeamMap",
     "CommandType": "Function"
   },
   {
@@ -1924,6 +1988,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsTeamsAudioConferencingPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -2029,6 +2097,10 @@
   },
   {
     "Name": "Set-CsTeamsShiftsAppPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Set-CsTeamsShiftsConnectionInstance",
     "CommandType": "Function"
   },
   {
@@ -2193,6 +2265,10 @@
   },
   {
     "Name": "Test-CsOnlinePortabilityIn",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Test-CsTeamsShiftsConnectionValidate",
     "CommandType": "Function"
   },
   {
