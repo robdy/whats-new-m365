@@ -1,0 +1,23 @@
+[
+  "ConnectorInstanceId",
+  "WfmTeamId",
+  "InputObject",
+  "Break",
+  "HttpPipelineAppend",
+  "HttpPipelinePrepend",
+  "PassThru",
+  "Proxy",
+  "ProxyCredential",
+  "ProxyUseDefaultCredentials",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

@@ -1,0 +1,22 @@
+[
+  "ErrorAction",
+  "MeetingInvitePhoneNumbers",
+  "Verbose",
+  "OutVariable",
+  "WhatIf",
+  "InformationAction",
+  "WarningVariable",
+  "Debug",
+  "PipelineVariable",
+  "Confirm",
+  "OutBuffer",
+  "ErrorVariable",
+  "Identity",
+  "Tenant",
+  "InMemory",
+  "WarningAction",
+  "AllowTollFreeDialin",
+  "Force",
+  "InformationVariable",
+  "AsJob"
+]
