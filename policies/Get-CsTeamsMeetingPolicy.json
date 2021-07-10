@@ -55,6 +55,7 @@
   "MeetingRecordingExpirationDays",
   "LiveStreamingMode",
   "MeetingInviteLanguages",
+  "ChannelRecordingDownload",
   "DataSource",
   "Key",
   "ScopeClass",
