@@ -200,6 +200,7 @@ try {
     "Get-CsOnlineDialInConferencingTenantSettings",
     "Get-CsNetworkConfiguration",
     "Get-CsTenantNetworkConfiguration",
+    "Get-CsTeamsAudioConferencingPolicy",
     # Not working currently
     "Get-CsTeamsWorkLoadPolicy"
     )
