@@ -460,10 +460,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -848,10 +844,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Grant-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -1216,10 +1208,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -1549,10 +1537,6 @@
   },
   {
     "Name": "Remove-CsTeamsAppSetupPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsAudioConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1985,10 +1969,6 @@
   },
   {
     "Name": "Set-CsTeamsAppSetupPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsAudioConferencingPolicy",
     "CommandType": "Function"
   },
   {

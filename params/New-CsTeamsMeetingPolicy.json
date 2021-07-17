@@ -18,6 +18,7 @@
   "AllowAnonymousUsersToStartMeeting",
   "OutVariable",
   "AllowMeetingRegistration",
+  "ChannelRecordingDownload",
   "RecordingStorageMode",
   "ScreenSharingMode",
   "RoomPeopleNameUserOverride",

@@ -17,6 +17,7 @@
   "Tenant",
   "InMemory",
   "WarningAction",
+  "MobileDialerPreference",
   "Force",
   "InformationVariable",
   "AsJob"

@@ -1,5 +1,126 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Param": "PassThru",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Start-CsExMeetingMigration",
+    "Param": "WhatIf",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Start-CsExMeetingMigration",
+    "Param": "Confirm",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Start-CsExMeetingMigration",
+    "Param": "EnqueueSourceType",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMobilityPolicy",
+    "Param": "MobileDialerPreference",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "AllowVideoMessages",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ChannelRecordingDownload",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Param": "PassThru",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Param": "PassThru",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMobilityPolicy",
+    "Param": "MobileDialerPreference",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "AllowVideoMessages",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ChannelRecordingDownload",
+    "Event": "Add",
+    "Timestamp": "2021-07-17 02:31:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionUser",
+    "Param": "PassThru",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAudioConferencingPolicy",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAudioConferencingPolicy",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAudioConferencingPolicy",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAudioConferencingPolicy",
+    "Event": "Remove",
+    "Timestamp": "2021-07-17 02:31:12"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMobilityPolicy",
     "Param": "MobileDialerPreference",

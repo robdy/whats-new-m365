@@ -4,6 +4,7 @@
   "Break",
   "HttpPipelineAppend",
   "HttpPipelinePrepend",
+  "PassThru",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

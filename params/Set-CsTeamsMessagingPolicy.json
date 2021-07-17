@@ -35,6 +35,7 @@
   "InformationVariable",
   "AllowPriorityMessages",
   "WarningVariable",
+  "AllowVideoMessages",
   "WhatIf",
   "GiphyRatingType",
   "OutBuffer",

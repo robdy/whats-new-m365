@@ -7,15 +7,14 @@
   "WarningVariable",
   "Debug",
   "PipelineVariable",
-  "Confirm",
   "OutBuffer",
   "ErrorVariable",
   "CleanupSipDisabled",
   "Identity",
   "Tenant",
+  "EnqueueSourceType",
   "WarningAction",
   "SourceMeetingType",
-  "WhatIf",
   "InformationVariable",
   "AsJob"
 ]
