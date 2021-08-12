@@ -1,5 +1,33 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowVideoMessages",
+    "Event": "Add",
+    "Timestamp": "2021-08-12 13:19:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowTasksFromTranscript",
+    "Event": "Add",
+    "Timestamp": "2021-08-12 13:19:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowCartCaptionsScheduling",
+    "Event": "Add",
+    "Timestamp": "2021-08-12 13:19:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowCallRedirect",
+    "Event": "Add",
+    "Timestamp": "2021-08-12 13:19:13"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
     "Param": "PassThru",

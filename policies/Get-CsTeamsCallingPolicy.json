@@ -24,6 +24,7 @@
   "AutoAnswerEnabledType",
   "SpamFilteringEnabledType",
   "CallRecordingExpirationDays",
+  "AllowCallRedirect",
   "DataSource",
   "Key",
   "ScopeClass",

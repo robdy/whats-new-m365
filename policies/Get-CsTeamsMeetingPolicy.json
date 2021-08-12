@@ -56,6 +56,8 @@
   "LiveStreamingMode",
   "MeetingInviteLanguages",
   "ChannelRecordingDownload",
+  "AllowCartCaptionsScheduling",
+  "AllowTasksFromTranscript",
   "DataSource",
   "Key",
   "ScopeClass",
