@@ -1,5 +1,239 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUnassignedNumberTreatment",
+    "Param": null,
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "AllowCallRedirect",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsUnassignedNumberTreatment",
+    "Param": null,
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUnassignedNumberTreatment",
+    "Param": null,
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "AllowCallRedirect",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsUnassignedNumberTreatment",
+    "Param": null,
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamChannelUser",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamChannelUser",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamChannelUser",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionUser",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
+    "Event": "Remove",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsUnassignedNumberTreatment",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsUnassignedNumberTreatment",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsUnassignedNumberTreatment",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsUnassignedNumberTreatment",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAudioConferencingPolicy",
+    "Event": "Add",
+    "Timestamp": "2021-08-17 02:28:46"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "AllowVideoMessages",
