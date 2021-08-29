@@ -460,10 +460,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -572,6 +568,30 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsTeamsShiftsConnectionConnector",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionSyncResult",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionUser",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -589,10 +609,6 @@
   },
   {
     "Name": "Get-CsTeamsTranslationRule",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsUnassignedNumberTreatment",
     "CommandType": "Function"
   },
   {
@@ -825,10 +841,6 @@
   },
   {
     "Name": "Grant-CsTeamsAppSetupPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsTeamsAudioConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1196,10 +1208,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -1276,6 +1284,14 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -1289,10 +1305,6 @@
   },
   {
     "Name": "New-CsTeamsTranslationRule",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsUnassignedNumberTreatment",
     "CommandType": "Function"
   },
   {
@@ -1528,10 +1540,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -1604,6 +1612,14 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Remove-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Remove-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -1621,10 +1637,6 @@
   },
   {
     "Name": "Remove-CsTeamsTranslationRule",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsUnassignedNumberTreatment",
     "CommandType": "Function"
   },
   {
@@ -1960,10 +1972,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsCallHoldPolicy",
     "CommandType": "Function"
   },
@@ -2072,6 +2080,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -2089,10 +2101,6 @@
   },
   {
     "Name": "Set-CsTeamsTranslationRule",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsUnassignedNumberTreatment",
     "CommandType": "Function"
   },
   {
@@ -2240,6 +2248,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Test-CsTeamsShiftsConnectionValidate",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Test-CsVoiceNormalizationRule",
     "CommandType": "Function"
   },
@@ -2272,6 +2284,14 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Add-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Add-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2281,6 +2301,10 @@
   },
   {
     "Name": "Disconnect-MicrosoftTeams",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -2300,7 +2324,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
   {
@@ -2328,7 +2364,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
   {
@@ -2353,6 +2401,14 @@
   },
   {
     "Name": "Set-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]
