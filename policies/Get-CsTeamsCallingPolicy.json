@@ -8,6 +8,7 @@
   "AllowCalling",
   "AllowPrivateCalling",
   "AllowWebPSTNCalling",
+  "AllowSIPDevicesCalling",
   "AllowVoicemail",
   "AllowCallGroups",
   "AllowDelegation",

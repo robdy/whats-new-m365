@@ -1,5 +1,12 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowSIPDevicesCalling",
+    "Event": "Add",
+    "Timestamp": "2021-09-12 02:31:16"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsCallingPolicy",
     "Param": "AllowCallRedirect",
