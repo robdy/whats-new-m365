@@ -1,18 +1,16 @@
 [
-  "ErrorAction",
-  "Verbose",
-  "OutVariable",
-  "WhatIf",
-  "InformationAction",
   "Provider",
+  "Verbose",
   "Debug",
-  "PipelineVariable",
-  "Confirm",
-  "OutBuffer",
-  "ErrorVariable",
-  "Tenant",
+  "ErrorAction",
   "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
   "WarningVariable",
   "InformationVariable",
-  "AsJob"
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

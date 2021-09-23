@@ -1,17 +1,14 @@
 [
-  "ErrorAction",
-  "Verbose",
-  "OutVariable",
-  "InformationAction",
-  "WarningVariable",
-  "Debug",
-  "PipelineVariable",
-  "OutBuffer",
-  "ErrorVariable",
-  "Tenant",
-  "WarningAction",
-  "DomainController",
   "Force",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
   "InformationVariable",
-  "AsJob"
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
 ]

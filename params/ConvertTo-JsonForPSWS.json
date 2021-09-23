@@ -1,17 +1,16 @@
 [
-  "ErrorAction",
-  "Verbose",
-  "OutVariable",
-  "InformationAction",
-  "WarningVariable",
-  "Debug",
-  "PipelineVariable",
   "InputObject",
-  "ErrorVariable",
-  "OutBuffer",
-  "WarningAction",
   "Depth",
   "Compress",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
   "InformationVariable",
-  "AsJob"
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
 ]

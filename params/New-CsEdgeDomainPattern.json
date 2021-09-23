@@ -1,15 +1,14 @@
 [
   "Domain",
-  "OutVariable",
-  "InformationVariable",
   "Verbose",
-  "InformationAction",
   "Debug",
-  "WarningVariable",
-  "OutBuffer",
-  "ErrorVariable",
-  "PipelineVariable",
   "ErrorAction",
   "WarningAction",
-  "AsJob"
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
 ]

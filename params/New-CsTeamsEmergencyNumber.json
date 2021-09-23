@@ -1,17 +1,16 @@
 [
-  "ErrorAction",
-  "Verbose",
-  "OutVariable",
-  "InformationAction",
-  "WarningAction",
-  "Debug",
   "EmergencyDialString",
-  "PipelineVariable",
-  "ErrorVariable",
-  "OutBuffer",
   "EmergencyDialMask",
   "OnlinePSTNUsage",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
   "WarningVariable",
   "InformationVariable",
-  "AsJob"
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
 ]

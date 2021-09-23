@@ -1,9 +1,6 @@
 [
   "XsAnyElements",
   "XsAnyAttributes",
-  "PSComputerName",
-  "RunspaceId",
-  "PSShowComputerName",
   "CalendarPollInterval",
   "EnforcePhoneLock",
   "PhoneLockTimeout",

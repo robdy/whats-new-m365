@@ -1,15 +1,14 @@
 [
-  "WarningVariable",
-  "OutBuffer",
-  "InformationVariable",
-  "Verbose",
-  "InformationAction",
-  "Debug",
-  "OutVariable",
   "AllowedDomain",
-  "ErrorVariable",
-  "PipelineVariable",
+  "Verbose",
+  "Debug",
   "ErrorAction",
   "WarningAction",
-  "AsJob"
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
 ]

@@ -1,6 +1,14 @@
 [
   {
+    "Name": "Clear-CsOnlineTelephoneNumberOrder",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Clear-CsOnlineTelephoneNumberReservation",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Complete-CsOnlineTelephoneNumberOrder",
     "CommandType": "Function"
   },
   {
@@ -356,6 +364,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsOnlineTelephoneNumberCountry",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsOnlineTelephoneNumberInventoryAreas",
     "CommandType": "Function"
   },
@@ -376,7 +388,15 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsOnlineTelephoneNumberOrder",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsOnlineTelephoneNumberReservationsInformation",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsOnlineTelephoneNumberType",
     "CommandType": "Function"
   },
   {
@@ -508,6 +528,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -569,6 +593,30 @@
   },
   {
     "Name": "Get-CsTeamsShiftsAppPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionConnector",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionSyncResult",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionUser",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionWfmTeam",
     "CommandType": "Function"
   },
   {
@@ -641,10 +689,6 @@
   },
   {
     "Name": "Get-CsTenantBlockedCallingNumbers",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTenantBlockedNumberExceptionPattern",
     "CommandType": "Function"
   },
   {
@@ -861,6 +905,10 @@
   },
   {
     "Name": "Grant-CsTeamsEmergencyCallRoutingPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Grant-CsTeamsEnhancedEncryptionPolicy",
     "CommandType": "Function"
   },
   {
@@ -1136,6 +1184,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsOnlineTelephoneNumberOrder",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsOnlineTimeRange",
     "CommandType": "Function"
   },
@@ -1244,6 +1296,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsTeamsEnhancedEncryptionPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -1273,6 +1329,14 @@
   },
   {
     "Name": "New-CsTeamsPinnedApp",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionTeamMap",
     "CommandType": "Function"
   },
   {
@@ -1313,10 +1377,6 @@
   },
   {
     "Name": "New-CsTeamTemplate",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTenantBlockedNumberExceptionPattern",
     "CommandType": "Function"
   },
   {
@@ -1568,6 +1628,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Remove-CsTeamsEnhancedEncryptionPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Remove-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -1601,6 +1665,14 @@
   },
   {
     "Name": "Remove-CsTeamsPinnedApp",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsConnectionTeamMap",
     "CommandType": "Function"
   },
   {
@@ -1645,10 +1717,6 @@
   },
   {
     "Name": "Remove-CsTeamTemplate",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTenantBlockedNumberExceptionPattern",
     "CommandType": "Function"
   },
   {
@@ -2008,6 +2076,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsTeamsEnhancedEncryptionPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -2072,6 +2144,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -2121,10 +2197,6 @@
   },
   {
     "Name": "Set-CsTenantBlockedCallingNumbers",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTenantBlockedNumberExceptionPattern",
     "CommandType": "Function"
   },
   {
@@ -2240,6 +2312,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Test-CsTeamsShiftsConnectionValidate",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Test-CsVoiceNormalizationRule",
     "CommandType": "Function"
   },
@@ -2272,6 +2348,14 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Add-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Add-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2281,6 +2365,10 @@
   },
   {
     "Name": "Disconnect-MicrosoftTeams",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -2300,7 +2388,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
   {
@@ -2328,7 +2428,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
   {
@@ -2353,6 +2465,14 @@
   },
   {
     "Name": "Set-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]

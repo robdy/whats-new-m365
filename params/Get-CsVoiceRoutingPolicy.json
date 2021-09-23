@@ -1,17 +1,16 @@
 [
-  "ErrorAction",
-  "Verbose",
-  "OutVariable",
-  "InformationAction",
-  "WarningVariable",
-  "Debug",
-  "PipelineVariable",
   "LocalStore",
-  "ErrorVariable",
   "Identity",
-  "OutBuffer",
-  "WarningAction",
   "Filter",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
   "InformationVariable",
-  "AsJob"
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
 ]
