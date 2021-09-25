@@ -50,6 +50,7 @@
   "RoomPeopleNameUserOverride",
   "AllowMeetingCoach",
   "MeetingRecordingExpirationDays",
+  "NewMeetingRecordingExpirationDays",
   "LiveStreamingMode",
   "MeetingInviteLanguages",
   "ChannelRecordingDownload",

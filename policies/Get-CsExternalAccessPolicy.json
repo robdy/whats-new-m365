@@ -9,6 +9,7 @@
   "EnableOutsideAccess",
   "EnableAcsFederationAccess",
   "EnableTeamsConsumerAccess",
+  "EnableTeamsConsumerInbound",
   "DataSource",
   "Key",
   "ScopeClass",

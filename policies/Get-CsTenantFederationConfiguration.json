@@ -6,6 +6,7 @@
   "AllowFederatedUsers",
   "AllowPublicUsers",
   "AllowTeamsConsumer",
+  "AllowTeamsConsumerInbound",
   "TreatDiscoveredPartnersAsUnverified",
   "SharedSipAddressSpace",
   "DataSource",
