@@ -3,14 +3,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
     "Param": null,
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:54"
   },
@@ -18,14 +11,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "Element",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -33,14 +19,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "TypedIdentity",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -48,14 +27,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "Identity",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -63,14 +35,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "Anchor",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -78,14 +43,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "ScopeClass",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -93,14 +51,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "Key",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -108,14 +59,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "DataSource",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -123,14 +67,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "AllowAllAcsResources",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -138,14 +75,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "EnableAcsUsers",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -153,14 +83,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "BlockedAcsResources",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -168,14 +91,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "AllowedAcsResources",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -183,14 +99,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "XsAnyAttributes",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -198,14 +107,7 @@
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
     "Param": "XsAnyElements",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:40"
   },
@@ -213,14 +115,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTenantFederationConfiguration",
     "Param": "AllowTeamsConsumerInbound",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -228,14 +123,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsMessagingPolicy",
     "Param": "AllowUserDeleteChat",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -243,14 +131,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsMeetingPolicy",
     "Param": "AllowAnonymousUsersToJoinMeeting",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -258,14 +139,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsMeetingPolicy",
     "Param": "NewMeetingRecordingExpirationDays",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -273,14 +147,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsGuestMessagingConfiguration",
     "Param": "AllowUserDeleteChat",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -288,14 +155,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsCallParkPolicy",
     "Param": "PickupRangeStart",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -303,14 +163,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsCallParkPolicy",
     "Param": "PickupRangeEnd",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -318,14 +171,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsCallParkPolicy",
     "Param": "ParkTimeoutSeconds",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -333,14 +179,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsCallingPolicy",
     "Param": "AllowSIPDevicesCalling",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -348,14 +187,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsAppSetupPolicy",
     "Param": "PinnedMessageBarApps",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:12"
   },
@@ -363,14 +195,7 @@
     "Category": "Param",
     "Cmdlet": "Set-CsExternalAccessPolicy",
     "Param": "EnableTeamsConsumerInbound",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -378,14 +203,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsMessagingPolicy",
     "Param": "AllowUserDeleteChat",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -393,14 +211,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsMeetingPolicy",
     "Param": "AllowAnonymousUsersToJoinMeeting",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -408,14 +219,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsMeetingPolicy",
     "Param": "NewMeetingRecordingExpirationDays",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -423,14 +227,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsCallParkPolicy",
     "Param": "ParkTimeoutSeconds",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -438,14 +235,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsCallParkPolicy",
     "Param": "PickupRangeStart",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -453,14 +243,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsCallParkPolicy",
     "Param": "PickupRangeEnd",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -468,14 +251,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsCallingPolicy",
     "Param": "AllowSIPDevicesCalling",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -483,14 +259,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsTeamsAppSetupPolicy",
     "Param": "PinnedMessageBarApps",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -498,14 +267,7 @@
     "Category": "Param",
     "Cmdlet": "New-CsExternalAccessPolicy",
     "Param": "EnableTeamsConsumerInbound",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:11"
   },
@@ -513,336 +275,168 @@
     "Category": "Param",
     "Cmdlet": "Get-CsOnlineApplicationInstance",
     "Param": "Identities",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Add",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Update-TeamsAppInstallation",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Set-TeamTargetingHierarchy",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Remove-TeamTargetingHierarchy",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Remove-TeamsAppInstallation",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Remove-TeamChannelUser",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-TeamTargetingHierarchyStatus",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-TeamsAppInstallation",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-TeamChannelUser",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Add-TeamsAppInstallation",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Add-TeamChannelUser",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-CsTeamsShiftsConnectionUser",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
   {
     "Category": "Cmdlet",
     "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
-    "Module": {
-      "Major": 2,
-      "Minor": 6,
-      "Build": 0,
-      "Revision": -1,
-      "MajorRevision": -1,
-      "MinorRevision": -1
-    },
+    "Module": "2.6.0",
     "Event": "Remove",
     "Timestamp": "2021-10-01 06:39:10"
   },
