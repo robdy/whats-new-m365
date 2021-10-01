@@ -3,6 +3,7 @@
   "AppPresetList",
   "PinnedAppBarApps",
   "AllowUserPinning",
+  "PinnedMessageBarApps",
   "Identity",
   "InMemory",
   "AllowSideLoading",

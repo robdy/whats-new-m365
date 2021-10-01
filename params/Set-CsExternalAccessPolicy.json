@@ -2,6 +2,7 @@
   "Force",
   "Description",
   "EnablePublicCloudAccess",
+  "EnableTeamsConsumerInbound",
   "EnableTeamsConsumerAccess",
   "EnableAcsFederationAccess",
   "EnableXmppAccess",

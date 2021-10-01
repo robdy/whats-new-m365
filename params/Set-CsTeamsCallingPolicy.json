@@ -10,6 +10,7 @@
   "AllowCallGroups",
   "SafeTransferEnabled",
   "SpamFilteringEnabledType",
+  "AllowSIPDevicesCalling",
   "BusyOnBusyEnabledType",
   "AllowVoicemail",
   "MusicOnHoldEnabledType",

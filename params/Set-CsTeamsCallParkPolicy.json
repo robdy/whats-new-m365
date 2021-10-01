@@ -1,8 +1,11 @@
 [
   "Description",
-  "AllowCallPark",
-  "Identity",
   "Force",
+  "ParkTimeoutSeconds",
+  "AllowCallPark",
+  "PickupRangeEnd",
+  "Identity",
+  "PickupRangeStart",
   "Instance",
   "Verbose",
   "Debug",

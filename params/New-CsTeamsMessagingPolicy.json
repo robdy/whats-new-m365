@@ -27,6 +27,7 @@
   "AllowPriorityMessages",
   "AllowVideoMessages",
   "GiphyRatingType",
+  "AllowUserDeleteChat",
   "Verbose",
   "Debug",
   "ErrorAction",

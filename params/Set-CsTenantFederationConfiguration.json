@@ -1,6 +1,7 @@
 [
   "AllowedDomainsAsAList",
   "SharedSipAddressSpace",
+  "AllowTeamsConsumerInbound",
   "BlockedDomains",
   "TreatDiscoveredPartnersAsUnverified",
   "AllowTeamsConsumer",
