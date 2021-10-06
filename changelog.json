@@ -2,6 +2,94 @@
   {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Element",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "TypedIdentity",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Identity",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Anchor",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ScopeClass",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Key",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "DataSource",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Description",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "CallingEndtoEndEncryptionEnabledType",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "XsAnyElements",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-06 02:32:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
     "Param": null,
     "Module": "2.6.0",
     "Event": "Remove",
