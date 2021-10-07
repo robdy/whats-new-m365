@@ -1,6 +1,46 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUserDeleteChat",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-07 02:35:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingRecordingExpirationDays",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-07 02:35:29"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAnonymousUsersToJoinMeeting",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-07 02:35:29"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsGuestMessagingConfiguration",
+    "Param": "AllowUserDeleteChat",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-07 02:35:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "EnhancedEmergencyServiceDisclaimer",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-07 02:35:20"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
     "Param": "Element",
     "Module": "2.6.0",

@@ -3,6 +3,7 @@
   "XsAnyAttributes",
   "AllowUserEditMessage",
   "AllowUserDeleteMessage",
+  "AllowUserDeleteChat",
   "AllowUserChat",
   "AllowGiphy",
   "GiphyRatingType",

@@ -6,6 +6,7 @@
   "AllowOwnerDeleteMessage",
   "AllowUserEditMessage",
   "AllowUserDeleteMessage",
+  "AllowUserDeleteChat",
   "AllowUserChat",
   "AllowRemoveUser",
   "AllowGiphy",
