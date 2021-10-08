@@ -1,6 +1,102 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "Element",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "TypedIdentity",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "Identity",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "Anchor",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "ScopeClass",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "Key",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "DataSource",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "Description",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "MaxCategorySubscription",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "MaxPromptedSubscriber",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Param": "XsAnyElements",
+    "Module": "2.6.0",
+    "Event": "Remove",
+    "Timestamp": "2021-10-08 02:34:50"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "AllowUserDeleteChat",
     "Module": "2.6.0",
