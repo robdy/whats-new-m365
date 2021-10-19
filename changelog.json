@@ -1,6 +1,22 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-19 02:35:05"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "2.6.0",
+    "Event": "Add",
+    "Timestamp": "2021-10-19 02:34:53"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsPresencePolicy",
     "Param": "Element",
     "Module": "2.6.0",

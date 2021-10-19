@@ -29,6 +29,7 @@
   "AllowSharedNotes",
   "AllowWhiteboard",
   "AllowTranscription",
+  "AllowNetworkConfigurationSettingsLookup",
   "MediaBitRateKb",
   "ScreenSharingMode",
   "VideoFiltersMode",

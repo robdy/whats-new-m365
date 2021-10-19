@@ -18,6 +18,7 @@
   "SafeTransferEnabled",
   "AllowCloudRecordingForCalls",
   "AllowTranscriptionForCalling",
+  "AllowNetworkConfigurationSettingsLookup",
   "LiveCaptionsEnabledTypeForCalling",
   "AutoAnswerEnabledType",
   "SpamFilteringEnabledType",
