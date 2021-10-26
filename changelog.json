@@ -1,6 +1,236 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsUserCallingSettings",
+    "Param": null,
+    "Module": "2.6.1",
+    "Event": "Remove",
+    "Timestamp": "2021-10-26 02:32:44"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "EnhancedEmergencyServiceDisclaimer",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:33"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": null,
+    "Module": "2.6.1",
+    "Event": "Remove",
+    "Timestamp": "2021-10-26 02:31:33"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsPhoneNumberAssignment",
+    "Param": null,
+    "Module": "2.6.1",
+    "Event": "Remove",
+    "Timestamp": "2021-10-26 02:31:33"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "EnhancedEmergencyServiceDisclaimer",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:33"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsUserCallingSettings",
+    "Param": null,
+    "Module": "2.6.1",
+    "Event": "Remove",
+    "Timestamp": "2021-10-26 02:31:33"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamChannelUser",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamChannelUser",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamChannelUser",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsPhoneNumberAssignment",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserCallingSettings",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionUser",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
+    "Module": "2.6.1",
+    "Event": "Add",
+    "Timestamp": "2021-10-26 02:31:32"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "AllowNetworkConfigurationSettingsLookup",
     "Module": "2.6.0",
