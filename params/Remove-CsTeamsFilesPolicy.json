@@ -1,13 +1,6 @@
 [
-  "Description",
-  "NotificationGroup",
-  "NotificationDialOutNumber",
   "Identity",
-  "EnhancedEmergencyServiceDisclaimer",
-  "InMemory",
-  "NotificationMode",
   "Force",
-  "ExternalLocationLookupMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -44,7 +44,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Export-CsOrganizationalAutoAttendantHolidays",
+    "Name": "Export-CsOnlineAudioFile",
     "CommandType": "Function"
   },
   {
@@ -165,14 +165,6 @@
   },
   {
     "Name": "Get-CsHostingProvider",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsHuntGroup",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsHuntGroupTenantInformation",
     "CommandType": "Function"
   },
   {
@@ -424,35 +416,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOrganizationalAutoAttendant",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOrganizationalAutoAttendantHolidays",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOrganizationalAutoAttendantStatus",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOrganizationalAutoAttendantSupportedLanguage",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOrganizationalAutoAttendantSupportedTimeZone",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOrganizationalAutoAttendantTenantInformation",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsPolicyPackage",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsPresencePolicy",
     "CommandType": "Function"
   },
   {
@@ -533,6 +497,10 @@
   },
   {
     "Name": "Get-CsTeamsFeedbackPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsFilesPolicy",
     "CommandType": "Function"
   },
   {
@@ -752,10 +720,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsUserAcp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsUserCallingSettings",
     "CommandType": "Function"
   },
@@ -920,6 +884,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Grant-CsTeamsFilesPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Grant-CsTeamsIPPhonePolicy",
     "CommandType": "Function"
   },
@@ -989,10 +957,6 @@
   },
   {
     "Name": "Import-CsOnlineAudioFile",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Import-CsOrganizationalAutoAttendantHolidays",
     "CommandType": "Function"
   },
   {
@@ -1112,10 +1076,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsHuntGroup",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsHybridPSTNSite",
     "CommandType": "Function"
   },
@@ -1208,38 +1168,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsOrganizationalAutoAttendant",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantCallableEntity",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantCallFlow",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantCallHandlingAssociation",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantDialScope",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantMenu",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantMenuOption",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOrganizationalAutoAttendantPrompt",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsAppPermissionPolicy",
     "CommandType": "Function"
   },
@@ -1305,6 +1233,10 @@
   },
   {
     "Name": "New-CsTeamsFeedbackPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsFilesPolicy",
     "CommandType": "Function"
   },
   {
@@ -1480,10 +1412,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsHuntGroup",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsHybridPSTNSite",
     "CommandType": "Function"
   },
@@ -1576,10 +1504,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsOrganizationalAutoAttendant",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsPhoneNumberAssignment",
     "CommandType": "Function"
   },
@@ -1641,6 +1565,10 @@
   },
   {
     "Name": "Remove-CsTeamsFeedbackPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsFilesPolicy",
     "CommandType": "Function"
   },
   {
@@ -1764,10 +1692,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsUserAcp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsVideoInteropServiceProvider",
     "CommandType": "Function"
   },
@@ -1841,10 +1765,6 @@
   },
   {
     "Name": "Set-CsGlobalCatalogApp",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsHuntGroup",
     "CommandType": "Function"
   },
   {
@@ -2008,10 +1928,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsOrganizationalAutoAttendant",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsPhoneNumberAssignment",
     "CommandType": "Function"
   },
@@ -2093,6 +2009,10 @@
   },
   {
     "Name": "Set-CsTeamsFeedbackPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Set-CsTeamsFilesPolicy",
     "CommandType": "Function"
   },
   {
@@ -2272,7 +2192,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsUserAcp",
+    "Name": "Set-CsUserCallingSettings",
     "CommandType": "Function"
   },
   {
@@ -2345,10 +2265,6 @@
   },
   {
     "Name": "Update-CsCustomPolicyPackage",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Update-CsOrganizationalAutoAttendant",
     "CommandType": "Function"
   },
   {

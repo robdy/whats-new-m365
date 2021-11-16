@@ -1,5 +1,394 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFilesPolicy",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorAdminsEmail",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "MeetingRecordingExpirationDays",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsFilesPolicy",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsFilesPolicy",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorAdminsEmail",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "MeetingRecordingExpirationDays",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsFilesPolicy",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFilesPolicy",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsFilesPolicy",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "Include",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "ApplicableTo",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Export-CsOnlineAudioFile",
+    "Param": null,
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:03"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsOrganizationalAutoAttendant",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserAcp",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOrganizationalAutoAttendant",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsHuntGroup",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsUserAcp",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOrganizationalAutoAttendant",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsHuntGroup",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantPrompt",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantMenuOption",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantMenu",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantDialScope",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantCallHandlingAssociation",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantCallFlow",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendantCallableEntity",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOrganizationalAutoAttendant",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsHuntGroup",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Import-CsOrganizationalAutoAttendantHolidays",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserAcp",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsPresencePolicy",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOrganizationalAutoAttendantTenantInformation",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOrganizationalAutoAttendantSupportedTimeZone",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOrganizationalAutoAttendantSupportedLanguage",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOrganizationalAutoAttendantStatus",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOrganizationalAutoAttendantHolidays",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOrganizationalAutoAttendant",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHuntGroupTenantInformation",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHuntGroup",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Export-CsOrganizationalAutoAttendantHolidays",
+    "Module": "2.6.2",
+    "Event": "Remove",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsFilesPolicy",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsFilesPolicy",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsFilesPolicy",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsFilesPolicy",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsFilesPolicy",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Export-CsOnlineAudioFile",
+    "Module": "2.6.2",
+    "Event": "Add",
+    "Timestamp": "2021-11-16 02:34:02"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
     "Param": "EnhancedEmergencyServiceDisclaimer",

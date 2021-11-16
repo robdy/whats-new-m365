@@ -14,6 +14,7 @@
   "EnabledWfiScenario",
   "Name",
   "SyncFrequencyInMin",
+  "ConnectorAdminsEmail",
   "WorkforceIntegrationId",
   "Break",
   "HttpPipelineAppend",

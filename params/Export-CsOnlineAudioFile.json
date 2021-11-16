@@ -1,7 +1,6 @@
 [
-  "LocalStore",
   "Identity",
-  "Filter",
+  "ApplicationId",
   "Verbose",
   "Debug",
   "ErrorAction",
