@@ -1,5 +1,13 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "BlockedAnonymousJoinClientTypes",
+    "Module": "3.0.0",
+    "Event": "Add",
+    "Timestamp": "2021-12-04 02:38:50"
+  },
+  {
     "Category": "Cmdlet",
     "Cmdlet": "Update-TeamsAppInstallation",
     "Module": "3.0.0",
