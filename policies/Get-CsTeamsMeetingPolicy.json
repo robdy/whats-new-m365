@@ -17,7 +17,6 @@
   "AllowAnonymousUsersToDialOut",
   "AllowAnonymousUsersToStartMeeting",
   "AllowAnonymousUsersToJoinMeeting",
-  "BlockedAnonymousJoinClientTypes",
   "AllowPrivateMeetingScheduling",
   "AutoAdmittedUsers",
   "AllowCloudRecording",
