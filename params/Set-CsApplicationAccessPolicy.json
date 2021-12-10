@@ -1,8 +1,8 @@
 [
   "AppIds",
   "Description",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

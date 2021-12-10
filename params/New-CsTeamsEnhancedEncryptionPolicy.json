@@ -1,9 +1,9 @@
 [
-  "Description",
   "CallingEndtoEndEncryptionEnabledType",
+  "Description",
+  "Force",
   "Identity",
   "InMemory",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

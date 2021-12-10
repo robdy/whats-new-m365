@@ -1,8 +1,8 @@
 [
   "BranchApplianceFqdns",
+  "Force",
   "Identity",
   "InMemory",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

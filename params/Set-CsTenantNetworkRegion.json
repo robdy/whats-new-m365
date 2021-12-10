@@ -1,10 +1,10 @@
 [
-  "Description",
   "CentralSite",
-  "NetworkRegionID",
-  "Identity",
+  "Description",
   "Force",
+  "Identity",
   "Instance",
+  "NetworkRegionID",
   "Verbose",
   "Debug",
   "ErrorAction",

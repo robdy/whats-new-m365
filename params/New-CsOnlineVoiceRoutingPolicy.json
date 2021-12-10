@@ -1,10 +1,10 @@
 [
-  "RouteType",
-  "OnlinePstnUsages",
   "Description",
+  "Force",
   "Identity",
   "InMemory",
-  "Force",
+  "OnlinePstnUsages",
+  "RouteType",
   "Verbose",
   "Debug",
   "ErrorAction",

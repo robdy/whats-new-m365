@@ -1,7 +1,7 @@
 [
   "AllowRemoveParticipantAppIds",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

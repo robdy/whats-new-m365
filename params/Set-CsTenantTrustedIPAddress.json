@@ -1,9 +1,9 @@
 [
   "Description",
-  "Identity",
-  "MaskBits",
   "Force",
+  "Identity",
   "Instance",
+  "MaskBits",
   "Verbose",
   "Debug",
   "ErrorAction",

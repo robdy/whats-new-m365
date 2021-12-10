@@ -1,8 +1,8 @@
 [
-  "InventoryType",
   "CountryOrRegion",
-  "RegionalGroup",
   "Force",
+  "InventoryType",
+  "RegionalGroup",
   "Verbose",
   "Debug",
   "ErrorAction",

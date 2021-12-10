@@ -1,8 +1,8 @@
 [
-  "MeetingMigrationEnabled",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
+  "MeetingMigrationEnabled",
   "Verbose",
   "Debug",
   "ErrorAction",

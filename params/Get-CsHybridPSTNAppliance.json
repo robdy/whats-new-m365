@@ -1,8 +1,8 @@
 [
-  "Name",
-  "LocalStore",
-  "Identity",
   "Filter",
+  "Identity",
+  "LocalStore",
+  "Name",
   "SiteName",
   "Verbose",
   "Debug",

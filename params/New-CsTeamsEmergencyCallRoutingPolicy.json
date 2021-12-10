@@ -1,10 +1,10 @@
 [
-  "EmergencyNumbers",
+  "AllowEnhancedEmergencyServices",
   "Description",
+  "EmergencyNumbers",
+  "Force",
   "Identity",
   "InMemory",
-  "AllowEnhancedEmergencyServices",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

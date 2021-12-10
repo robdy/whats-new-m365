@@ -1,7 +1,7 @@
 [
-  "LdapFilter",
   "Filter",
   "Identity",
+  "LdapFilter",
   "OU",
   "ResultSize",
   "Verbose",

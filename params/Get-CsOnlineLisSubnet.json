@@ -1,9 +1,9 @@
 [
-  "Subnet",
-  "IsDebug",
-  "TargetStore",
-  "NCSApiUrl",
   "Force",
+  "IsDebug",
+  "NCSApiUrl",
+  "Subnet",
+  "TargetStore",
   "Verbose",
   "Debug",
   "ErrorAction",

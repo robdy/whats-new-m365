@@ -1,9 +1,9 @@
 [
-  "LocalStore",
   "ExpandPostalCodes",
-  "Identity",
-  "Filter",
   "ExpandSubnets",
+  "Filter",
+  "Identity",
+  "LocalStore",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,9 +1,9 @@
 [
-  "SfBMeetingJoinUx",
   "DownloadTeams",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
+  "SfBMeetingJoinUx",
   "Verbose",
   "Debug",
   "ErrorAction",

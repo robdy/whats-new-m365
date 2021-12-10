@@ -1,6 +1,6 @@
 [
-  "TelephoneNumber",
   "Force",
+  "TelephoneNumber",
   "Verbose",
   "Debug",
   "ErrorAction",

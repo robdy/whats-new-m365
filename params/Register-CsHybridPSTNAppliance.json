@@ -1,9 +1,9 @@
 [
-  "Name",
-  "InMemory",
-  "MediationServerIPAddress",
-  "MediationServerFqdn",
   "Force",
+  "InMemory",
+  "MediationServerFqdn",
+  "MediationServerIPAddress",
+  "Name",
   "SiteName",
   "Verbose",
   "Debug",

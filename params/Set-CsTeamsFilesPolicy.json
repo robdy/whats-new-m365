@@ -1,9 +1,9 @@
 [
-  "SPChannelFilesTab",
-  "NativeFileEntryPoints",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
+  "NativeFileEntryPoints",
+  "SPChannelFilesTab",
   "Verbose",
   "Debug",
   "ErrorAction",

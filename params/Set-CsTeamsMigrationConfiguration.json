@@ -1,7 +1,7 @@
 [
   "EnableLegacyClientInterop",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

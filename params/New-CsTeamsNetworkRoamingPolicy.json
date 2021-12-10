@@ -1,10 +1,10 @@
 [
+  "AllowIPVideo",
   "Description",
+  "Force",
   "Identity",
   "InMemory",
   "MediaBitRateKb",
-  "AllowIPVideo",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

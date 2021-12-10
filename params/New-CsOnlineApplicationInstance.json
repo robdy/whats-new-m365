@@ -1,8 +1,8 @@
 [
-  "UserPrincipalName",
-  "DisplayName",
   "ApplicationId",
+  "DisplayName",
   "Force",
+  "UserPrincipalName",
   "Verbose",
   "Debug",
   "ErrorAction",

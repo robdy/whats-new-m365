@@ -1,9 +1,9 @@
 [
   "EnableSharedVoicemailSystemPromptSuppression",
-  "Type",
   "EnableTranscription",
-  "Identity",
   "Force",
+  "Identity",
+  "Type",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,10 +1,10 @@
 [
+  "Force",
   "Id",
-  "Priority",
-  "Parent",
   "Identity",
   "InMemory",
-  "Force",
+  "Parent",
+  "Priority",
   "Verbose",
   "Debug",
   "ErrorAction",

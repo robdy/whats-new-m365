@@ -1,9 +1,9 @@
 [
-  "IsDebug",
   "ChassisID",
+  "Force",
+  "IsDebug",
   "NCSApiUrl",
   "TargetStore",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,6 +1,6 @@
 [
-  "Identity",
   "DataLocation",
+  "Identity",
   "Verbose",
   "Debug",
   "ErrorAction",

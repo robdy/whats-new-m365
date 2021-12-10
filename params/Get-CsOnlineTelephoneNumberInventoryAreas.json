@@ -1,9 +1,9 @@
 [
+  "Area",
+  "CountryOrRegion",
   "Force",
   "InventoryType",
-  "CountryOrRegion",
   "RegionalGroup",
-  "Area",
   "Verbose",
   "Debug",
   "ErrorAction",

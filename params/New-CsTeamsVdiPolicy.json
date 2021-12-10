@@ -1,9 +1,9 @@
 [
+  "DisableAudioVideoInCallsAndMeetings",
   "DisableCallsAndMeetings",
+  "Force",
   "Identity",
   "InMemory",
-  "DisableAudioVideoInCallsAndMeetings",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

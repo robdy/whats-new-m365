@@ -1,6 +1,6 @@
 [
-  "EmergencyDialString",
   "EmergencyDialMask",
+  "EmergencyDialString",
   "OnlinePSTNUsage",
   "Verbose",
   "Debug",

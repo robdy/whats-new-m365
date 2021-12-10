@@ -1,9 +1,9 @@
 [
   "AppIds",
   "Description",
+  "Force",
   "Identity",
   "InMemory",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

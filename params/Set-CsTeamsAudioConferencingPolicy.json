@@ -1,9 +1,9 @@
 [
-  "MeetingInvitePhoneNumbers",
-  "Identity",
   "AllowTollFreeDialin",
   "Force",
+  "Identity",
   "Instance",
+  "MeetingInvitePhoneNumbers",
   "Verbose",
   "Debug",
   "ErrorAction",

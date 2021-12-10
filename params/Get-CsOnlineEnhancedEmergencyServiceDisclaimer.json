@@ -1,7 +1,7 @@
 [
-  "Version",
   "CountryOrRegion",
   "Force",
+  "Version",
   "Verbose",
   "Debug",
   "ErrorAction",

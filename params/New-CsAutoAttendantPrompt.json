@@ -1,8 +1,8 @@
 [
   "ActiveType",
-  "TextToSpeechPrompt",
   "AudioFilePrompt",
   "Force",
+  "TextToSpeechPrompt",
   "Verbose",
   "Debug",
   "ErrorAction",

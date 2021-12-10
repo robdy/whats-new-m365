@@ -1,6 +1,6 @@
 [
-  "PassThru",
   "Identity",
+  "PassThru",
   "Verbose",
   "Debug",
   "ErrorAction",

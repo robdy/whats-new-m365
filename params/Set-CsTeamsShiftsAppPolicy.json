@@ -1,7 +1,7 @@
 [
-  "Identity",
   "AllowTimeClockLocationDetection",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

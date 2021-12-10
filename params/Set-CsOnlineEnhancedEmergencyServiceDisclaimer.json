@@ -1,8 +1,8 @@
 [
-  "Version",
-  "ForceAccept",
   "CountryOrRegion",
   "Force",
+  "ForceAccept",
+  "Version",
   "Verbose",
   "Debug",
   "ErrorAction",

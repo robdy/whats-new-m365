@@ -1,8 +1,8 @@
 [
-  "DisableCallsAndMeetings",
-  "Identity",
   "DisableAudioVideoInCallsAndMeetings",
+  "DisableCallsAndMeetings",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

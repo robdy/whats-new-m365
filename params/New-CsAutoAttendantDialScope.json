@@ -1,7 +1,7 @@
 [
-  "GroupScope",
-  "GroupIds",
   "Force",
+  "GroupIds",
+  "GroupScope",
   "Verbose",
   "Debug",
   "ErrorAction",

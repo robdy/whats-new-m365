@@ -1,9 +1,9 @@
 [
-  "LocalStore",
-  "Identity",
   "ApplicableTo",
   "Filter",
+  "Identity",
   "Include",
+  "LocalStore",
   "Verbose",
   "Debug",
   "ErrorAction",

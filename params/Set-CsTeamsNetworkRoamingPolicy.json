@@ -1,10 +1,10 @@
 [
-  "Description",
-  "Identity",
-  "MediaBitRateKb",
   "AllowIPVideo",
+  "Description",
   "Force",
+  "Identity",
   "Instance",
+  "MediaBitRateKb",
   "Verbose",
   "Debug",
   "ErrorAction",

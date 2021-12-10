@@ -1,10 +1,10 @@
 [
-  "MigrationDelayInDays",
-  "Identity",
   "EnableAwaySinceIndication",
-  "UcsAllowed",
   "Force",
+  "Identity",
   "Instance",
+  "MigrationDelayInDays",
+  "UcsAllowed",
   "Verbose",
   "Debug",
   "ErrorAction",

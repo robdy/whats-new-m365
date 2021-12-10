@@ -1,8 +1,8 @@
 [
-  "TelephoneNumber",
+  "Force",
   "Identity",
   "LocationID",
-  "Force",
+  "TelephoneNumber",
   "Verbose",
   "Debug",
   "ErrorAction",

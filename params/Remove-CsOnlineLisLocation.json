@@ -1,6 +1,6 @@
 [
-  "LocationId",
   "Force",
+  "LocationId",
   "Verbose",
   "Debug",
   "ErrorAction",

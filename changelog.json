@@ -1,5 +1,447 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "Confirm",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "WhatIf",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "ProxyUseDefaultCredentials",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "ProxyCredential",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "Proxy",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "PassThru",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "HttpPipelinePrepend",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "HttpPipelineAppend",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "Break",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "SipUri",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "IsSafeForward",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "ForwardingDelay",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "DelegationSettingDelegator",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "DelegationSettingDelegate",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "CallGroupDelay",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "Body",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "InputObject",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingDelegate",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorAdminsEmail",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "BlockedAnonymousJoinClientTypes",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsUserCallingDelegate",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsScheduleRecord",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionErrorReport",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsUserCallingDelegate",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorAdminsEmail",
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionBatchTeamMap",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "BlockedAnonymousJoinClientTypes",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionOperation",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionErrorReport",
+    "Param": null,
+    "Module": "3.0.1",
+    "Event": "Remove",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserCallingDelegate",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsUserCallingDelegate",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsScheduleRecord",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionErrorReport",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsUserCallingDelegate",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionBatchTeamMap",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserCallingSettings",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionUser",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionOperation",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionErrorReport",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
+    "Module": "3.0.1",
+    "Event": "Add",
+    "Timestamp": "2021-12-10 12:59:22"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "BlockedAnonymousJoinClientTypes",

@@ -1,8 +1,8 @@
 [
-  "Usage",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
+  "Usage",
   "Verbose",
   "Debug",
   "ErrorAction",

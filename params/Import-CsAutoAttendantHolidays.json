@@ -1,7 +1,7 @@
 [
-  "Input",
-  "Identity",
   "Force",
+  "Identity",
+  "Input",
   "Verbose",
   "Debug",
   "ErrorAction",

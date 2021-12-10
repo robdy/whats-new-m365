@@ -1,7 +1,7 @@
 [
-  "Identity",
   "AllowPrivateCalling",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

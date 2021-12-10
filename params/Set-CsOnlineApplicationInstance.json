@@ -1,9 +1,9 @@
 [
-  "DisplayName",
-  "OnpremPhoneNumber",
-  "Identity",
   "ApplicationId",
+  "DisplayName",
   "Force",
+  "Identity",
+  "OnpremPhoneNumber",
   "Verbose",
   "Debug",
   "ErrorAction",

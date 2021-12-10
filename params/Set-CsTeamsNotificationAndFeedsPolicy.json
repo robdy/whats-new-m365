@@ -1,10 +1,10 @@
 [
   "Description",
-  "SuggestedFeedsEnabledType",
-  "Identity",
-  "TrendingFeedsEnabledType",
   "Force",
+  "Identity",
   "Instance",
+  "SuggestedFeedsEnabledType",
+  "TrendingFeedsEnabledType",
   "Verbose",
   "Debug",
   "ErrorAction",

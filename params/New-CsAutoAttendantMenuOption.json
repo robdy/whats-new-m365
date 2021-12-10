@@ -1,10 +1,10 @@
 [
   "Action",
   "CallTarget",
-  "Prompt",
-  "VoiceResponses",
   "DtmfResponse",
   "Force",
+  "Prompt",
+  "VoiceResponses",
   "Verbose",
   "Debug",
   "ErrorAction",

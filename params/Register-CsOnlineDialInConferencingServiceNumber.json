@@ -1,10 +1,10 @@
 [
-  "BridgeName",
-  "TenantDomain",
-  "Identity",
   "BridgeId",
+  "BridgeName",
   "Force",
+  "Identity",
   "Instance",
+  "TenantDomain",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,9 +1,9 @@
 [
   "Description",
-  "Site",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
+  "Site",
   "Verbose",
   "Debug",
   "ErrorAction",

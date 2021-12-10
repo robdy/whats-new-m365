@@ -1,10 +1,10 @@
 [
-  "AllowedAcsResources",
   "AllowAllAcsResources",
-  "EnableAcsUsers",
-  "Identity",
+  "AllowedAcsResources",
   "BlockedAcsResources",
+  "EnableAcsUsers",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

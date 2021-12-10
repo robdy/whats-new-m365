@@ -1,10 +1,10 @@
 [
   "Description",
+  "Force",
+  "Identity",
+  "Instance",
   "Pattern",
   "Translation",
-  "Identity",
-  "Force",
-  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

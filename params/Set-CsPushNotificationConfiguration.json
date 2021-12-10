@@ -1,8 +1,8 @@
 [
   "EnableApplePushNotificationService",
-  "Identity",
   "EnableMicrosoftPushNotificationService",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

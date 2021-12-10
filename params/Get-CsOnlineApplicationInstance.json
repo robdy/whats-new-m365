@@ -1,9 +1,9 @@
 [
-  "Skip",
+  "Force",
+  "Identities",
   "Identity",
   "ResultSize",
-  "Identities",
-  "Force",
+  "Skip",
   "Verbose",
   "Debug",
   "ErrorAction",

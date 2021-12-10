@@ -1,9 +1,9 @@
 [
-  "EmergencyNumbers",
-  "Description",
-  "Identity",
   "AllowEnhancedEmergencyServices",
+  "Description",
+  "EmergencyNumbers",
   "Force",
+  "Identity",
   "Instance",
   "Verbose",
   "Debug",

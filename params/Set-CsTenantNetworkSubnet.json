@@ -1,10 +1,10 @@
 [
   "Description",
+  "Force",
   "Identity",
+  "Instance",
   "MaskBits",
   "NetworkSiteID",
-  "Force",
-  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

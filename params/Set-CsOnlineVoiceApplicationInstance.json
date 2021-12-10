@@ -1,7 +1,7 @@
 [
-  "TelephoneNumber",
-  "Identity",
   "Force",
+  "Identity",
+  "TelephoneNumber",
   "Verbose",
   "Debug",
   "ErrorAction",

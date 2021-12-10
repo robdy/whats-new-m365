@@ -1,9 +1,9 @@
 [
-  "TargetMeetingType",
   "CleanupSipDisabled",
-  "Identity",
   "EnqueueSourceType",
+  "Identity",
   "SourceMeetingType",
+  "TargetMeetingType",
   "Verbose",
   "Debug",
   "ErrorAction",

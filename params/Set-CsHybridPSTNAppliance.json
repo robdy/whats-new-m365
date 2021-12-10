@@ -1,9 +1,9 @@
 [
-  "MaintenanceMode",
-  "Identity",
-  "MediationServerGruu",
   "Force",
+  "Identity",
   "Instance",
+  "MaintenanceMode",
+  "MediationServerGruu",
   "Verbose",
   "Debug",
   "ErrorAction",

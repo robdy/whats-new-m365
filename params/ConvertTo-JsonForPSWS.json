@@ -1,7 +1,7 @@
 [
-  "InputObject",
-  "Depth",
   "Compress",
+  "Depth",
+  "InputObject",
   "Verbose",
   "Debug",
   "ErrorAction",

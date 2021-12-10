@@ -1,9 +1,9 @@
 [
-  "MeetingInvitePhoneNumbers",
-  "Identity",
-  "InMemory",
   "AllowTollFreeDialin",
   "Force",
+  "Identity",
+  "InMemory",
+  "MeetingInvitePhoneNumbers",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,10 +1,10 @@
 [
   "Description",
+  "Force",
   "Fqdn",
-  "Site",
   "Identity",
   "InMemory",
-  "Force",
+  "Site",
   "Verbose",
   "Debug",
   "ErrorAction",

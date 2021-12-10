@@ -1,11 +1,11 @@
 [
   "Description",
-  "SubnetID",
+  "Force",
   "Identity",
   "InMemory",
   "MaskBits",
   "NetworkSiteID",
-  "Force",
+  "SubnetID",
   "Verbose",
   "Debug",
   "ErrorAction",

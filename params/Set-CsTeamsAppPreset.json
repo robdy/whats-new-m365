@@ -1,8 +1,8 @@
 [
-  "Priority",
-  "Identity",
   "Force",
+  "Identity",
   "Instance",
+  "Priority",
   "Verbose",
   "Debug",
   "ErrorAction",
