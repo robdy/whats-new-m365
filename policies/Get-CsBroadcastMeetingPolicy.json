@@ -1,0 +1,16 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "AllowBroadcastMeeting",
+  "AllowOpenBroadcastMeeting",
+  "AllowBroadcastMeetingRecording",
+  "AllowAnonymousBroadcastMeeting",
+  "BroadcastMeetingRecordingEnforced",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

@@ -1,0 +1,15 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "EnableFileTransfer",
+  "EnableP2PFileTransfer",
+  "AllowPresenceVisibility",
+  "AllowTitleVisibility",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

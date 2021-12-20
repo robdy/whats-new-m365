@@ -1,0 +1,21 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "PartnerApplications",
+  "OAuthServers",
+  "Realm",
+  "ServiceName",
+  "ClientAuthorizationOAuthServerIdentity",
+  "ExchangeAutodiscoverUrl",
+  "ExchangeAutodiscoverAllowedDomains",
+  "ClientAdalAuthOverride",
+  "AlternateAudienceUrl",
+  "AdditionalAudienceUrls",
+  "Element",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity"
+]

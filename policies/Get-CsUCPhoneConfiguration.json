@@ -1,0 +1,19 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "CalendarPollInterval",
+  "EnforcePhoneLock",
+  "PhoneLockTimeout",
+  "MinPhonePinLength",
+  "SIPSecurityMode",
+  "VoiceDiffServTag",
+  "Voice8021p",
+  "LoggingLevel",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

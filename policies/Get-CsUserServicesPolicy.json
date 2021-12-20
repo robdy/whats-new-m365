@@ -1,0 +1,14 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "UcsAllowed",
+  "MigrationDelayInDays",
+  "EnableAwaySinceIndication",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

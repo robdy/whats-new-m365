@@ -1,0 +1,20 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "Description",
+  "EnableFederationAccess",
+  "EnableXmppAccess",
+  "EnablePublicCloudAccess",
+  "EnablePublicCloudAudioVideoAccess",
+  "EnableOutsideAccess",
+  "EnableAcsFederationAccess",
+  "EnableTeamsConsumerAccess",
+  "EnableTeamsConsumerInbound",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]

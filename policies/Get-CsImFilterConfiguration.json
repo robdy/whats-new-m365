@@ -1,0 +1,18 @@
+[
+  "XsAnyElements",
+  "XsAnyAttributes",
+  "Prefixes",
+  "AllowMessage",
+  "WarnMessage",
+  "Enabled",
+  "IgnoreLocal",
+  "BlockFileExtension",
+  "Action",
+  "DataSource",
+  "Key",
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
+]
