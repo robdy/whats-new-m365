@@ -1,11 +1,11 @@
 [
+  "Pattern",
+  "Identity",
   "Description",
   "Enabled",
   "Force",
-  "Identity",
   "InMemory",
   "Name",
-  "Pattern",
   "Verbose",
   "Debug",
   "ErrorAction",

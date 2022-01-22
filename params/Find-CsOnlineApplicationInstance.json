@@ -1,9 +1,9 @@
 [
-  "AssociatedOnly",
+  "SearchQuery",
   "ExactMatchOnly",
   "Force",
   "MaxResults",
-  "SearchQuery",
+  "AssociatedOnly",
   "UnAssociatedOnly",
   "Verbose",
   "Debug",

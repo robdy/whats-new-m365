@@ -1,9 +1,9 @@
 [
   "CallFlowId",
-  "Disable",
-  "Force",
   "ScheduleId",
   "Type",
+  "Disable",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

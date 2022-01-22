@@ -1,4 +1,5 @@
 [
+  "Identity",
   "Description",
   "EnableAcsFederationAccess",
   "EnableFederationAccess",
@@ -9,7 +10,6 @@
   "EnableTeamsConsumerInbound",
   "EnableXmppAccess",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

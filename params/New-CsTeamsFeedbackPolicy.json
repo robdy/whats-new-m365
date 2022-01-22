@@ -1,9 +1,9 @@
 [
+  "Identity",
   "AllowEmailCollection",
   "AllowLogCollection",
   "AllowScreenshotCollection",
   "Force",
-  "Identity",
   "InMemory",
   "ReceiveSurveysMode",
   "UserInitiatedMode",

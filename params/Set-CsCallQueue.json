@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AgentAlertTime",
   "AllowOptOut",
   "ChannelId",
@@ -8,7 +9,6 @@
   "EnableOverflowSharedVoicemailTranscription",
   "EnableTimeoutSharedVoicemailTranscription",
   "Force",
-  "Identity",
   "LanguageId",
   "LineUri",
   "MusicOnHoldAudioFileId",

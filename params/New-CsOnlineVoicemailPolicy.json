@@ -1,10 +1,10 @@
 [
+  "Identity",
   "EnableEditingCallAnswerRulesSetting",
   "EnableTranscription",
   "EnableTranscriptionProfanityMasking",
   "EnableTranscriptionTranslation",
   "Force",
-  "Identity",
   "InMemory",
   "MaximumRecordingLength",
   "PrimarySystemPromptLanguage",

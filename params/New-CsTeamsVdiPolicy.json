@@ -1,8 +1,8 @@
 [
+  "Identity",
   "DisableAudioVideoInCallsAndMeetings",
   "DisableCallsAndMeetings",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

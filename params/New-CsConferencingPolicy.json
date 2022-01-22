@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AllowAnnotations",
   "AllowAnonymousParticipantsInMeetings",
   "AllowAnonymousUsersToDialOut",
@@ -36,7 +37,6 @@
   "EnableReliableConferenceDeletion",
   "FileTransferBitRateKb",
   "Force",
-  "Identity",
   "InMemory",
   "MaxMeetingSize",
   "MaxVideoConferenceResolution",

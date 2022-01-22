@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AllowAnonymousUsersToDialOut",
   "AllowAnonymousUsersToJoinMeeting",
   "AllowAnonymousUsersToStartMeeting",
@@ -39,7 +40,6 @@
   "DesignatedPresenterRoleMode",
   "EnrollUserOverride",
   "Force",
-  "Identity",
   "InMemory",
   "IPAudioMode",
   "IPVideoMode",

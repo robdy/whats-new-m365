@@ -1,9 +1,9 @@
 [
-  "AdditionalParameters",
   "Identity",
+  "PolicyType",
+  "AdditionalParameters",
   "PassThru",
   "PolicyName",
-  "PolicyType",
   "Verbose",
   "Debug",
   "ErrorAction",

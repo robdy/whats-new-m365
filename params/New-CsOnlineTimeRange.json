@@ -1,7 +1,7 @@
 [
   "End",
-  "Force",
   "Start",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

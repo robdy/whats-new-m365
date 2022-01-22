@@ -1,6 +1,6 @@
 [
-  "FQDN",
   "PhoneNumber",
+  "FQDN",
   "Verbose",
   "Debug",
   "ErrorAction",

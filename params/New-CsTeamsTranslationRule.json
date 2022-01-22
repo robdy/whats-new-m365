@@ -1,11 +1,11 @@
 [
+  "Identity",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
-  "Name",
   "Pattern",
   "Translation",
+  "Name",
   "Verbose",
   "Debug",
   "ErrorAction",

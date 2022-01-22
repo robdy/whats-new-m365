@@ -1,7 +1,7 @@
 [
-  "Filter",
   "Identity",
   "LocalStore",
+  "Filter",
   "Verbose",
   "Debug",
   "ErrorAction",

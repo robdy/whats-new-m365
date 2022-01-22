@@ -1,4 +1,5 @@
 [
+  "PortInOrderId",
   "BillingTelephoneNumber",
   "EmailAddresses",
   "Force",
@@ -9,7 +10,6 @@
   "LOAContentType",
   "LosingTelcoAccountId",
   "LosingTelcoPin",
-  "PortInOrderId",
   "RequestedFocDate",
   "SubscriberAddressLine1",
   "SubscriberAddressLine2",

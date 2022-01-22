@@ -1,9 +1,9 @@
 [
+  "InventoryType",
   "BillingTelephoneNumber",
   "EmailAddresses",
   "Force",
   "FriendlyName",
-  "InventoryType",
   "IsManual",
   "IsPartialPort",
   "LOAAuthorizingPerson",

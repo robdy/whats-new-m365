@@ -1,7 +1,7 @@
 [
+  "Identity",
   "BranchApplianceFqdns",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

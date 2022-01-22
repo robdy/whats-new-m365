@@ -1,9 +1,9 @@
 [
+  "Identity",
   "AllowPstnOnlyMeetings",
   "AllowTollFreeDialIn",
   "ConferenceId",
   "Force",
-  "Identity",
   "ReplaceProvider",
   "SendEmail",
   "SendEmailFromAddress",

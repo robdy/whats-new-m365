@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AllowFluidCollaborate",
   "AllowFullChatPermissionUserToDeleteAnyMessage",
   "AllowGiphy",
@@ -25,7 +26,6 @@
   "Description",
   "Force",
   "GiphyRatingType",
-  "Identity",
   "InMemory",
   "ReadReceiptsEnabledType",
   "Verbose",

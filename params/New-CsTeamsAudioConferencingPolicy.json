@@ -1,7 +1,7 @@
 [
+  "Identity",
   "AllowTollFreeDialin",
   "Force",
-  "Identity",
   "InMemory",
   "MeetingInvitePhoneNumbers",
   "Verbose",

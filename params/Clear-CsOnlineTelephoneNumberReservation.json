@@ -1,7 +1,7 @@
 [
-  "Force",
   "InventoryType",
   "ReservationId",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

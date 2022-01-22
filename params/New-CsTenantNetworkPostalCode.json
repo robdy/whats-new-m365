@@ -1,8 +1,8 @@
 [
   "CountryCode",
+  "Identity",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "NetworkSiteID",
   "PostalCode",

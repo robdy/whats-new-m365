@@ -1,10 +1,10 @@
 [
+  "Identity",
   "AccessGracePeriodMinutes",
   "AccessType",
   "EnableScheduleOwnerPermissions",
   "EnableShiftPresence",
   "Force",
-  "Identity",
   "InMemory",
   "ShiftNoticeFrequency",
   "ShiftNoticeMessageCustom",

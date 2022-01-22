@@ -1,11 +1,11 @@
 [
+  "Identity",
   "BlockIncomingPstnCallerID",
   "CallingIDSubstitute",
   "CompanyName",
   "Description",
   "EnableUserOverride",
   "Force",
-  "Identity",
   "InMemory",
   "ResourceAccount",
   "ServiceNumber",

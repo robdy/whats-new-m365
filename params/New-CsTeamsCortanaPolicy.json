@@ -1,11 +1,11 @@
 [
+  "Identity",
   "AllowCortanaAmbientListening",
   "AllowCortanaInContextSuggestions",
   "AllowCortanaVoiceInvocation",
   "CortanaVoiceInvocationMode",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

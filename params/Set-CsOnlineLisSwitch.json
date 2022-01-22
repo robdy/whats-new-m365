@@ -1,9 +1,9 @@
 [
   "ChassisID",
+  "LocationId",
   "Description",
   "Force",
   "IsDebug",
-  "LocationId",
   "NCSApiUrl",
   "TargetStore",
   "Verbose",

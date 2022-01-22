@@ -1,11 +1,11 @@
 [
+  "Identity",
   "AllowBroadcastScheduling",
   "AllowBroadcastTranscription",
   "BroadcastAttendeeVisibilityMode",
   "BroadcastRecordingMode",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

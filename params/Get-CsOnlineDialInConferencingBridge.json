@@ -1,8 +1,8 @@
 [
   "Force",
+  "TenantDomain",
   "Identity",
   "Name",
-  "TenantDomain",
   "Verbose",
   "Debug",
   "ErrorAction",

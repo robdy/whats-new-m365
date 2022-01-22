@@ -1,10 +1,10 @@
 [
+  "Identity",
   "AllowManagedUpdates",
   "AllowPreview",
   "AllowPublicPreview",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "UpdateDayOfWeek",
   "UpdateTime",

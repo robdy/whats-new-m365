@@ -1,11 +1,11 @@
 [
   "ChassisID",
+  "LocationId",
+  "PortID",
   "Description",
   "Force",
   "IsDebug",
-  "LocationId",
   "NCSApiUrl",
-  "PortID",
   "TargetStore",
   "Verbose",
   "Debug",

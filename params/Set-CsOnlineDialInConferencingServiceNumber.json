@@ -1,11 +1,11 @@
 [
+  "Identity",
   "BotType",
   "Force",
-  "Identity",
-  "Instance",
   "PrimaryLanguage",
   "RestoreDefaultLanguages",
   "SecondaryLanguages",
+  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

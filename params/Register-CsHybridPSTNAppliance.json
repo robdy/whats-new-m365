@@ -1,10 +1,10 @@
 [
-  "Force",
-  "InMemory",
   "MediationServerFqdn",
   "MediationServerIPAddress",
   "Name",
   "SiteName",
+  "Force",
+  "InMemory",
   "Verbose",
   "Debug",
   "ErrorAction",

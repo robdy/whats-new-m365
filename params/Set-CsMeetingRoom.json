@@ -1,11 +1,11 @@
 [
+  "Identity",
   "AcpInfo",
   "AudioVideoDisabled",
   "Enabled",
   "EnterpriseVoiceEnabled",
   "ExchangeArchivingPolicy",
   "HostedVoiceMail",
-  "Identity",
   "LineServerURI",
   "LineURI",
   "PassThru",

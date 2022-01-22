@@ -1,10 +1,10 @@
 [
+  "CompanyName",
+  "CountryOrRegion",
   "City",
   "CityAlias",
-  "CompanyName",
   "CompanyTaxId",
   "Confidence",
-  "CountryOrRegion",
   "Description",
   "Elin",
   "Force",

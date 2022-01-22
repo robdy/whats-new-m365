@@ -1,9 +1,9 @@
 [
+  "Name",
   "DirectorySearchMethod",
   "EnableDialByName",
   "Force",
   "MenuOptions",
-  "Name",
   "Prompts",
   "Verbose",
   "Debug",

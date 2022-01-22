@@ -1,11 +1,11 @@
 [
+  "Uri",
   "Audience",
   "Force",
   "IsInternalRun",
   "PhoneNumber",
   "Ring",
   "RunFullProvisioningFlow",
-  "Uri",
   "Verbose",
   "Debug",
   "ErrorAction",

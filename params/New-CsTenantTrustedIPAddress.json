@@ -1,10 +1,10 @@
 [
+  "Identity",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
-  "IPAddress",
   "MaskBits",
+  "IPAddress",
   "Verbose",
   "Debug",
   "ErrorAction",

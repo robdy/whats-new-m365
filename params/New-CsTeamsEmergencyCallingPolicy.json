@@ -1,9 +1,9 @@
 [
+  "Identity",
   "Description",
   "EnhancedEmergencyServiceDisclaimer",
   "ExternalLocationLookupMode",
   "Force",
-  "Identity",
   "InMemory",
   "NotificationDialOutNumber",
   "NotificationGroup",

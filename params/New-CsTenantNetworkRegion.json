@@ -1,9 +1,9 @@
 [
+  "Identity",
   "BypassID",
   "CentralSite",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "NetworkRegionID",
   "Verbose",

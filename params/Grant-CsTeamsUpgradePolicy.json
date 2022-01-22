@@ -1,9 +1,9 @@
 [
-  "Global",
   "Identity",
   "MigrateMeetingsToTeams",
   "PassThru",
   "PolicyName",
+  "Global",
   "Verbose",
   "Debug",
   "ErrorAction",

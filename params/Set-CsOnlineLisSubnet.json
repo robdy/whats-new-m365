@@ -1,10 +1,10 @@
 [
+  "LocationId",
+  "Subnet",
   "Description",
   "Force",
   "IsDebug",
-  "LocationId",
   "NCSApiUrl",
-  "Subnet",
   "TargetStore",
   "Verbose",
   "Debug",

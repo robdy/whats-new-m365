@@ -1,11 +1,11 @@
 [
+  "Identity",
   "BitsUpdateTimeWindow",
   "EdgeFQDN",
   "EnableAutoUpdate",
   "Force",
-  "Identity",
-  "Instance",
   "OsUpdateTimeWindow",
+  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

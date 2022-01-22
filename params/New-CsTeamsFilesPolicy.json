@@ -1,6 +1,6 @@
 [
-  "Force",
   "Identity",
+  "Force",
   "InMemory",
   "NativeFileEntryPoints",
   "SPChannelFilesTab",

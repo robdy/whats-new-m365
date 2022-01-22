@@ -1,7 +1,7 @@
 [
+  "CivicAddressId",
   "City",
   "CityAlias",
-  "CivicAddressId",
   "CompanyName",
   "CompanyTaxId",
   "Confidence",

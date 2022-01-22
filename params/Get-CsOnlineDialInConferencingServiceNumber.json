@@ -1,11 +1,11 @@
 [
-  "BridgeId",
   "BridgeName",
   "City",
   "Force",
-  "Identity",
   "ResultSize",
+  "BridgeId",
   "TenantDomain",
+  "Identity",
   "Verbose",
   "Debug",
   "ErrorAction",

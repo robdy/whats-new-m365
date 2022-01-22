@@ -1,7 +1,7 @@
 [
-  "Filter",
   "Identity",
   "LocalStore",
+  "Filter",
   "Name",
   "SiteName",
   "Verbose",

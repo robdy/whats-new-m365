@@ -1,10 +1,10 @@
 [
   "Area",
-  "CapitalOrMajorCity",
   "CountryOrRegion",
-  "Force",
   "InventoryType",
   "RegionalGroup",
+  "CapitalOrMajorCity",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

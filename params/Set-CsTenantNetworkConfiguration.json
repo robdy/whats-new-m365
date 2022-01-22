@@ -1,11 +1,11 @@
 [
   "Force",
   "Identity",
-  "Instance",
   "NetworkRegions",
   "NetworkSites",
   "PostalCodes",
   "Subnets",
+  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

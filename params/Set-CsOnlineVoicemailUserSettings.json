@@ -1,9 +1,9 @@
 [
+  "Identity",
   "CallAnswerRule",
   "DefaultGreetingPromptOverwrite",
   "DefaultOofGreetingPromptOverwrite",
   "Force",
-  "Identity",
   "OofGreetingEnabled",
   "OofGreetingFollowAutomaticRepliesEnabled",
   "OofGreetingFollowCalendarEnabled",

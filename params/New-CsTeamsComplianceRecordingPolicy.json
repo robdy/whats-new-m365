@@ -1,10 +1,10 @@
 [
+  "Identity",
   "ComplianceRecordingApplications",
   "Description",
   "DisableComplianceRecordingAudioNotificationForCalls",
   "Enabled",
   "Force",
-  "Identity",
   "InMemory",
   "WarnUserOnRemoval",
   "Verbose",

@@ -1,10 +1,10 @@
 [
+  "Identity",
   "AllowPresenceVisibility",
   "AllowTitleVisibility",
   "EnableFileTransfer",
   "EnableP2PFileTransfer",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AllowCalling",
   "AllowCallingPinned",
   "AllowMeeting",
@@ -7,7 +8,6 @@
   "AllowMessagingPinned",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

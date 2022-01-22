@@ -1,9 +1,9 @@
 [
   "ChassisID",
+  "PortID",
   "Force",
   "IsDebug",
   "NCSApiUrl",
-  "PortID",
   "TargetStore",
   "Verbose",
   "Debug",

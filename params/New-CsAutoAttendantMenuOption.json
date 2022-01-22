@@ -1,7 +1,7 @@
 [
   "Action",
-  "CallTarget",
   "DtmfResponse",
+  "CallTarget",
   "Force",
   "Prompt",
   "VoiceResponses",

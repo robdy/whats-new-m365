@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AllowChannelSharingToExternalUser",
   "AllowOrgWideTeamCreation",
   "AllowPrivateChannelCreation",
@@ -7,7 +8,6 @@
   "AllowUserToParticipateInExternalSharedChannel",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
   "Verbose",
   "Debug",

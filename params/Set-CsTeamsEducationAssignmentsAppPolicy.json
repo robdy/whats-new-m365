@@ -1,12 +1,12 @@
 [
   "Force",
   "Identity",
-  "Instance",
   "MakeCodeEnabledType",
   "ParentDigestEnabledType",
   "TurnItInApiKey",
   "TurnItInApiUrl",
   "TurnItInEnabledType",
+  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,9 +1,9 @@
 [
   "Force",
   "Identity",
-  "Instance",
   "NativeFileEntryPoints",
   "SPChannelFilesTab",
+  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

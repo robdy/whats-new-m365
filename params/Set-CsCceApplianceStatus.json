@@ -1,11 +1,11 @@
 [
+  "Identity",
   "ConfigurationSnapshot",
   "Error",
   "Force",
-  "Identity",
-  "Instance",
   "Status",
   "Version",
+  "Instance",
   "Verbose",
   "Debug",
   "ErrorAction",

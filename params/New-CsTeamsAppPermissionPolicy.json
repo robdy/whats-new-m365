@@ -1,11 +1,11 @@
 [
+  "Identity",
   "DefaultCatalogApps",
   "DefaultCatalogAppsType",
   "Description",
   "Force",
   "GlobalCatalogApps",
   "GlobalCatalogAppsType",
-  "Identity",
   "InMemory",
   "PrivateCatalogApps",
   "PrivateCatalogAppsType",

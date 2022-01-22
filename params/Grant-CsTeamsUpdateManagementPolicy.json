@@ -1,8 +1,8 @@
 [
-  "Global",
   "Identity",
   "PassThru",
   "PolicyName",
+  "Global",
   "Verbose",
   "Debug",
   "ErrorAction",

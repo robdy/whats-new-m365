@@ -1,11 +1,11 @@
 [
+  "Identity",
   "AllowBetterTogether",
   "AllowHomeScreen",
   "AllowHotDesking",
   "Description",
   "Force",
   "HotDeskingIdleTimeoutInMinutes",
-  "Identity",
   "InMemory",
   "SearchOnCommonAreaPhoneMode",
   "SignInMode",

@@ -1,9 +1,9 @@
 [
+  "SearchQuery",
   "ExactMatchOnly",
   "Force",
   "MailEnabledOnly",
   "MaxResults",
-  "SearchQuery",
   "Verbose",
   "Debug",
   "ErrorAction",

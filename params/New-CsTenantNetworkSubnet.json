@@ -1,9 +1,9 @@
 [
+  "MaskBits",
+  "Identity",
   "Description",
   "Force",
-  "Identity",
   "InMemory",
-  "MaskBits",
   "NetworkSiteID",
   "SubnetID",
   "Verbose",

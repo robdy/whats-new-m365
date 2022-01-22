@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AddressBookAvailability",
   "AttendantSafeTransfer",
   "AutoDiscoveryRetryInterval",
@@ -63,7 +64,6 @@
   "Force",
   "HelpEnvironment",
   "HotdeskingTimeout",
-  "Identity",
   "IMLatencyErrorThreshold",
   "IMLatencySpinnerDelay",
   "IMWarning",

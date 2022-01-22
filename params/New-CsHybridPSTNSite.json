@@ -1,9 +1,9 @@
 [
-  "BitsUpdateTimeWindow",
   "EdgeFQDN",
+  "Identity",
+  "BitsUpdateTimeWindow",
   "EnableAutoUpdate",
   "Force",
-  "Identity",
   "InMemory",
   "OsUpdateTimeWindow",
   "Verbose",
