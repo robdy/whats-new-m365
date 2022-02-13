@@ -4,6 +4,174 @@
     "Cmdlet": "Get-CsApplicationMeetingConfiguration",
     "Param": "Element",
     "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "TypedIdentity",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "Identity",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "Anchor",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "ScopeClass",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "Key",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "DataSource",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "AllowRemoveParticipantAppIds",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "XsAnyAttributes",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "XsAnyElements",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:45"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Element",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "TypedIdentity",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Identity",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Anchor",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "ScopeClass",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Key",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "DataSource",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Description",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "AppIds",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "XsAnyElements",
+    "Module": "3.1.1",
+    "Event": "Add",
+    "Timestamp": "2022-02-13 02:25:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "Element",
+    "Module": "3.1.1",
     "Event": "Remove",
     "Timestamp": "2022-02-12 02:36:47"
   },
