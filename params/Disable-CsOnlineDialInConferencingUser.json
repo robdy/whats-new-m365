@@ -6,6 +6,7 @@
   "SendEmailFromDisplayName",
   "SendEmailToAddress",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

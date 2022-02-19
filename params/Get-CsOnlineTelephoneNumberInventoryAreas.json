@@ -4,6 +4,7 @@
   "RegionalGroup",
   "Area",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

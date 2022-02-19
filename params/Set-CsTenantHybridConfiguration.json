@@ -5,6 +5,7 @@
   "Identity",
   "PeerDestination",
   "UseOnPremDialPlan",
+  "MsftInternalProcessingMode",
   "Instance",
   "Verbose",
   "Debug",

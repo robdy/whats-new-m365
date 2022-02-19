@@ -1,7 +1,6 @@
 [
   "Identity",
-  "Force",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

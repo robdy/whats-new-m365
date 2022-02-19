@@ -1,6 +1,7 @@
 [
   "Details",
   "State",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

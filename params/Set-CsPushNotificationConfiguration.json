@@ -1,9 +1,8 @@
 [
   "EnableApplePushNotificationService",
   "EnableMicrosoftPushNotificationService",
-  "Force",
   "Identity",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

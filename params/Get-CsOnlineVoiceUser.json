@@ -13,6 +13,7 @@
   "PSTNConnectivity",
   "SearchQuery",
   "Skip",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

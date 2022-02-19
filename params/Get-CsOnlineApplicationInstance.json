@@ -4,6 +4,7 @@
   "Identity",
   "ResultSize",
   "Skip",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,10 +1,9 @@
 [
   "Description",
-  "Force",
   "Identity",
   "MaskBits",
   "NetworkSiteID",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

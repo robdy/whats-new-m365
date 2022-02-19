@@ -3,6 +3,7 @@
   "ApplicationId",
   "DisplayName",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

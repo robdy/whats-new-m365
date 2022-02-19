@@ -1,9 +1,8 @@
 [
   "DownloadTeams",
-  "Force",
   "Identity",
   "SfBMeetingJoinUx",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

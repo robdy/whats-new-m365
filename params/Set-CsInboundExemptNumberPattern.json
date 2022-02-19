@@ -1,10 +1,9 @@
 [
   "Description",
   "Enabled",
-  "Force",
   "Identity",
   "Pattern",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

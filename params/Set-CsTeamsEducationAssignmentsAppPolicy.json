@@ -1,12 +1,11 @@
 [
-  "Force",
   "Identity",
   "MakeCodeEnabledType",
   "ParentDigestEnabledType",
   "TurnItInApiKey",
   "TurnItInApiUrl",
   "TurnItInEnabledType",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,6 +1,7 @@
 [
   "Force",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "Identity",
   "Name",
   "Verbose",

@@ -9,6 +9,7 @@
   "NameFilter",
   "Skip",
   "Sort",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "EmergencyDialMask",
   "EmergencyDialString",
   "OnlinePSTNUsage",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

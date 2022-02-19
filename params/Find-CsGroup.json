@@ -4,6 +4,7 @@
   "Force",
   "MailEnabledOnly",
   "MaxResults",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -8,6 +8,7 @@
   "SipAddress",
   "SipAddressType",
   "SipDomain",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

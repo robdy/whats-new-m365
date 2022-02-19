@@ -4,6 +4,7 @@
   "NCSApiUrl",
   "Subnet",
   "TargetStore",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

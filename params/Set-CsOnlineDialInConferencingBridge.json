@@ -4,6 +4,7 @@
   "Force",
   "SetDefault",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "Instance",
   "Name",
   "Verbose",

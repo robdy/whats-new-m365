@@ -20,6 +20,7 @@
   "StateOrProvince",
   "StreetName",
   "StreetSuffix",
+  "MsftInternalProcessingMode",
   "LocationId",
   "Location",
   "Verbose",

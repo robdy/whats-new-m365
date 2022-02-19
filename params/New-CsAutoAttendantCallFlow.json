@@ -3,6 +3,7 @@
   "Name",
   "Force",
   "Greetings",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

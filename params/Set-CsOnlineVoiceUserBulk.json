@@ -1,6 +1,7 @@
 [
   "Force",
   "NumberAssignmentDetails",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

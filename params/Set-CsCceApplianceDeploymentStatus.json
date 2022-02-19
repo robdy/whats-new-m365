@@ -5,6 +5,7 @@
   "Error",
   "Force",
   "Version",
+  "MsftInternalProcessingMode",
   "Instance",
   "Verbose",
   "Debug",

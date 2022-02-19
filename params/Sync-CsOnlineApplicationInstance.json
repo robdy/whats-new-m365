@@ -2,6 +2,8 @@
   "ObjectId",
   "CallbackUri",
   "Force",
+  "ApplicationId",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

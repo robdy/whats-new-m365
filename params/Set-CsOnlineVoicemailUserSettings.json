@@ -11,6 +11,7 @@
   "ShareData",
   "TransferTarget",
   "VoicemailEnabled",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

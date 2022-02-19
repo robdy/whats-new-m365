@@ -12,6 +12,7 @@
   "ServiceNumber",
   "TenantDomain",
   "TollFreeServiceNumber",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

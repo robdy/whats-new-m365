@@ -1,6 +1,7 @@
 [
   "Name",
   "Force",
+  "MsftInternalProcessingMode",
   "WeeklyRecurrentSchedule",
   "Complement",
   "FridayHours",

@@ -1,10 +1,9 @@
 [
   "CountryCode",
   "Description",
-  "Force",
   "Identity",
   "NetworkSiteID",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

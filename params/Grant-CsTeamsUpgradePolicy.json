@@ -3,6 +3,7 @@
   "MigrateMeetingsToTeams",
   "PassThru",
   "PolicyName",
+  "MsftInternalProcessingMode",
   "Global",
   "Verbose",
   "Debug",

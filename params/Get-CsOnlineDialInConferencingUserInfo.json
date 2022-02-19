@@ -6,6 +6,7 @@
   "Select",
   "Skip",
   "SortDescending",
+  "MsftInternalProcessingMode",
   "Identity",
   "Verbose",
   "Debug",

@@ -1,6 +1,7 @@
 [
   "DataLocation",
   "Identity",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

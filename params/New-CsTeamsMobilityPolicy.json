@@ -1,11 +1,10 @@
 [
   "Identity",
   "Description",
-  "Force",
-  "InMemory",
   "IPAudioMobileMode",
   "IPVideoMobileMode",
   "MobileDialerPreference",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

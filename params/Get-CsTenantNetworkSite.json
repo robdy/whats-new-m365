@@ -2,7 +2,7 @@
   "ExpandPostalCodes",
   "ExpandSubnets",
   "Identity",
-  "LocalStore",
+  "MsftInternalProcessingMode",
   "Filter",
   "Verbose",
   "Debug",

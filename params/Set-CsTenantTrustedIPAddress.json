@@ -1,9 +1,8 @@
 [
   "Description",
-  "Force",
   "Identity",
   "MaskBits",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

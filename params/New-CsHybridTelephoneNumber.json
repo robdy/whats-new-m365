@@ -1,6 +1,7 @@
 [
   "TelephoneNumber",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

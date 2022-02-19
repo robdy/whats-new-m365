@@ -1,10 +1,9 @@
 [
   "Identity",
   "Description",
-  "Force",
-  "InMemory",
   "Pattern",
   "Translation",
+  "MsftInternalProcessingMode",
   "Name",
   "Verbose",
   "Debug",

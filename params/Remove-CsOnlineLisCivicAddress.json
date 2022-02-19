@@ -1,6 +1,7 @@
 [
   "CivicAddressId",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "Force",
   "TelephoneNumberRanges",
   "TelephoneNumbers",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

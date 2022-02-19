@@ -3,6 +3,7 @@
   "RegionalGroup",
   "CountryOrRegion",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

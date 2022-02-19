@@ -38,6 +38,7 @@
   "SubscriberZipCode",
   "TelephoneNumberRanges",
   "TelephoneNumbers",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

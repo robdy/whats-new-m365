@@ -4,6 +4,7 @@
   "BridgeName",
   "Force",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "Instance",
   "Verbose",
   "Debug",

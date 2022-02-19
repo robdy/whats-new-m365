@@ -1,11 +1,10 @@
 [
   "Enabled",
-  "Force",
   "Identity",
   "InboundBlockedNumberPatterns",
   "InboundExemptNumberPatterns",
   "Name",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

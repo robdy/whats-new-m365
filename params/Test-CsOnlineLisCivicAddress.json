@@ -1,6 +1,7 @@
 [
   "CivicAddressId",
   "Force",
+  "MsftInternalProcessingMode",
   "CompanyName",
   "CountryOrRegion",
   "City",

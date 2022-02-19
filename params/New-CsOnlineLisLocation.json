@@ -10,6 +10,7 @@
   "HouseNumberSuffix",
   "Latitude",
   "Longitude",
+  "MsftInternalProcessingMode",
   "CountryOrRegion",
   "City",
   "Description",

@@ -23,6 +23,7 @@
   "SubscriberLastName",
   "SubscriberStreetName",
   "SubscriberZipCode",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

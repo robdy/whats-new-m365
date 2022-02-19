@@ -1,11 +1,10 @@
 [
   "AadApplicationIds",
   "AllowAppGuestJoinsAsAuthenticated",
-  "Force",
   "Identity",
   "InstructionUri",
   "TenantKey",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

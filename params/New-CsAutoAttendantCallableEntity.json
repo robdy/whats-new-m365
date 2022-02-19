@@ -4,6 +4,7 @@
   "EnableSharedVoicemailSystemPromptSuppression",
   "EnableTranscription",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "Start",
   "End",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

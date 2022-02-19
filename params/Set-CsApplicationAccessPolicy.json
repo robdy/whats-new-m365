@@ -1,9 +1,8 @@
 [
   "AppIds",
   "Description",
-  "Force",
   "Identity",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

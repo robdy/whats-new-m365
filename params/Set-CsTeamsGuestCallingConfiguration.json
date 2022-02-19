@@ -1,8 +1,7 @@
 [
   "AllowPrivateCalling",
-  "Force",
   "Identity",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

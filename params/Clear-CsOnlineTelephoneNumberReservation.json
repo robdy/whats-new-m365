@@ -2,6 +2,7 @@
   "InventoryType",
   "ReservationId",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

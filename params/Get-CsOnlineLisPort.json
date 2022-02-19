@@ -5,6 +5,7 @@
   "NCSApiUrl",
   "PortID",
   "TargetStore",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,9 +1,8 @@
 [
   "AllowTollFreeDialin",
-  "Force",
   "Identity",
   "MeetingInvitePhoneNumbers",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

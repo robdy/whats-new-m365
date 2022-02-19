@@ -1,6 +1,7 @@
 [
   "Force",
   "PortInOrderId",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

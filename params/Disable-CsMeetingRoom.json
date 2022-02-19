@@ -1,6 +1,7 @@
 [
   "Identity",
   "PassThru",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

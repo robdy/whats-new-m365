@@ -1,10 +1,9 @@
 [
   "Description",
-  "Force",
   "Identity",
   "OnlinePstnUsages",
   "RouteType",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

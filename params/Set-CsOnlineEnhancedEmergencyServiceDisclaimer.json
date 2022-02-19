@@ -3,6 +3,7 @@
   "Force",
   "ForceAccept",
   "Version",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

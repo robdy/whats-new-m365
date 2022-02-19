@@ -1,8 +1,7 @@
 [
   "Identity",
-  "Force",
-  "InMemory",
   "Priority",
+  "MsftInternalProcessingMode",
   "Id",
   "Parent",
   "Verbose",

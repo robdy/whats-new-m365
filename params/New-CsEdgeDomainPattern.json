@@ -1,5 +1,6 @@
 [
   "Domain",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

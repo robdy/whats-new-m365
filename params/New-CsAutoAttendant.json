@@ -12,6 +12,7 @@
   "InclusionScope",
   "Operator",
   "VoiceId",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

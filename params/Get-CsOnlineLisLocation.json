@@ -9,6 +9,7 @@
   "PopulateNumberOfVoiceUsers",
   "ResultSize",
   "ValidationStatus",
+  "MsftInternalProcessingMode",
   "CivicAddressId",
   "Location",
   "LocationId",

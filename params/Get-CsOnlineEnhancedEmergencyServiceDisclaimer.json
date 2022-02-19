@@ -2,6 +2,7 @@
   "CountryOrRegion",
   "Force",
   "Version",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

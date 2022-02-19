@@ -1,6 +1,5 @@
 [
   "AllowSdnProviderForBroadcastMeeting",
-  "Force",
   "Identity",
   "SdnApiTemplateUrl",
   "SdnApiToken",
@@ -8,7 +7,7 @@
   "SdnProviderName",
   "SdnRuntimeConfiguration",
   "SupportURL",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

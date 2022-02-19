@@ -1,10 +1,9 @@
 [
   "CentralSite",
   "Description",
-  "Force",
   "Identity",
   "NetworkRegionID",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

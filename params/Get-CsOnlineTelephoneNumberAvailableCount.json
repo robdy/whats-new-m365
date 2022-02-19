@@ -1,6 +1,7 @@
 [
   "Force",
   "InventoryType",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

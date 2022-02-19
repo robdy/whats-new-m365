@@ -1,8 +1,7 @@
 [
-  "Force",
   "Identity",
   "MeetingMigrationEnabled",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -12,6 +12,7 @@
   "PrivateLine",
   "RemoteCallControlTelephonyEnabled",
   "SipAddress",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

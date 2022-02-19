@@ -6,6 +6,7 @@
   "PhoneNumber",
   "Ring",
   "RunFullProvisioningFlow",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

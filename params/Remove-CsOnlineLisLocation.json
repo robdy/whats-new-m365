@@ -1,6 +1,7 @@
 [
   "LocationId",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

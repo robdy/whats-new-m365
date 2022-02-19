@@ -14,6 +14,7 @@
   "SendEmailToAddress",
   "ServiceNumber",
   "TollFreeServiceNumber",
+  "MsftInternalProcessingMode",
   "TenantDomain",
   "Verbose",
   "Debug",

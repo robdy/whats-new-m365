@@ -5,6 +5,7 @@
   "IsDebug",
   "NCSApiUrl",
   "TargetStore",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

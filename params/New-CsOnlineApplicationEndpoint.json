@@ -10,6 +10,7 @@
   "Region",
   "Ring",
   "RunFullProvisioningFlow",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

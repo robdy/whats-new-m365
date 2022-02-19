@@ -2,6 +2,7 @@
   "Identity",
   "Force",
   "PassThru",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "InventoryType",
   "Force",
   "RegionalGroup",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

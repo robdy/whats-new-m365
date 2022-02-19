@@ -9,6 +9,7 @@
   "SkipUserPolicies",
   "UnassignedUser",
   "UsePreferredDC",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

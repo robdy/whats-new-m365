@@ -4,6 +4,7 @@
   "DisplayName",
   "Force",
   "OnpremPhoneNumber",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

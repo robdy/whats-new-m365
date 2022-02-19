@@ -9,6 +9,7 @@
   "Identity",
   "Realm",
   "ServiceName",
+  "MsftInternalProcessingMode",
   "Instance",
   "Verbose",
   "Debug",

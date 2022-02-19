@@ -3,6 +3,7 @@
   "Force",
   "Identity",
   "TenantScopeOnly",
+  "MsftInternalProcessingMode",
   "EffectiveTenantDialPlanName",
   "Verbose",
   "Debug",

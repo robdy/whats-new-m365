@@ -3,6 +3,7 @@
   "Force",
   "LocationID",
   "TelephoneNumber",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,9 +1,8 @@
 [
   "Description",
-  "Force",
   "Identity",
   "Site",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

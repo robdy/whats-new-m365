@@ -8,6 +8,7 @@
   "AreaCode",
   "Force",
   "TelephoneNumber",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

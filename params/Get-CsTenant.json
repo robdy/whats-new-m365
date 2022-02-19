@@ -2,6 +2,7 @@
   "Filter",
   "Identity",
   "ResultSize",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

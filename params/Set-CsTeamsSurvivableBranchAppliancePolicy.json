@@ -1,8 +1,7 @@
 [
   "BranchApplianceFqdns",
-  "Force",
   "Identity",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

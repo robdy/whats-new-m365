@@ -2,6 +2,7 @@
   "Identity",
   "Input",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

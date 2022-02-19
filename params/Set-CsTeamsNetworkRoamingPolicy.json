@@ -1,10 +1,9 @@
 [
   "AllowIPVideo",
   "Description",
-  "Force",
   "Identity",
   "MediaBitRateKb",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

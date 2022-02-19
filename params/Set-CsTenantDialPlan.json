@@ -1,12 +1,11 @@
 [
   "Description",
   "ExternalAccessPrefix",
-  "Force",
   "Identity",
   "NormalizationRules",
   "OptimizeDeviceDialing",
   "SimpleName",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

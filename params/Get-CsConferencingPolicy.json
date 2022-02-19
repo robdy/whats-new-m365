@@ -3,6 +3,7 @@
   "Identity",
   "Include",
   "LocalStore",
+  "MsftInternalProcessingMode",
   "Filter",
   "Verbose",
   "Debug",

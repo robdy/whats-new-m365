@@ -1,7 +1,6 @@
 [
   "CalendarPollInterval",
   "EnforcePhoneLock",
-  "Force",
   "Identity",
   "LoggingLevel",
   "MinPhonePinLength",
@@ -9,7 +8,7 @@
   "SIPSecurityMode",
   "Voice8021p",
   "VoiceDiffServTag",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

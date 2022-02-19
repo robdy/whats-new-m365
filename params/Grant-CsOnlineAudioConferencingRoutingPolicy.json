@@ -2,6 +2,7 @@
   "Identity",
   "PassThru",
   "PolicyName",
+  "MsftInternalProcessingMode",
   "Global",
   "Verbose",
   "Debug",

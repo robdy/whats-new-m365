@@ -5,6 +5,7 @@
   "StartTime",
   "State",
   "SummaryOnly",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

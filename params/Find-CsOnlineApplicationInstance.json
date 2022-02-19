@@ -3,6 +3,7 @@
   "ExactMatchOnly",
   "Force",
   "MaxResults",
+  "MsftInternalProcessingMode",
   "AssociatedOnly",
   "UnAssociatedOnly",
   "Verbose",

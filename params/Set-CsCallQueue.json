@@ -29,6 +29,7 @@
   "UseDefaultMusicOnHold",
   "Users",
   "WelcomeMusicAudioFileId",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

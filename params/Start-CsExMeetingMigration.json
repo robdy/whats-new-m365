@@ -4,6 +4,7 @@
   "EnqueueSourceType",
   "SourceMeetingType",
   "TargetMeetingType",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

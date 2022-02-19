@@ -5,6 +5,7 @@
   "Force",
   "MenuOptions",
   "Prompts",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "Domain",
   "DomainStatus",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

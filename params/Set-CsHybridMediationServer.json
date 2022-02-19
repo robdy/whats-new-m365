@@ -2,6 +2,7 @@
   "AccessProxyExternalFqdn",
   "Fqdn",
   "Identity",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "Identity",
   "OU",
   "ResultSize",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

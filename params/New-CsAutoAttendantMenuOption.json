@@ -5,6 +5,7 @@
   "Force",
   "Prompt",
   "VoiceResponses",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

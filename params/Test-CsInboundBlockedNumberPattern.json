@@ -1,6 +1,7 @@
 [
   "PhoneNumber",
   "FQDN",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

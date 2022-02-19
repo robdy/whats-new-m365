@@ -1,8 +1,7 @@
 [
   "AllowRemoveParticipantAppIds",
-  "Force",
   "Identity",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

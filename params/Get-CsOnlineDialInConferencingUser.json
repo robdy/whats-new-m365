@@ -3,6 +3,7 @@
   "LdapFilter",
   "ResultSize",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "BridgeId",
   "BridgeName",
   "Identity",

@@ -13,6 +13,7 @@
   "TelephoneNumberGreaterThan",
   "TelephoneNumberLessThan",
   "TelephoneNumberStartsWith",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

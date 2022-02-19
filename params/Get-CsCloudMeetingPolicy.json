@@ -1,6 +1,6 @@
 [
   "Identity",
-  "LocalStore",
+  "MsftInternalProcessingMode",
   "Filter",
   "Verbose",
   "Debug",

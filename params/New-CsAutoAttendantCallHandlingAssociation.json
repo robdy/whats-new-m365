@@ -4,6 +4,7 @@
   "Type",
   "Disable",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

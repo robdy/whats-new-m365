@@ -5,6 +5,7 @@
   "Force",
   "RemoveDefaultServiceNumber",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "Instance",
   "Verbose",
   "Debug",

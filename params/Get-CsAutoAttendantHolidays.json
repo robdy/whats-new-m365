@@ -3,6 +3,7 @@
   "Force",
   "Names",
   "Years",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

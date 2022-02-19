@@ -5,6 +5,7 @@
   "Provider",
   "ResultSize",
   "TenantDomain",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

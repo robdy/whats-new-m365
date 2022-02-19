@@ -5,6 +5,7 @@
   "RegionalGroup",
   "CapitalOrMajorCity",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

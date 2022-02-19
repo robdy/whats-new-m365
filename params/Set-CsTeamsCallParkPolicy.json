@@ -1,12 +1,11 @@
 [
   "AllowCallPark",
   "Description",
-  "Force",
   "Identity",
   "ParkTimeoutSeconds",
   "PickupRangeEnd",
   "PickupRangeStart",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

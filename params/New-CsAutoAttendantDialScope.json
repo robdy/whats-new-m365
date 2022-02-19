@@ -2,6 +2,7 @@
   "GroupIds",
   "GroupScope",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -12,10 +12,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "ConvertTo-JsonForPSWS",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Disable-CsMeetingRoom",
     "CommandType": "Function"
   },
@@ -25,6 +21,10 @@
   },
   {
     "Name": "Disable-CsOnlineSipDomain",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Disable-CsTeamsShiftsConnectionErrorReport",
     "CommandType": "Function"
   },
   {
@@ -209,10 +209,6 @@
   },
   {
     "Name": "Get-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsNetworkConfiguration",
     "CommandType": "Function"
   },
   {
@@ -564,6 +560,38 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsTeamsShiftsConnectionConnector",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionErrorReport",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionOperation",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionSyncResult",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnectionWfmUser",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -605,10 +633,6 @@
   },
   {
     "Name": "Get-CsTeamsVdiPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsVerticalPackagePolicy",
     "CommandType": "Function"
   },
   {
@@ -696,6 +720,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsUserCallingSettings",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsUserLocationStatus",
     "CommandType": "Function"
   },
@@ -721,10 +749,6 @@
   },
   {
     "Name": "Get-CsVideoInteropServiceProvider",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsVoiceNormalizationRule",
     "CommandType": "Function"
   },
   {
@@ -900,10 +924,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsTeamsVerticalPackagePolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Grant-CsTeamsVideoInteropServicePolicy",
     "CommandType": "Function"
   },
@@ -1065,10 +1085,6 @@
   },
   {
     "Name": "New-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsNetworkMediaBypassConfiguration",
     "CommandType": "Function"
   },
   {
@@ -1240,6 +1256,18 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsTeamsShiftsConnectionBatchTeamMap",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -1265,10 +1293,6 @@
   },
   {
     "Name": "New-CsTeamsVdiPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsVerticalPackagePolicy",
     "CommandType": "Function"
   },
   {
@@ -1309,6 +1333,10 @@
   },
   {
     "Name": "New-CsTenantUpdateTimeWindow",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsUserCallingDelegate",
     "CommandType": "Function"
   },
   {
@@ -1568,7 +1596,19 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Remove-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Remove-CsTeamsShiftsPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Remove-CsTeamsShiftsScheduleRecord",
     "CommandType": "Function"
   },
   {
@@ -1600,10 +1640,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsVerticalPackagePolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsWorkLoadPolicy",
     "CommandType": "Function"
   },
@@ -1617,10 +1653,6 @@
   },
   {
     "Name": "Remove-CsTenantDialPlan",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTenantNetworkConfiguration",
     "CommandType": "Function"
   },
   {
@@ -1648,11 +1680,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsVideoInteropServiceProvider",
+    "Name": "Remove-CsUserCallingDelegate",
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsVoiceNormalizationRule",
+    "Name": "Remove-CsVideoInteropServiceProvider",
     "CommandType": "Function"
   },
   {
@@ -1761,10 +1793,6 @@
   },
   {
     "Name": "Set-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsNetworkConfiguration",
     "CommandType": "Function"
   },
   {
@@ -2032,6 +2060,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsTeamsShiftsPolicy",
     "CommandType": "Function"
   },
@@ -2072,10 +2104,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsVerticalPackagePolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsWorkLoadPolicy",
     "CommandType": "Function"
   },
@@ -2101,10 +2129,6 @@
   },
   {
     "Name": "Set-CsTenantMigrationConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTenantNetworkConfiguration",
     "CommandType": "Function"
   },
   {
@@ -2144,19 +2168,19 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsUserCallingDelegate",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Set-CsUserCallingSettings",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsUserPstnSettings",
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsUserServicesPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsVideoInteropServiceProvider",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsVoiceNormalizationRule",
     "CommandType": "Function"
   },
   {
@@ -2192,6 +2216,14 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Test-CsTeamsShiftsConnectionValidate",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Test-CsTeamsUnassignedNumberTreatment",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Test-CsVoiceNormalizationRule",
     "CommandType": "Function"
   },
@@ -2224,6 +2256,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Add-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2233,6 +2269,10 @@
   },
   {
     "Name": "Disconnect-MicrosoftTeams",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -2257,6 +2297,14 @@
   },
   {
     "Name": "Get-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
   {
@@ -2292,6 +2340,14 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2313,6 +2369,14 @@
   },
   {
     "Name": "Set-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]

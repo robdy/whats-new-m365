@@ -4,6 +4,7 @@
   "AdditionalParameters",
   "PassThru",
   "PolicyName",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

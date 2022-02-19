@@ -2,6 +2,7 @@
   "Identity",
   "AllowInternationalCalls",
   "HybridPSTNSite",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

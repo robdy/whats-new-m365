@@ -4,6 +4,7 @@
   "LdapFilter",
   "OU",
   "ResultSize",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

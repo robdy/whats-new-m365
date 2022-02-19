@@ -3,6 +3,7 @@
   "City",
   "Force",
   "ResultSize",
+  "MsftInternalProcessingMode",
   "BridgeId",
   "TenantDomain",
   "Identity",

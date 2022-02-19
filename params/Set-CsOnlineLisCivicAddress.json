@@ -21,6 +21,7 @@
   "StreetName",
   "StreetSuffix",
   "ValidationStatus",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

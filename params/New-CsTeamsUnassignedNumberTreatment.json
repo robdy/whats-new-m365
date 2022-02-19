@@ -1,12 +1,11 @@
 [
   "Identity",
   "Description",
-  "Force",
-  "InMemory",
   "Pattern",
   "Target",
   "TargetType",
   "TreatmentPriority",
+  "MsftInternalProcessingMode",
   "TreatmentId",
   "Verbose",
   "Debug",

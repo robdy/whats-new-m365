@@ -2,6 +2,7 @@
   "Identity",
   "Force",
   "TelephoneNumber",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

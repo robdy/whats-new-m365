@@ -5,6 +5,7 @@
   "PrimaryLanguage",
   "RestoreDefaultLanguages",
   "SecondaryLanguages",
+  "MsftInternalProcessingMode",
   "Instance",
   "Verbose",
   "Debug",

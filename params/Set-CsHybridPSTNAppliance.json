@@ -1,9 +1,8 @@
 [
   "Identity",
-  "Force",
   "MaintenanceMode",
   "MediationServerGruu",
-  "Instance",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

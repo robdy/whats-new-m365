@@ -2,6 +2,7 @@
   "Content",
   "FileName",
   "Force",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",
