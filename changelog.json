@@ -1,5 +1,13 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "InfoShownInReportMode",
+    "Module": "3.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-02-21 02:25:43"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Update-CsTenantMeetingUrl",
     "Param": "MsftInternalProcessingMode",

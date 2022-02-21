@@ -58,6 +58,7 @@
   "ChannelRecordingDownload",
   "AllowCartCaptionsScheduling",
   "AllowTasksFromTranscript",
+  "InfoShownInReportMode",
   "DataSource",
   "Key",
   "ScopeClass",
