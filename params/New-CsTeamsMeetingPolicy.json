@@ -39,6 +39,7 @@
   "Description",
   "DesignatedPresenterRoleMode",
   "EnrollUserOverride",
+  "InfoShownInReportMode",
   "IPAudioMode",
   "IPVideoMode",
   "LiveCaptionsEnabledType",

@@ -1,5 +1,120 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "InfoShownInReportMode",
+    "Module": "4.0.0",
+    "Event": "Add",
+    "Timestamp": "2022-03-09 02:36:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "InfoShownInReportMode",
+    "Module": "4.0.0",
+    "Event": "Add",
+    "Timestamp": "2022-03-09 02:36:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Param": null,
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:18"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantNetworkPostalCode",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantNetworkPostalCode",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantNetworkPostalCode",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantNetworkPostalCode",
+    "Module": "4.0.0",
+    "Event": "Remove",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Module": "4.0.0",
+    "Event": "Add",
+    "Timestamp": "2022-03-09 02:36:17"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "InfoShownInReportMode",

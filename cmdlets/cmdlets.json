@@ -412,6 +412,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsPhoneNumberAssignment",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsPolicyPackage",
     "CommandType": "Function"
   },
@@ -685,10 +689,6 @@
   },
   {
     "Name": "Get-CsTenantNetworkConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTenantNetworkPostalCode",
     "CommandType": "Function"
   },
   {
@@ -1312,10 +1312,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTenantNetworkPostalCode",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTenantNetworkRegion",
     "CommandType": "Function"
   },
@@ -1653,10 +1649,6 @@
   },
   {
     "Name": "Remove-CsTenantDialPlan",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTenantNetworkPostalCode",
     "CommandType": "Function"
   },
   {
@@ -2132,10 +2124,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTenantNetworkPostalCode",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTenantNetworkRegion",
     "CommandType": "Function"
   },
@@ -2256,10 +2244,6 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Add-TeamsAppInstallation",
-    "CommandType": "Cmdlet"
-  },
-  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2269,10 +2253,6 @@
   },
   {
     "Name": "Disconnect-MicrosoftTeams",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -2297,14 +2277,6 @@
   },
   {
     "Name": "Get-TeamsApp",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Get-TeamsAppInstallation",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
   {
@@ -2340,14 +2312,6 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Remove-TeamsAppInstallation",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Remove-TeamTargetingHierarchy",
-    "CommandType": "Cmdlet"
-  },
-  {
     "Name": "Remove-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -2369,14 +2333,6 @@
   },
   {
     "Name": "Set-TeamsApp",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Set-TeamTargetingHierarchy",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]
