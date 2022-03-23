@@ -1,5 +1,61 @@
 [
   {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.0.1",
+    "Event": "Add",
+    "Timestamp": "2022-03-23 02:50:47"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTenantMigrationConfiguration",
     "Param": "Element",
