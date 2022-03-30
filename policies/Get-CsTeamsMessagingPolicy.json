@@ -27,6 +27,7 @@
   "AllowFullChatPermissionUserToDeleteAnyMessage",
   "AllowFluidCollaborate",
   "AllowVideoMessages",
+  "AllowCommunicationComplianceEndUserReporting",
   "DataSource",
   "Key",
   "ScopeClass",
