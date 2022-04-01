@@ -1,15 +1,11 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
-  "AllowCalling",
   "AllowPrivateCalling",
   "AllowWebPSTNCalling",
   "AllowSIPDevicesCalling",
   "AllowVoicemail",
   "AllowCallGroups",
   "AllowDelegation",
-  "AllowUserControl",
   "AllowCallForwardingToUser",
   "AllowCallForwardingToPhone",
   "PreventTollBypass",
@@ -26,9 +22,5 @@
   "AllowCallRedirect",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

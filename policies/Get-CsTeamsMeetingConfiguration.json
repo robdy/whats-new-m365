@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "LogoURL",
   "LegalURL",
   "HelpURL",
@@ -17,9 +15,5 @@
   "ClientMediaPortRangeEnabled",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

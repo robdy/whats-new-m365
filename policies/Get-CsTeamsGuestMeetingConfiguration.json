@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "AllowIPVideo",
   "ScreenSharingMode",
   "AllowMeetNow",
@@ -8,9 +6,5 @@
   "AllowTranscription",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

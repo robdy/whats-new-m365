@@ -1,13 +1,7 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "NativeFileEntryPoints",
   "SPChannelFilesTab",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

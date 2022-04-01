@@ -1,13 +1,7 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "DownloadTeams",
   "SfBMeetingJoinUx",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

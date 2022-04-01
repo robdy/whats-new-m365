@@ -1,12 +1,6 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "AllowPrivateCalling",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

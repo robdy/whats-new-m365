@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "AllowCallPark",
   "PickupRangeStart",
@@ -8,9 +6,5 @@
   "ParkTimeoutSeconds",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

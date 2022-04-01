@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "AllowEmailIntoChannel",
   "RestrictedSenderList",
   "AllowDropBox",
@@ -18,9 +16,5 @@
   "AllowRoleBasedChatPermissions",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

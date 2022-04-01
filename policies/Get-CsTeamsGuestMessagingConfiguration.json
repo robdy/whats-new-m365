@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "AllowUserEditMessage",
   "AllowUserDeleteMessage",
   "AllowUserDeleteChat",
@@ -12,9 +10,5 @@
   "AllowStickers",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

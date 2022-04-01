@@ -1,14 +1,8 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "SuggestedFeedsEnabledType",
   "TrendingFeedsEnabledType",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "SignInMode",
   "SearchOnCommonAreaPhoneMode",
@@ -10,9 +8,5 @@
   "HotDeskingIdleTimeoutInMinutes",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

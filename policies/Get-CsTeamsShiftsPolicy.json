@@ -1,8 +1,5 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "EnableShiftPresence",
-  "ShiftNoticeMessage",
   "ShiftNoticeFrequency",
   "ShiftNoticeMessageType",
   "ShiftNoticeMessageCustom",
@@ -11,9 +8,5 @@
   "EnableScheduleOwnerPermissions",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

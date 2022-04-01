@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "ParentDigestEnabledType",
   "MakeCodeEnabledType",
   "TurnItInEnabledType",
@@ -8,9 +6,5 @@
   "TurnItInApiKey",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

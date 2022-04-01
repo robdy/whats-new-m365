@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "AllowBroadcastScheduling",
   "AllowBroadcastTranscription",
@@ -8,9 +6,5 @@
   "BroadcastRecordingMode",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

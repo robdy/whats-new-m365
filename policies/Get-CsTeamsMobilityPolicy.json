@@ -1,15 +1,9 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "IPVideoMobileMode",
   "IPAudioMobileMode",
   "MobileDialerPreference",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]
