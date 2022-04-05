@@ -59,6 +59,7 @@
   "AllowCartCaptionsScheduling",
   "AllowTasksFromTranscript",
   "InfoShownInReportMode",
+  "LiveInterpretationEnabledType",
   "DataSource",
   "Key",
   "ScopeClass",

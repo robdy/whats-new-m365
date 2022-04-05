@@ -1,6 +1,30 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowCommunicationComplianceEndUserReporting",
+    "Module": "4.1.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-05 02:50:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "LiveInterpretationEnabledType",
+    "Module": "4.1.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-05 02:50:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "MeetingEndToEndEncryption",
+    "Module": "4.1.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-05 02:50:18"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTenantMigrationConfiguration",
     "Param": "Element",
     "Module": "4.1.0",
