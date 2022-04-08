@@ -1,6 +1,5 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
+  "CommaSeparator",
   "Description",
   "AllowChannelMeetingScheduling",
   "AllowMeetNow",
@@ -62,10 +61,5 @@
   "LiveInterpretationEnabledType",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element",
-  "CommaSeparator"
+  "Identity"
 ]

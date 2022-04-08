@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "AllowUrlPreviews",
   "AllowOwnerDeleteMessage",
@@ -30,9 +28,5 @@
   "AllowCommunicationComplianceEndUserReporting",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

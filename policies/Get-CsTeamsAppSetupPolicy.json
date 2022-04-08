@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "AppPresetList",
   "PinnedAppBarApps",
   "PinnedMessageBarApps",
@@ -10,9 +8,5 @@
   "AllowUserPinning",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "AllowedDomains",
   "BlockedDomains",
   "AllowFederatedUsers",
@@ -11,9 +9,5 @@
   "SharedSipAddressSpace",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

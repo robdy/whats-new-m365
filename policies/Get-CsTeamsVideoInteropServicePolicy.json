@@ -1,14 +1,8 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "ProviderName",
   "Enabled",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

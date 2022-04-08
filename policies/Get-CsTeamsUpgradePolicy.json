@@ -1,15 +1,9 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "Description",
   "Mode",
   "NotifySfbUsers",
   "Action",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

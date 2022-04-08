@@ -1,14 +1,8 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "CallingEndtoEndEncryptionEnabledType",
   "MeetingEndToEndEncryption",
   "Description",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

@@ -1,12 +1,6 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "BranchApplianceFqdns",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

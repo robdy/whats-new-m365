@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "NotificationGroup",
   "NotificationDialOutNumber",
   "ExternalLocationLookupMode",
@@ -9,9 +7,5 @@
   "Description",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]

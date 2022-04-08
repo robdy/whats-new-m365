@@ -1,6 +1,1030 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Identity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Key",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "DataSource",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Description",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "DisableComplianceRecordingAudioNotificationForCalls",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "WarnUserOnRemoval",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Enabled",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "ComplianceRecordingApplications",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Element",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "Anchor",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.1.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-08 03:03:08"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "AllowCommunicationComplianceEndUserReporting",
     "Module": "4.1.0",
