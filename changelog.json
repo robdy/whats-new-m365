@@ -1,6 +1,166 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Element",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Identity",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Anchor",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Key",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "DataSource",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Description",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "MediaBitRateKb",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "AllowIPVideo",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "Element",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "TypedIdentity",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "Anchor",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "ScopeClass",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "XsAnyAttributes",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "XsAnyElements",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-14 03:02:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "AllowCommunicationComplianceEndUserReporting",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-14 03:02:03"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "AllowCommunicationComplianceEndUserReporting",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-14 03:02:03"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTenantFederationConfiguration",
     "Param": "Element",
     "Module": "4.1.0",
