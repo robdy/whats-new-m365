@@ -1,6 +1,142 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Identity",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-15 03:23:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Key",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-15 03:23:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "DataSource",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-15 03:23:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Description",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-15 03:23:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "AllowService",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-15 03:23:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "Identity",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "Key",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "DataSource",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableTeamsConsumerInbound",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableTeamsConsumerAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableAcsFederationAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableOutsideAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnablePublicCloudAudioVideoAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnablePublicCloudAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableXmppAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableFederationAccess",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "Description",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-15 03:23:43"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
     "Param": "Element",
     "Module": "4.2.0",
