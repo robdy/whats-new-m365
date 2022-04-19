@@ -1,6 +1,54 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Element",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-19 03:19:15"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-19 03:19:15"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Anchor",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-19 03:19:15"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-19 03:19:15"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-19 03:19:15"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.2.0",
+    "Event": "Remove",
+    "Timestamp": "2022-04-19 03:19:15"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
     "Param": "Identity",
     "Module": "4.2.0",

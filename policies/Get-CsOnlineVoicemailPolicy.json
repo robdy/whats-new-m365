@@ -1,6 +1,4 @@
 [
-  "XsAnyElements",
-  "XsAnyAttributes",
   "EnableTranscription",
   "ShareData",
   "EnableTranscriptionProfanityMasking",
@@ -11,9 +9,5 @@
   "SecondarySystemPromptLanguage",
   "DataSource",
   "Key",
-  "ScopeClass",
-  "Anchor",
-  "Identity",
-  "TypedIdentity",
-  "Element"
+  "Identity"
 ]
