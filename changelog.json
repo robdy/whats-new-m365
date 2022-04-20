@@ -1,6 +1,94 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Element",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Identity",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Anchor",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Key",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "DataSource",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Description",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "AllowService",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.2.0",
+    "Event": "Add",
+    "Timestamp": "2022-04-20 03:28:30"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsOnlineVoicemailPolicy",
     "Param": "Element",
     "Module": "4.2.0",
