@@ -1,6 +1,213 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Element",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Identity",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Anchor",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Key",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "DataSource",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Description",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "MediaBitRateKb",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "AllowIPVideo",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "Element",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "TypedIdentity",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "Anchor",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "ScopeClass",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "XsAnyAttributes",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "XsAnyElements",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:33"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.2.1",
+    "Event": "Add",
+    "Timestamp": "2022-04-30 03:14:06"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
     "Param": "Element",
     "Module": "4.2.0",

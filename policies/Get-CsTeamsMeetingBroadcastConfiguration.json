@@ -1,4 +1,6 @@
 [
+  "XsAnyElements",
+  "XsAnyAttributes",
   "SdnProviderName",
   "SdnLicenseId",
   "SdnApiTemplateUrl",
@@ -8,5 +10,9 @@
   "AllowSdnProviderForBroadcastMeeting",
   "DataSource",
   "Key",
-  "Identity"
+  "ScopeClass",
+  "Anchor",
+  "Identity",
+  "TypedIdentity",
+  "Element"
 ]
