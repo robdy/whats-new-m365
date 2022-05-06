@@ -1,5 +1,68 @@
 [
   {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.3.0",
+    "Event": "Remove",
+    "Timestamp": "2022-05-06 03:02:53"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
     "Param": "Identity",
