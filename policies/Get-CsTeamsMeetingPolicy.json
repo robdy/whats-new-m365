@@ -59,6 +59,7 @@
   "AllowTasksFromTranscript",
   "InfoShownInReportMode",
   "LiveInterpretationEnabledType",
+  "QnAEngagementMode",
   "DataSource",
   "Key",
   "Identity"

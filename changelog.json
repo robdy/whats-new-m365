@@ -1,5 +1,29 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "RestrictTeamsConsumerToExternalUserProfiles",
+    "Module": "4.3.0",
+    "Event": "Add",
+    "Timestamp": "2022-05-13 03:45:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "QnAEngagementMode",
+    "Module": "4.3.0",
+    "Event": "Add",
+    "Timestamp": "2022-05-13 03:45:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "RestrictTeamsConsumerAccessToExternalUserProfiles",
+    "Module": "4.3.0",
+    "Event": "Add",
+    "Timestamp": "2022-05-13 03:45:12"
+  },
+  {
     "Category": "Cmdlet",
     "Cmdlet": "Update-TeamsAppInstallation",
     "Module": "4.3.0",
