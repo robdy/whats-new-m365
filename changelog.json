@@ -1,5 +1,98 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Param": null,
+    "Module": "4.3.1",
+    "Event": "Remove",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Param": null,
+    "Module": "4.3.1",
+    "Event": "Remove",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.3.1",
+    "Event": "Add",
+    "Timestamp": "2022-05-17 03:20:51"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTenantFederationConfiguration",
     "Param": "RestrictTeamsConsumerToExternalUserProfiles",
