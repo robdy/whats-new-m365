@@ -1,5 +1,281 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Element",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Identity",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Anchor",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Key",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "DataSource",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Description",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "AllowService",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:58:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantFederationConfiguration",
+    "Param": "RestrictTeamsConsumerToExternalUserProfiles",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "QnAEngagementMode",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "LiveInterpretationEnabledType",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "MeetingEndToEndEncryption",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "PopoutForIncomingPstnCalls",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "PopoutAppPathForIncomingPstnCalls",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Param": "RestrictTeamsConsumerAccessToExternalUserProfiles",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:57"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "QnAEngagementMode",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "LiveInterpretationEnabledType",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "MeetingEndToEndEncryption",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "PopoutForIncomingPstnCalls",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "PopoutAppPathForIncomingPstnCalls",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Param": "RestrictTeamsConsumerAccessToExternalUserProfiles",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsOnlineLisCivicAddress",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-01 03:57:56"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "New-CsBatchTeamsDeployment",
     "Param": null,

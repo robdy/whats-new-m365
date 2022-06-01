@@ -7,6 +7,7 @@
   "AllowTeamsConsumerInbound",
   "BlockedDomains",
   "Identity",
+  "RestrictTeamsConsumerToExternalUserProfiles",
   "SharedSipAddressSpace",
   "TreatDiscoveredPartnersAsUnverified",
   "MsftInternalProcessingMode",

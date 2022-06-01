@@ -1,4 +1,5 @@
 [
+  "AllowCommunicationComplianceEndUserReporting",
   "AllowFluidCollaborate",
   "AllowFullChatPermissionUserToDeleteAnyMessage",
   "AllowGiphy",
@@ -15,7 +16,6 @@
   "AllowUrlPreviews",
   "AllowUserChat",
   "AllowUserDeleteChat",
-  "AllowCommunicationComplianceEndUserReporting",
   "AllowUserDeleteMessage",
   "AllowUserEditMessage",
   "AllowUserTranslation",

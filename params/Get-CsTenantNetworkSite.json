@@ -1,6 +1,4 @@
 [
-  "ExpandPostalCodes",
-  "ExpandSubnets",
   "Identity",
   "MsftInternalProcessingMode",
   "Filter",

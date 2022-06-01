@@ -2,6 +2,7 @@
   "CallingEndtoEndEncryptionEnabledType",
   "Description",
   "Identity",
+  "MeetingEndToEndEncryption",
   "MsftInternalProcessingMode",
   "Verbose",
   "Debug",

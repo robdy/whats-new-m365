@@ -9,6 +9,7 @@
   "EnableTeamsConsumerAccess",
   "EnableTeamsConsumerInbound",
   "EnableXmppAccess",
+  "RestrictTeamsConsumerAccessToExternalUserProfiles",
   "MsftInternalProcessingMode",
   "Verbose",
   "Debug",

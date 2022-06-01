@@ -1,5 +1,6 @@
 [
   "Identity",
+  "AllowCommunicationComplianceEndUserReporting",
   "AllowFluidCollaborate",
   "AllowFullChatPermissionUserToDeleteAnyMessage",
   "AllowGiphy",
@@ -20,7 +21,6 @@
   "AllowUserEditMessage",
   "AllowUserTranslation",
   "AllowVideoMessages",
-  "AllowCommunicationComplianceEndUserReporting",
   "AudioMessageEnabledType",
   "ChannelsInChatListEnabledType",
   "ChatPermissionRole",
