@@ -1,6 +1,54 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Identity",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-10 03:17:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Key",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-10 03:17:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "DataSource",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-10 03:17:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "Description",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-10 03:17:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "MediaBitRateKb",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-10 03:17:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "AllowIPVideo",
+    "Module": "4.4.1",
+    "Event": "Add",
+    "Timestamp": "2022-06-10 03:17:36"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
     "Param": "Element",
     "Module": "4.4.1",
