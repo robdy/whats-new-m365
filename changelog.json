@@ -1,6 +1,54 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Element",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-11 03:14:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-11 03:14:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "Anchor",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-11 03:14:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-11 03:14:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-11 03:14:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.4.1",
+    "Event": "Remove",
+    "Timestamp": "2022-06-11 03:14:35"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
     "Param": "Identity",
     "Module": "4.4.1",
