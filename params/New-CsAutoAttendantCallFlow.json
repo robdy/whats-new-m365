@@ -1,9 +1,7 @@
 [
-  "Menu",
   "Name",
-  "Force",
+  "Menu",
   "Greetings",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

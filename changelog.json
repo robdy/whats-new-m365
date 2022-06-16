@@ -1,6 +1,745 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": null,
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:19:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "Identity",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:19:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "Key",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:19:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "DataSource",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:19:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "AllowMediaLogging",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:19:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "Description",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:19:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsAutoAttendant",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsAutoAttendant",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailUserSettings",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineSchedule",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "AuthorizedUsers",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "EnableTimeoutSharedVoicemailSystemPromptSuppression",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "EnableOverflowSharedVoicemailSystemPromptSuppression",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsAutoAttendant",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineSchedule",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineApplicationInstanceAssociation",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsCallQueue",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsAutoAttendant",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineTimeRange",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineTimeRange",
+    "Param": "Confirm",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineTimeRange",
+    "Param": "WhatIf",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineSchedule",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineSchedule",
+    "Param": "Confirm",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineSchedule",
+    "Param": "WhatIf",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineDateTimeRange",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineDateTimeRange",
+    "Param": "Confirm",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineDateTimeRange",
+    "Param": "WhatIf",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineApplicationInstanceAssociation",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "AuthorizedUsers",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "EnableTimeoutSharedVoicemailSystemPromptSuppression",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "EnableOverflowSharedVoicemailSystemPromptSuppression",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "LineUri",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantPrompt",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantPrompt",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenuOption",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenuOption",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenu",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenu",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantDialScope",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallHandlingAssociation",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallHandlingAssociation",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallableEntity",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "GreetingsSettingAuthorizedUsers",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "AuthorizedUsers",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "Identity",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "AudioFileExpiryInterval",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsAutoAttendantHolidays",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsAutoAttendantHolidays",
+    "Param": "Input",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsAutoAttendantHolidays",
+    "Param": "InputBytes",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMediaLoggingPolicy",
+    "Param": null,
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": null,
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoicemailUserSettings",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineUser",
+    "Param": "SoftDeletedUsers",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineSchedule",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociationStatus",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociation",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCallQueue",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCallQueue",
+    "Param": "FilterInvalidObos",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCallQueue",
+    "Param": "Expand",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantTenantInformation",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantTenantInformation",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedTimeZone",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedTimeZone",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedLanguage",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedLanguage",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantStatus",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantStatus",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantHolidays",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantHolidays",
+    "Param": "Force",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendant",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Find-CsOnlineApplicationInstance",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Find-CsGroup",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Export-CsAutoAttendantHolidays",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMediaLoggingPolicy",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-16 03:18:48"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
     "Param": "Element",
     "Module": "4.4.1",

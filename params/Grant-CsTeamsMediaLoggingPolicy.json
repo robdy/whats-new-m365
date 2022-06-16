@@ -1,9 +1,9 @@
 [
-  "SearchQuery",
-  "MaxResults",
-  "ExactMatchOnly",
-  "MailEnabledOnly",
-  "Force",
+  "Identity",
+  "PassThru",
+  "PolicyName",
+  "MsftInternalProcessingMode",
+  "Global",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -14,5 +14,7 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

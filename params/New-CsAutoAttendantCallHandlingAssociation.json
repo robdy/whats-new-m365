@@ -1,10 +1,8 @@
 [
-  "CallFlowId",
-  "ScheduleId",
   "Type",
+  "ScheduleId",
+  "CallFlowId",
   "Disable",
-  "Force",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

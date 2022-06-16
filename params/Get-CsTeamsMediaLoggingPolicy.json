@@ -1,9 +1,7 @@
 [
-  "SearchQuery",
-  "MaxResults",
-  "ExactMatchOnly",
-  "MailEnabledOnly",
-  "Force",
+  "Identity",
+  "MsftInternalProcessingMode",
+  "Filter",
   "Verbose",
   "Debug",
   "ErrorAction",

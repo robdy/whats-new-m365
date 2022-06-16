@@ -1,9 +1,7 @@
 [
-  "AudioFilePrompt",
-  "Force",
-  "MsftInternalProcessingMode",
-  "ActiveType",
   "TextToSpeechPrompt",
+  "ActiveType",
+  "AudioFilePrompt",
   "Verbose",
   "Debug",
   "ErrorAction",

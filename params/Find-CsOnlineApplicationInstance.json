@@ -1,11 +1,10 @@
 [
   "SearchQuery",
-  "ExactMatchOnly",
-  "Force",
   "MaxResults",
-  "MsftInternalProcessingMode",
+  "ExactMatchOnly",
   "AssociatedOnly",
   "UnAssociatedOnly",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

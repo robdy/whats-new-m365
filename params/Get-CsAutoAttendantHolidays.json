@@ -1,9 +1,7 @@
 [
   "Identity",
-  "Force",
-  "Names",
   "Years",
-  "MsftInternalProcessingMode",
+  "Names",
   "Verbose",
   "Debug",
   "ErrorAction",

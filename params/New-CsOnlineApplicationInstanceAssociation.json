@@ -1,9 +1,8 @@
 [
+  "Identities",
   "ConfigurationId",
   "ConfigurationType",
-  "Identities",
   "Force",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -1,8 +1,6 @@
 [
   "Identity",
-  "Force",
   "IncludeResources",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

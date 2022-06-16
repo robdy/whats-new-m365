@@ -1,8 +1,7 @@
 [
   "Identity",
-  "Input",
+  "InputBytes",
   "Force",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

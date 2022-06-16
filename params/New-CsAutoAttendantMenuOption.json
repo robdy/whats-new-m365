@@ -1,11 +1,9 @@
 [
   "Action",
   "DtmfResponse",
-  "CallTarget",
-  "Force",
-  "Prompt",
   "VoiceResponses",
-  "MsftInternalProcessingMode",
+  "CallTarget",
+  "Prompt",
   "Verbose",
   "Debug",
   "ErrorAction",

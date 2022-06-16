@@ -1,8 +1,7 @@
 [
-  "End",
   "Start",
+  "End",
   "Force",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -13,5 +12,7 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

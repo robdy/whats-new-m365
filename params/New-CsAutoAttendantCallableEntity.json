@@ -1,10 +1,9 @@
 [
   "Identity",
   "Type",
-  "EnableSharedVoicemailSystemPromptSuppression",
   "EnableTranscription",
+  "EnableSharedVoicemailSystemPromptSuppression",
   "Force",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",

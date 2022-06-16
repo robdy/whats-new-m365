@@ -1,11 +1,7 @@
 [
-  "Content",
   "FileName",
+  "Content",
   "ApplicationId",
-  "AudioFileExpiryInterval",
-  "Force",
-  "Identity",
-  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",
