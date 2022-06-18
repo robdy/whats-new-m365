@@ -1,6 +1,814 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "Element",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "TypedIdentity",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "Identity",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "Anchor",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ScopeClass",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "Key",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DataSource",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableOnlineFeedbackScreenshots",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableOnlineFeedback",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "SupportModernFilePicker",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "IMLatencyErrorThreshold",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "IMLatencySpinnerDelay",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "RateMyCallAllowCustomUserFeedback",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "RateMyCallDisplayPercentage",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "HelpEnvironment",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "WebServicePollInterval",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableViewBasedSubscriptionMode",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "PublicationBatchDelay",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "TelemetryTier",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "TracingLevel",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "TabURL",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "SPSearchCenterExternalURL",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "SPSearchCenterInternalURL",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "SPSearchExternalURL",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "SPSearchInternalURL",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ShowSharepointPhotoEditLink",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ShowManagePrivacyRelationships",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ShowRecentContacts",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "SearchPrefixFlags",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "RequireContentPin",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "PlayAbbreviatedDialTone",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableHighPerformanceP2PAppSharing",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "P2PAppSharingEncryption",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "MusicOnHoldAudioFile",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "MaxPhotoSizeKB",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "MaximumNumberOfContacts",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "MaximumDGsAllowedInContactList",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "MAPIPollInterval",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "IMWarning",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "HotdeskingTimeout",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ExcludedContactFolders",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableVOIPCallDefault",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableUnencryptedFileTransfer",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableURL",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableTracing",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableSQMData",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableSkypeUI",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableServerConversationHistory",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableNotificationForNewSubscribers",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableMeetingEngagement",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableMediaRedirection",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableIMAutoArchiving",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableHotdesking",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableHighPerformanceConferencingAppSharing",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableFullScreenVideo",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableExchangeContactsFolder",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableExchangeDelegateSync",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableExchangeContactSync",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableEventLogging",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableEnterpriseCustomizedHelp",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableConversationWindowTabs",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableClientMusicOnHold",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableClientAutoPopulateWithTeam",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableCallLogAutoArchiving",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "EnableAppearOffline",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisplayPhoto",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableSavingIM",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableRTFIM",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisablePresenceNote",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisablePoorNetworkWarnings",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisablePoorDeviceWarnings",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisablePICPromptDisplayName",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisablePhonePresence",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableOnlineContextualSearch",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableOneNote12Integration",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableInkIM",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableHtmlIm",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableMeetingSubjectAndLocation",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableHandsetOnLockedMachine",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableFreeBusyInfo",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableFederatedPromptDisplayName",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableFeedsTab",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableEmoticons",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableEmailComparisonCheck",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableContactCardOrganizationTab",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DisableCalendarPresence",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "DGRefreshInterval",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "CustomStateUrl",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "CustomLinkInErrorMessages",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "CustomizedHelpUrl",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ConferenceIMIdleTimeoutExtended",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "ConferenceIMIdleTimeout",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "CalendarStatePublicationInterval",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "BlockConversationFromFederatedContacts",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "AutoDiscoveryRetryInterval",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "AttendantSafeTransfer",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "AddressBookAvailability",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "Description",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "PolicyEntry",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "XsAnyAttributes",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Param": "XsAnyElements",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-18 03:17:18"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
     "Param": null,
     "Module": "4.4.3",
