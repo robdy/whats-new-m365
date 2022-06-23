@@ -1,6 +1,38 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-23 03:27:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "SafeTransferEnabled",
+    "Module": "4.4.3",
+    "Event": "Remove",
+    "Timestamp": "2022-06-23 03:27:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "PopoutAppPathForIncomingPstnCalls",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-23 03:27:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "PopoutForIncomingPstnCalls",
+    "Module": "4.4.3",
+    "Event": "Add",
+    "Timestamp": "2022-06-23 03:27:08"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsClientPolicy",
     "Param": "Element",
     "Module": "4.4.3",
