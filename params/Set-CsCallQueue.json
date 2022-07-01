@@ -30,6 +30,7 @@
   "EnableTimeoutSharedVoicemailSystemPromptSuppression",
   "ChannelId",
   "ChannelUserObjectId",
+  "ShouldOverwriteCallableChannelProperty",
   "AuthorizedUsers",
   "Force",
   "Verbose",

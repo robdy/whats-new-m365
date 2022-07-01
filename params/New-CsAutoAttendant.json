@@ -11,6 +11,7 @@
   "InclusionScope",
   "ExclusionScope",
   "AuthorizedUsers",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -5,6 +5,8 @@
   "PolicyName",
   "MsftInternalProcessingMode",
   "Global",
+  "Group",
+  "Rank",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -4,6 +4,7 @@
   "MenuOptions",
   "EnableDialByName",
   "DirectorySearchMethod",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

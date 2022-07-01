@@ -2,6 +2,7 @@
   "FileName",
   "Content",
   "ApplicationId",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

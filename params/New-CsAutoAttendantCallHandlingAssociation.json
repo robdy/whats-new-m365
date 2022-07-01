@@ -3,6 +3,7 @@
   "ScheduleId",
   "CallFlowId",
   "Disable",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

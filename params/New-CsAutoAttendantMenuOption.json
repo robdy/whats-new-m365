@@ -4,6 +4,7 @@
   "VoiceResponses",
   "CallTarget",
   "Prompt",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",

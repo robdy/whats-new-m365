@@ -1,6 +1,1123 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Identity",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Key",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "DataSource",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueTimeoutSharedVoicemailGreetingChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOverflowSharedVoicemailGreetingChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueMusicOnHoldChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueWelcomeGreetingChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidayGreetingChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantAfterHoursGreetingChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursGreetingChange",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Description",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:52"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsAutoAttendant",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsTeamsTranslationRule",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "ShouldOverwriteCallableChannelProperty",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVoiceApplicationsPolicy",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "ShouldOverwriteCallableChannelProperty",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenuOption",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenu",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallHandlingAssociation",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsVoiceRoutingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsVoiceRoutingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTenantDialPlan",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTenantDialPlan",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsWorkLoadPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsWorkLoadPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVoiceApplicationsPolicy",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVideoInteropServicePolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVideoInteropServicePolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVdiPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVdiPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpgradePolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpgradePolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpdateManagementPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpdateManagementPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsShiftsPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsShiftsPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMobilityPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMobilityPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMessagingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMessagingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingBroadcastPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingBroadcastPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMediaLoggingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMediaLoggingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsIPPhonePolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsIPPhonePolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFilesPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFilesPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFeedbackPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFeedbackPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCortanaPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCortanaPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsComplianceRecordingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsComplianceRecordingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsChannelsPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsChannelsPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallParkPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallParkPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallHoldPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallHoldPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineVoiceRoutingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineVoiceRoutingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineVoicemailPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineVoicemailPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsMobilityPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsMobilityPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsIPPhonePolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsIPPhonePolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsHostedVoicemailPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsHostedVoicemailPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsGraphPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsGraphPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalUserCommunicationPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalUserCommunicationPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsDialoutPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsDialoutPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsConferencingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsConferencingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsCloudMeetingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsCloudMeetingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsClientPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsClientPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsCallingLineIdentity",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsCallingLineIdentity",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsBroadcastMeetingPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsBroadcastMeetingPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsApplicationAccessPolicy",
+    "Param": "Rank",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsApplicationAccessPolicy",
+    "Param": "Group",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsHybridTelephoneNumber",
+    "Param": null,
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantTenantInformation",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedTimeZone",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedLanguage",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantStatus",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantHolidays",
+    "Param": "Force",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:30"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHostingProvider",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.5.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsTranslationRule",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHybridTelephoneNumber",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-01 03:50:29"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsCallingPolicy",
     "Param": "AllowNetworkConfigurationSettingsLookup",
     "Module": "4.4.3",

@@ -3,6 +3,8 @@
   "PassThru",
   "PolicyName",
   "MsftInternalProcessingMode",
+  "Group",
+  "Rank",
   "Identity",
   "Verbose",
   "Debug",

@@ -1,6 +1,7 @@
 [
   "Identity",
   "IncludeResources",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",
