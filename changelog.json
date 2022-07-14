@@ -1,6 +1,118 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "Identity",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "Key",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "DataSource",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "AllowCallingPinned",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "AllowCalling",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "AllowMessagingPinned",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "AllowMessaging",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "AllowMeetingPinned",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "AllowMeeting",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "Description",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Param": "Identity",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Param": "Key",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Param": "DataSource",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Param": "EnableLegacyClientInterop",
+    "Module": "4.5.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-14 03:47:52"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": null,
     "Module": "4.5.0",
