@@ -6,6 +6,7 @@
   "AllowCallQueueOverflowSharedVoicemailGreetingChange",
   "AllowCallQueueTimeoutSharedVoicemailGreetingChange",
   "AllowCallQueueWelcomeGreetingChange",
+  "Description",
   "Identity",
   "MsftInternalProcessingMode",
   "Verbose",

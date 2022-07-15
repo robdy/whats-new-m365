@@ -10,6 +10,7 @@
   "UnassignedUser",
   "UsePreferredDC",
   "SoftDeletedUsers",
+  "AccountType",
   "MsftInternalProcessingMode",
   "Verbose",
   "Debug",

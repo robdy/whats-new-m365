@@ -1,5 +1,106 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Description",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Description",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineUser",
+    "Param": "AccountType",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.5.1",
+    "Event": "Add",
+    "Timestamp": "2022-07-15 03:52:23"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
     "Param": "Identity",
