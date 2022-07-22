@@ -1,0 +1,14 @@
+[
+  "AllowUserEditMessage",
+  "AllowUserDeleteMessage",
+  "AllowUserDeleteChat",
+  "AllowUserChat",
+  "AllowGiphy",
+  "GiphyRatingType",
+  "AllowMemes",
+  "AllowImmersiveReader",
+  "AllowStickers",
+  "DataSource",
+  "Key",
+  "Identity"
+]

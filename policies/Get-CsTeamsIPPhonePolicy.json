@@ -1,0 +1,12 @@
+[
+  "Description",
+  "SignInMode",
+  "SearchOnCommonAreaPhoneMode",
+  "AllowHomeScreen",
+  "AllowBetterTogether",
+  "AllowHotDesking",
+  "HotDeskingIdleTimeoutInMinutes",
+  "DataSource",
+  "Key",
+  "Identity"
+]

@@ -1,0 +1,10 @@
+[
+  "UserInitiatedMode",
+  "ReceiveSurveysMode",
+  "AllowScreenshotCollection",
+  "AllowEmailCollection",
+  "AllowLogCollection",
+  "DataSource",
+  "Key",
+  "Identity"
+]

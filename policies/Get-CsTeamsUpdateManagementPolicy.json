@@ -1,0 +1,12 @@
+[
+  "Description",
+  "AllowManagedUpdates",
+  "AllowPreview",
+  "UpdateDayOfWeek",
+  "UpdateTime",
+  "UpdateTimeOfDay",
+  "AllowPublicPreview",
+  "DataSource",
+  "Key",
+  "Identity"
+]

@@ -1,0 +1,12 @@
+[
+  "Description",
+  "AllowOrgWideTeamCreation",
+  "AllowPrivateTeamDiscovery",
+  "AllowPrivateChannelCreation",
+  "AllowSharedChannelCreation",
+  "AllowChannelSharingToExternalUser",
+  "AllowUserToParticipateInExternalSharedChannel",
+  "DataSource",
+  "Key",
+  "Identity"
+]

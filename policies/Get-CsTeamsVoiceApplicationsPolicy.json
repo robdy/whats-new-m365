@@ -1,0 +1,13 @@
+[
+  "Description",
+  "AllowAutoAttendantBusinessHoursGreetingChange",
+  "AllowAutoAttendantAfterHoursGreetingChange",
+  "AllowAutoAttendantHolidayGreetingChange",
+  "AllowCallQueueWelcomeGreetingChange",
+  "AllowCallQueueMusicOnHoldChange",
+  "AllowCallQueueOverflowSharedVoicemailGreetingChange",
+  "AllowCallQueueTimeoutSharedVoicemailGreetingChange",
+  "DataSource",
+  "Key",
+  "Identity"
+]
