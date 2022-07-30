@@ -1,9 +1,7 @@
 [
-  "GroupId",
-  "DisplayName",
-  "User",
-  "Role",
-  "TenantId",
+  "HostTeamId",
+  "ChannelId",
+  "SharedWithTeamId",
   "Verbose",
   "Debug",
   "ErrorAction",

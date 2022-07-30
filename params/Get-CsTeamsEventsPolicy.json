@@ -1,9 +1,7 @@
 [
-  "GroupId",
-  "DisplayName",
-  "User",
-  "Role",
-  "TenantId",
+  "Identity",
+  "MsftInternalProcessingMode",
+  "Filter",
   "Verbose",
   "Debug",
   "ErrorAction",

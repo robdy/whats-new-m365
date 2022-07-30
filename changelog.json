@@ -1,6 +1,1399 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "Identity",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "Key",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "DataSource",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "PlaceInternalCalls",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "PlaceExternalCalls",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ReceiveInternalCalls",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ReceiveExternalCalls",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "AreaCode",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "Enabled",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "Description",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "Identity",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "Key",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "DataSource",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "Description",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "EventAccessType",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowWebinars",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:27"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-SharedWithTeam",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamIncomingChannel",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamAllChannel",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-SharedWithTeamUser",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-SharedWithTeam",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-AssociatedTeam",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Add-TeamChannelUser",
+    "Param": "TenantId",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEventsPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:16"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": null,
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsTenantMeetingUrl",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Unregister-CsHybridPSTNAppliance",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsOnlinePortabilityIn",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsOnlineCarrierPortabilityIn",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Switch-CsOnlineApplicationEndpoint",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserPstnSettings",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUCPhoneConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantUpdateTimeWindow",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantPublicProvider",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantHybridConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsUpgradeStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsPinnedApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAppSetupPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAppPreset",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAppPermissionPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsPushNotificationConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoiceUserBulk",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineNumberPortOutOrderPin",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineNumberPortInOrder",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineDirectoryUser",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineApplicationEndpoint",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOAuthConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsMobilityPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsMeetingRoom",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsMeetingConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsIPPhonePolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsHybridPSTNSite",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsHybridPSTNAppliance",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsHybridMediationServer",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsGlobalCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsExternalUserCommunicationPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsDefaultCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsClientPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsCceApplianceStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsCceApplianceDeploymentStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsCceApplianceConfigurationReplicationStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsBroadcastMeetingConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Select-CsOnlineTelephoneNumberInventory",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Search-CsOnlineTelephoneNumberInventory",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantUpdateTimeWindow",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsPinnedApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAppPreset",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineNumberPortInOrder",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineApplicationEndpoint",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsMobilityPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsHybridPSTNSite",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsGlobalCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsExternalUserCommunicationPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsDefaultCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsClientPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Register-CsHybridPSTNAppliance",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantUpdateTimeWindow",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsPinnedApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAppSetupPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAppPreset",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAppPermissionPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineNumberPortInOrder",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineBulkAssignmentInput",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineAudioFile",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineApplicationEndpoint",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsMobilityPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsHybridPSTNSite",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsGlobalCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsExternalUserCommunicationPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsDefaultCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsClientPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Invoke-CsUserPreferredDataLocationSync",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Invoke-CsUcsRollback",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsVoiceRoutingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsMobilityPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsIPPhonePolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsHostedVoicemailPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsGraphPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsExternalUserCommunicationPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsCloudMeetingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsClientPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsBroadcastMeetingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsVoiceRoutingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserServicesPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserPstnSettings",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserLocationStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUCPhoneConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantUpdateTimeWindow",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantPublicProvider",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantHybridConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsUpgradeStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsPinnedApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAppPreset",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsPushNotificationConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberReservationsInformation",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberInventoryTypes",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberInventoryRegions",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberInventoryCountries",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberInventoryCities",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberInventoryAreas",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberAvailableCount",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineNumberPortOutOrderPin",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineNumberPortInOrder",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDirectoryTenantNumberCities",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUserState",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUserInfo",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineApplicationEndpoint",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOAuthConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsMobilityPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsMeetingRoom",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsMeetingConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsIPPhonePolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsImFilterConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHybridPSTNSite",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHybridPSTNAppliance",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHybridMediationServer",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHostedVoicemailPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsGraphPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsGlobalCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsExternalUserCommunicationPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsDefaultCatalogApp",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsCloudMeetingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsClientPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBroadcastMeetingPolicy",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBroadcastMeetingConfiguration",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAudioConferencingProvider",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Enable-CsOnlineDialInConferencingUser",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Enable-CsMeetingRoom",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsOnlineDialInConferencingUser",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberReservation",
+    "Module": "4.6.0",
+    "Event": "Remove",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-SharedWithTeam",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamIncomingChannel",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamAllChannel",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-SharedWithTeamUser",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-SharedWithTeam",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-AssociatedTeam",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsEventsPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Module": "4.6.0",
+    "Event": "Add",
+    "Timestamp": "2022-07-30 03:43:15"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTenantMigrationConfiguration",
     "Param": "Identity",
     "Module": "4.5.1",

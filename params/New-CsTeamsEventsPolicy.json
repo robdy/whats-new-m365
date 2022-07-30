@@ -1,9 +1,9 @@
 [
-  "GroupId",
-  "DisplayName",
-  "User",
-  "Role",
-  "TenantId",
+  "Identity",
+  "AllowWebinars",
+  "Description",
+  "EventAccessType",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -14,5 +14,7 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

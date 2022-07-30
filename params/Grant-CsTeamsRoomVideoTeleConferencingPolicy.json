@@ -1,9 +1,11 @@
 [
-  "GroupId",
-  "DisplayName",
-  "User",
-  "Role",
-  "TenantId",
+  "Identity",
+  "PassThru",
+  "PolicyName",
+  "MsftInternalProcessingMode",
+  "Global",
+  "Group",
+  "Rank",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -14,5 +16,7 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

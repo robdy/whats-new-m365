@@ -4,10 +4,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Clear-CsOnlineTelephoneNumberReservation",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Complete-CsOnlineTelephoneNumberOrder",
     "CommandType": "Function"
   },
@@ -16,23 +12,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Disable-CsOnlineDialInConferencingUser",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Disable-CsOnlineSipDomain",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Disable-CsTeamsShiftsConnectionErrorReport",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Enable-CsMeetingRoom",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Enable-CsOnlineDialInConferencingUser",
     "CommandType": "Function"
   },
   {
@@ -64,10 +44,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsAudioConferencingProvider",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsAutoAttendant",
     "CommandType": "Function"
   },
@@ -96,18 +72,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsBatchTeamsDeploymentStatus",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsBroadcastMeetingConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsBroadcastMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsCallingLineIdentity",
     "CommandType": "Function"
   },
@@ -116,23 +80,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsClientPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsCloudCallDataConnection",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsCloudMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsDefaultCatalogApp",
     "CommandType": "Function"
   },
   {
@@ -148,43 +96,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsExternalUserCommunicationPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsGlobalCatalogApp",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsGraphPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsGroupPolicyAssignment",
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsHostedVoicemailPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsHybridMediationServer",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsHybridPSTNAppliance",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsHybridPSTNSite",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsHybridTelephoneNumber",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsImFilterConfiguration",
     "CommandType": "Function"
   },
   {
@@ -196,31 +112,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsIPPhonePolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsMeetingConfiguration",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsMeetingMigrationStatus",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsMeetingRoom",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOAuthConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineApplicationEndpoint",
     "CommandType": "Function"
   },
   {
@@ -272,23 +164,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineDialInConferencingUserInfo",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineDialInConferencingUserState",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsOnlineDialOutPolicy",
     "CommandType": "Function"
   },
   {
     "Name": "Get-CsOnlineDirectoryTenant",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineDirectoryTenantNumberCities",
     "CommandType": "Function"
   },
   {
@@ -320,14 +200,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineNumberPortInOrder",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineNumberPortOutOrderPin",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsOnlinePowerShellEndpoint",
     "CommandType": "Function"
   },
@@ -352,39 +224,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineTelephoneNumberAvailableCount",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsOnlineTelephoneNumberCountry",
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineTelephoneNumberInventoryAreas",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineTelephoneNumberInventoryCities",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineTelephoneNumberInventoryCountries",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineTelephoneNumberInventoryRegions",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineTelephoneNumberInventoryTypes",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsOnlineTelephoneNumberOrder",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsOnlineTelephoneNumberReservationsInformation",
     "CommandType": "Function"
   },
   {
@@ -428,19 +272,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsPushNotificationConfiguration",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsAcsFederationConfiguration",
     "CommandType": "Function"
   },
   {
     "Name": "Get-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsAppPreset",
     "CommandType": "Function"
   },
   {
@@ -497,6 +333,10 @@
   },
   {
     "Name": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -564,7 +404,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsPinnedApp",
+    "Name": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -640,10 +480,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsUpgradeStatus",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsVdiPolicy",
     "CommandType": "Function"
   },
@@ -676,19 +512,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTenantCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTenantDialPlan",
     "CommandType": "Function"
   },
   {
     "Name": "Get-CsTenantFederationConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTenantHybridConfiguration",
     "CommandType": "Function"
   },
   {
@@ -716,27 +544,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTenantPublicProvider",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTenantTrustedIPAddress",
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTenantUpdateTimeWindow",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsUCPhoneConfiguration",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsUserCallingSettings",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsUserLocationStatus",
     "CommandType": "Function"
   },
   {
@@ -752,19 +564,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsUserPstnSettings",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsUserServicesPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsVideoInteropServiceProvider",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsVoiceRoutingPolicy",
     "CommandType": "Function"
   },
   {
@@ -772,23 +572,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsBroadcastMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Grant-CsCallingLineIdentity",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsClientPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsCloudMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -800,27 +584,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsExternalUserCommunicationPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsGraphPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Grant-CsGroupPolicyPackageAssignment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsHostedVoicemailPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsIPPhonePolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsMobilityPolicy",
     "CommandType": "Function"
   },
   {
@@ -833,10 +597,6 @@
   },
   {
     "Name": "Grant-CsOnlineVoiceRoutingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsPolicy",
     "CommandType": "Function"
   },
   {
@@ -888,6 +648,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Grant-CsTeamsEventsPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Grant-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -917,6 +681,10 @@
   },
   {
     "Name": "Grant-CsTeamsMobilityPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Grant-CsTeamsRoomVideoTeleConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -960,10 +728,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsVoiceRoutingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Import-CsAutoAttendantHolidays",
     "CommandType": "Function"
   },
@@ -973,14 +737,6 @@
   },
   {
     "Name": "Invoke-CsInternalPsTelemetry",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Invoke-CsUcsRollback",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Invoke-CsUserPreferredDataLocationSync",
     "CommandType": "Function"
   },
   {
@@ -1032,10 +788,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsBatchTeamsDeployment",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsCallingLineIdentity",
     "CommandType": "Function"
   },
@@ -1044,23 +796,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsClientPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsCloudCallDataConnection",
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsCustomPolicyPackage",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsDefaultCatalogApp",
     "CommandType": "Function"
   },
   {
@@ -1080,19 +820,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsExternalUserCommunicationPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsGlobalCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsGroupPolicyAssignment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsHybridPSTNSite",
     "CommandType": "Function"
   },
   {
@@ -1108,14 +836,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOnlineApplicationEndpoint",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsOnlineApplicationInstance",
     "CommandType": "Function"
   },
@@ -1128,14 +848,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsOnlineAudioFile",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOnlineBulkAssignmentInput",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsOnlineDateTimeRange",
     "CommandType": "Function"
   },
@@ -1145,10 +857,6 @@
   },
   {
     "Name": "New-CsOnlineLisLocation",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsOnlineNumberPortInOrder",
     "CommandType": "Function"
   },
   {
@@ -1177,18 +885,6 @@
   },
   {
     "Name": "New-CsOnlineVoiceRoutingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsAppPreset",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsAppSetupPolicy",
     "CommandType": "Function"
   },
   {
@@ -1244,6 +940,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsTeamsEventsPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -1276,7 +976,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsPinnedApp",
+    "Name": "New-CsTeamsRoomVideoTeleConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1332,10 +1032,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTenantCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTenantDialPlan",
     "CommandType": "Function"
   },
@@ -1356,10 +1052,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTenantUpdateTimeWindow",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsUserCallingDelegate",
     "CommandType": "Function"
   },
@@ -1369,10 +1061,6 @@
   },
   {
     "Name": "New-CsVoiceNormalizationRule",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Register-CsHybridPSTNAppliance",
     "CommandType": "Function"
   },
   {
@@ -1396,19 +1084,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsClientPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsCustomPolicyPackage",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsDefaultCatalogApp",
     "CommandType": "Function"
   },
   {
@@ -1416,19 +1092,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsExternalUserCommunicationPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsGlobalCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsGroupPolicyAssignment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsHybridPSTNSite",
     "CommandType": "Function"
   },
   {
@@ -1441,14 +1105,6 @@
   },
   {
     "Name": "Remove-CsInboundExemptNumberPattern",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsOnlineApplicationEndpoint",
     "CommandType": "Function"
   },
   {
@@ -1492,10 +1148,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsOnlineNumberPortInOrder",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsOnlinePSTNGateway",
     "CommandType": "Function"
   },
@@ -1525,10 +1177,6 @@
   },
   {
     "Name": "Remove-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsAppPreset",
     "CommandType": "Function"
   },
   {
@@ -1580,6 +1228,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Remove-CsTeamsEventsPolicy",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Remove-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
@@ -1616,7 +1268,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsPinnedApp",
+    "Name": "Remove-CsTeamsRoomVideoTeleConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1676,10 +1328,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTenantCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTenantDialPlan",
     "CommandType": "Function"
   },
@@ -1700,23 +1348,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTenantUpdateTimeWindow",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsUserCallingDelegate",
     "CommandType": "Function"
   },
   {
     "Name": "Remove-CsVideoInteropServiceProvider",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Search-CsOnlineTelephoneNumberInventory",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Select-CsOnlineTelephoneNumberInventory",
     "CommandType": "Function"
   },
   {
@@ -1732,10 +1368,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsBroadcastMeetingConfiguration",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsCallingLineIdentity",
     "CommandType": "Function"
   },
@@ -1744,51 +1376,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsCceApplianceConfigurationReplicationStatus",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsCceApplianceDeploymentStatus",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsCceApplianceStatus",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsClientPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsDefaultCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsExternalAccessPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsExternalUserCommunicationPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsGlobalCatalogApp",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsHybridMediationServer",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsHybridPSTNAppliance",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsHybridPSTNSite",
     "CommandType": "Function"
   },
   {
@@ -1801,30 +1389,6 @@
   },
   {
     "Name": "Set-CsInternalOnlinePowerShellEndpoint",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsIPPhonePolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsMeetingConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsMeetingRoom",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsMobilityPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsOAuthConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsOnlineApplicationEndpoint",
     "CommandType": "Function"
   },
   {
@@ -1856,10 +1420,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsOnlineDirectoryUser",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsOnlineEnhancedEmergencyServiceDisclaimer",
     "CommandType": "Function"
   },
@@ -1885,14 +1445,6 @@
   },
   {
     "Name": "Set-CsOnlineLisWirelessAccessPoint",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsOnlineNumberPortInOrder",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsOnlineNumberPortOutOrderPin",
     "CommandType": "Function"
   },
   {
@@ -1932,10 +1484,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsOnlineVoiceUserBulk",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsPhoneNumberAssignment",
     "CommandType": "Function"
   },
@@ -1944,23 +1492,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsPushNotificationConfiguration",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsAcsFederationConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsAppPreset",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsAppSetupPolicy",
     "CommandType": "Function"
   },
   {
@@ -2013,6 +1545,10 @@
   },
   {
     "Name": "Set-CsTeamsEnhancedEncryptionPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Set-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -2076,7 +1612,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsPinnedApp",
+    "Name": "Set-CsTeamsRoomVideoTeleConferencingPolicy",
     "CommandType": "Function"
   },
   {
@@ -2120,10 +1656,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsUpgradeStatus",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsVdiPolicy",
     "CommandType": "Function"
   },
@@ -2140,19 +1672,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTenantCatalogApp",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTenantDialPlan",
     "CommandType": "Function"
   },
   {
     "Name": "Set-CsTenantFederationConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTenantHybridConfiguration",
     "CommandType": "Function"
   },
   {
@@ -2172,19 +1696,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTenantPublicProvider",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTenantTrustedIPAddress",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTenantUpdateTimeWindow",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsUCPhoneConfiguration",
     "CommandType": "Function"
   },
   {
@@ -2200,19 +1712,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsUserPstnSettings",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsVideoInteropServiceProvider",
     "CommandType": "Function"
   },
   {
     "Name": "Start-CsExMeetingMigration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Switch-CsOnlineApplicationEndpoint",
     "CommandType": "Function"
   },
   {
@@ -2225,14 +1729,6 @@
   },
   {
     "Name": "Test-CsInboundBlockedNumberPattern",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Test-CsOnlineCarrierPortabilityIn",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Test-CsOnlinePortabilityIn",
     "CommandType": "Function"
   },
   {
@@ -2252,10 +1748,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Unregister-CsHybridPSTNAppliance",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Unregister-CsOnlineDialInConferencingServiceNumber",
     "CommandType": "Function"
   },
@@ -2272,15 +1764,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Update-CsTenantMeetingUrl",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Add-TeamChannelUser",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Add-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   },
   {
@@ -2296,7 +1780,7 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Get-LicenseReportForChangeNotificationSubscription",
+    "Name": "Get-AssociatedTeam",
     "CommandType": "Cmdlet"
   },
   {
@@ -2308,7 +1792,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-SharedWithTeam",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-SharedWithTeamUser",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-Team",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-TeamAllChannel",
     "CommandType": "Cmdlet"
   },
   {
@@ -2320,11 +1816,11 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Get-TeamsApp",
+    "Name": "Get-TeamIncomingChannel",
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Get-TeamsAppInstallation",
+    "Name": "Get-TeamsApp",
     "CommandType": "Cmdlet"
   },
   {
@@ -2348,6 +1844,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-SharedWithTeam",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-Team",
     "CommandType": "Cmdlet"
   },
@@ -2361,10 +1861,6 @@
   },
   {
     "Name": "Remove-TeamsApp",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Remove-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   },
   {
@@ -2397,10 +1893,6 @@
   },
   {
     "Name": "Set-TeamTargetingHierarchy",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]

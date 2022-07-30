@@ -1,9 +1,5 @@
 [
   "GroupId",
-  "DisplayName",
-  "User",
-  "Role",
-  "TenantId",
   "Verbose",
   "Debug",
   "ErrorAction",

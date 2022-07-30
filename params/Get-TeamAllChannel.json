@@ -1,9 +1,6 @@
 [
   "GroupId",
-  "DisplayName",
-  "User",
-  "Role",
-  "TenantId",
+  "MembershipType",
   "Verbose",
   "Debug",
   "ErrorAction",

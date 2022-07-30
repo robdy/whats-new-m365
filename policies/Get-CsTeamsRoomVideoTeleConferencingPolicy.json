@@ -1,0 +1,12 @@
+[
+  "Description",
+  "Enabled",
+  "AreaCode",
+  "ReceiveExternalCalls",
+  "ReceiveInternalCalls",
+  "PlaceExternalCalls",
+  "PlaceInternalCalls",
+  "DataSource",
+  "Key",
+  "Identity"
+]
