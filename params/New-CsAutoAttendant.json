@@ -12,6 +12,7 @@
   "ExclusionScope",
   "AuthorizedUsers",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -3,6 +3,7 @@
   "Years",
   "Names",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

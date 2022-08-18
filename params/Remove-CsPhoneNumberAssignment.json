@@ -2,6 +2,7 @@
   "Identity",
   "PhoneNumber",
   "PhoneNumberType",
+  "HttpPipelinePrepend",
   "RemoveAll",
   "Verbose",
   "Debug",

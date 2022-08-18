@@ -1,6 +1,566 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAvatarsInGallery",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:55:15"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowImmersiveView",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:55:15"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsCustomPolicyPackage",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsAutoAttendant",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingDelegate",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkForScreenSharing",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkForCameraVideo",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowImmersiveView",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowAvatarsInGallery",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailUserSettings",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineSchedule",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsAutoAttendant",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsUserCallingDelegate",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsPhoneNumberAssignment",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineSchedule",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineAudioFile",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineApplicationInstanceAssociation",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsCallQueue",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsAutoAttendant",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsUserCallingDelegate",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkForScreenSharing",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkForCameraVideo",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowImmersiveView",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowAvatarsInGallery",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineTimeRange",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineSchedule",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineDateTimeRange",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineApplicationInstanceAssociation",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCustomPolicyPackage",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantPrompt",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenuOption",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenu",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantDialScope",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallHandlingAssociation",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallableEntity",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsAutoAttendantHolidays",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsGroupPolicyPackageAssignment",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamTemplateList",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoicemailUserSettings",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineSchedule",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineAudioFile",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociationStatus",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociation",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCallQueue",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantTenantInformation",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedTimeZone",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedLanguage",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantStatus",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantHolidays",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendant",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Find-CsOnlineApplicationInstance",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Find-CsGroup",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Export-CsOnlineAudioFile",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Export-CsAutoAttendantHolidays",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Complete-CsOnlineTelephoneNumberOrder",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberOrder",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-18 03:54:39"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
     "Param": null,
     "Module": "4.6.0",

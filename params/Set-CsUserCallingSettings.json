@@ -1,5 +1,6 @@
 [
   "Identity",
+  "HttpPipelinePrepend",
   "GroupNotificationOverride",
   "GroupMembershipDetails",
   "CallGroupOrder",

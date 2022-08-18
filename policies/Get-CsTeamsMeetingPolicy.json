@@ -60,6 +60,8 @@
   "InfoShownInReportMode",
   "LiveInterpretationEnabledType",
   "QnAEngagementMode",
+  "AllowImmersiveView",
+  "AllowAvatarsInGallery",
   "DataSource",
   "Key",
   "Identity"

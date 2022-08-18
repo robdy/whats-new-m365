@@ -2,6 +2,7 @@
   "Identity",
   "IncludeResources",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

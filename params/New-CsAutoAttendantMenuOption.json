@@ -5,6 +5,7 @@
   "CallTarget",
   "Prompt",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

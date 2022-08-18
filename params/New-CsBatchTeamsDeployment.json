@@ -2,6 +2,7 @@
   "TeamsFilePath",
   "UsersFilePath",
   "UsersToNotify",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

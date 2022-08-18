@@ -3,6 +3,7 @@
   "Menu",
   "Greetings",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

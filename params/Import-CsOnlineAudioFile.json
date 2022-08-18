@@ -3,6 +3,7 @@
   "Content",
   "ApplicationId",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

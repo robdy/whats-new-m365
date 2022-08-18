@@ -2,6 +2,7 @@
   "GroupScope",
   "GroupIds",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

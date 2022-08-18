@@ -4,6 +4,7 @@
   "MakeCalls",
   "ManageSettings",
   "ReceiveCalls",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

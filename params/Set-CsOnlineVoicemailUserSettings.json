@@ -11,6 +11,7 @@
   "TransferTarget",
   "VoicemailEnabled",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

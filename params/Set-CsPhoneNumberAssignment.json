@@ -3,6 +3,7 @@
   "PhoneNumber",
   "PhoneNumberType",
   "LocationId",
+  "HttpPipelinePrepend",
   "EnterpriseVoiceEnabled",
   "Verbose",
   "Debug",

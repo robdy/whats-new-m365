@@ -33,6 +33,7 @@
   "ShouldOverwriteCallableChannelProperty",
   "AuthorizedUsers",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

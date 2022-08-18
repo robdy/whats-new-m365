@@ -5,6 +5,7 @@
   "AssociatedOnly",
   "UnAssociatedOnly",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

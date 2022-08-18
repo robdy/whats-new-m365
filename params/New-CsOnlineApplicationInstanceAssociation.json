@@ -3,6 +3,7 @@
   "ConfigurationId",
   "ConfigurationType",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

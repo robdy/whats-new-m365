@@ -5,6 +5,7 @@
   "EnableDialByName",
   "DirectorySearchMethod",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

@@ -2,6 +2,7 @@
   "Identity",
   "PolicyList",
   "Description",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

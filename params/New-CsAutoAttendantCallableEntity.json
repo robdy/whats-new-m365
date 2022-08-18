@@ -4,6 +4,7 @@
   "EnableTranscription",
   "EnableSharedVoicemailSystemPromptSuppression",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

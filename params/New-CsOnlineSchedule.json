@@ -1,6 +1,7 @@
 [
   "Name",
   "Force",
+  "HttpPipelinePrepend",
   "FixedSchedule",
   "DateTimeRanges",
   "WeeklyRecurrentSchedule",

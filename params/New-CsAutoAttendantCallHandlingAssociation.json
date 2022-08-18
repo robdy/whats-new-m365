@@ -4,6 +4,7 @@
   "CallFlowId",
   "Disable",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

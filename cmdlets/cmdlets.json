@@ -16,6 +16,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Enable-CsOnlineSipDomain",
     "CommandType": "Function"
   },
@@ -69,6 +73,10 @@
   },
   {
     "Name": "Get-CsBatchPolicyAssignmentOperation",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsBatchTeamsDeploymentStatus",
     "CommandType": "Function"
   },
   {
@@ -785,6 +793,10 @@
   },
   {
     "Name": "New-CsBatchPolicyPackageAssignmentOperation",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "New-CsBatchTeamsDeployment",
     "CommandType": "Function"
   },
   {
@@ -1768,6 +1780,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Add-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -1781,6 +1797,10 @@
   },
   {
     "Name": "Get-AssociatedTeam",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -1824,6 +1844,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
@@ -1864,6 +1888,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
@@ -1893,6 +1921,10 @@
   },
   {
     "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]

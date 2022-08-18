@@ -1,5 +1,6 @@
 [
   "PublicTemplateLocale",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

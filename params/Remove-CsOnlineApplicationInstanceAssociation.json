@@ -1,6 +1,7 @@
 [
   "Identities",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

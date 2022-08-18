@@ -2,6 +2,7 @@
   "GroupId",
   "PackageName",
   "PolicyRankings",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

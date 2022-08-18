@@ -1,6 +1,7 @@
 [
   "Identity",
   "ApplicationId",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

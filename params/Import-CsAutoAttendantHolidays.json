@@ -2,6 +2,7 @@
   "Identity",
   "InputBytes",
   "Force",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",

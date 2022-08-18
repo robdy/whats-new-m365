@@ -1,5 +1,6 @@
 [
   "TextToSpeechPrompt",
+  "HttpPipelinePrepend",
   "ActiveType",
   "AudioFilePrompt",
   "Verbose",
