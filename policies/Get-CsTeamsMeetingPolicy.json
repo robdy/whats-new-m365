@@ -62,6 +62,8 @@
   "QnAEngagementMode",
   "AllowImmersiveView",
   "AllowAvatarsInGallery",
+  "AllowWatermarkForScreenSharing",
+  "AllowWatermarkForCameraVideo",
   "DataSource",
   "Key",
   "Identity"
