@@ -1,6 +1,86 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueuePresenceBasedRoutingChange",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueAgentSelectionChange",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueCallAnsweringChange",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueAgentOptChange",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOptOutChange",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursChange",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowDocumentCollaboration",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:46"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAnnotations",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:46"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowedStreamingMediaInput",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:46"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "4.6.1",
+    "Event": "Add",
+    "Timestamp": "2022-08-31 04:23:44"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "AllowWatermarkForCameraVideo",
     "Module": "4.6.1",
