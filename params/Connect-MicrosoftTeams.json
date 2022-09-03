@@ -11,6 +11,7 @@
   "LogFilePath",
   "TeamsEnvironmentName",
   "UseDeviceAuthentication",
+  "EndpointUris",
   "Verbose",
   "Debug",
   "ErrorAction",

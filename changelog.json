@@ -1,5 +1,79 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "EndpointUris",
+    "Module": "4.7.0",
+    "Event": "Add",
+    "Timestamp": "2022-09-03 03:58:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Param": "ConnectorSpecificSettings",
+    "Module": "4.7.0",
+    "Event": "Add",
+    "Timestamp": "2022-09-03 03:58:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorSpecificSettings",
+    "Module": "4.7.0",
+    "Event": "Add",
+    "Timestamp": "2022-09-03 03:58:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorSpecificSettings",
+    "Module": "4.7.0",
+    "Event": "Add",
+    "Timestamp": "2022-09-03 03:58:22"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.7.0",
+    "Event": "Remove",
+    "Timestamp": "2022-09-03 03:58:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.7.0",
+    "Event": "Remove",
+    "Timestamp": "2022-09-03 03:58:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.7.0",
+    "Event": "Remove",
+    "Timestamp": "2022-09-03 03:58:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.7.0",
+    "Event": "Remove",
+    "Timestamp": "2022-09-03 03:58:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.7.0",
+    "Event": "Remove",
+    "Timestamp": "2022-09-03 03:58:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.7.0",
+    "Event": "Remove",
+    "Timestamp": "2022-09-03 03:58:21"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "AllowCallQueuePresenceBasedRoutingChange",
