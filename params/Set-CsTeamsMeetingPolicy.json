@@ -1,4 +1,5 @@
 [
+  "AllowAnnotations",
   "AllowAnonymousUsersToDialOut",
   "AllowAnonymousUsersToJoinMeeting",
   "AllowAnonymousUsersToStartMeeting",
@@ -8,6 +9,8 @@
   "AllowCartCaptionsScheduling",
   "AllowChannelMeetingScheduling",
   "AllowCloudRecording",
+  "AllowDocumentCollaboration",
+  "AllowedStreamingMediaInput",
   "AllowEngagementReport",
   "AllowExternalParticipantGiveRequestControl",
   "AllowImmersiveView",

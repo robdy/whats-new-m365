@@ -1,6 +1,10 @@
 [
-  "Force",
-  "MsftInternalProcessingMode",
+  "Break",
+  "HttpPipelineAppend",
+  "HttpPipelinePrepend",
+  "Proxy",
+  "ProxyCredential",
+  "ProxyUseDefaultCredentials",
   "Verbose",
   "Debug",
   "ErrorAction",

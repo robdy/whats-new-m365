@@ -1,5 +1,1237 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueAgentSelectionChange",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueCallAnsweringChange",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueConferenceModeChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueNoAgentsRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueTimeoutRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOverflowRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueLanguageChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "CallQueueAgentMonitorNotificationMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "CallQueueAgentMonitorMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueRoutingMethodChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueMembershipChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidayRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantAfterHoursRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidaysChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantLanguageChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantTimeZoneChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:11"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AudibleRecordingNotification",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:17:06"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": null,
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:17:01"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "ApplicationId",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "CertificateThumbprint",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "CallQueueAgentMonitorNotificationMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "CallQueueAgentMonitorMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueTimeoutRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueRoutingMethodChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueuePresenceBasedRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOverflowRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOptOutChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueNoAgentsRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueMembershipChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueLanguageChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueConferenceModeChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueAgentOptChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantTimeZoneChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantLanguageChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidaysChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidayRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantAfterHoursRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowedStreamingMediaInput",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowDocumentCollaboration",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowAnnotations",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEducationConfiguration",
+    "Param": null,
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAcsFederationConfiguration",
+    "Param": "BlockedAcsResources",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAcsFederationConfiguration",
+    "Param": "AllowAllAcsResources",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "TenantDomain",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "Force",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "ProxyUseDefaultCredentials",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "ProxyCredential",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "Proxy",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "HttpPipelineAppend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "Break",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "Body",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "Skiptoken",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "Confirm",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "WhatIf",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "TenantDomain",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "SendEmailFromDisplayName",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "SendEmailFromAddress",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "ResetConferenceId",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "ConferenceId",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "AllowPSTNOnlyMeetings",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "AsJob",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "DomainController",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "Confirm",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "WhatIf",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "TenantDomain",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "AsJob",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "DomainController",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "Force",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "ProxyUseDefaultCredentials",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "ProxyCredential",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "Proxy",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "PassThru",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "HttpPipelineAppend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "Break",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "InputObject",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "CallQueueAgentMonitorNotificationMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "CallQueueAgentMonitorMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueTimeoutRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueRoutingMethodChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueuePresenceBasedRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOverflowRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueOptOutChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueNoAgentsRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueMembershipChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueLanguageChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueConferenceModeChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueAgentOptChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantTimeZoneChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantLanguageChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidaysChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantHolidayRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantBusinessHoursChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowAutoAttendantAfterHoursRoutingChange",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowedStreamingMediaInput",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowDocumentCollaboration",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowAnnotations",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "Force",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "Confirm",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "WhatIf",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "ProxyUseDefaultCredentials",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "ProxyCredential",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "Proxy",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "HttpPipelineAppend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "Break",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "InputObject",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": null,
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "ServiceNumber",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "BridgeName",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "BridgeId",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "TenantDomain",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "LdapFilter",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "Force",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "Force",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "ProxyUseDefaultCredentials",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "ProxyCredential",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "Proxy",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "HttpPipelineAppend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "Break",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "TenantDomain",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "Force",
+    "Module": "4.7.1",
+    "Event": "Remove",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "ProxyUseDefaultCredentials",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "ProxyCredential",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "Proxy",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "HttpPipelinePrepend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "HttpPipelineAppend",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "Break",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEducationConfiguration",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-09-16 04:16:46"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Connect-MicrosoftTeams",
     "Param": "EndpointUris",

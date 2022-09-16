@@ -2,6 +2,7 @@
   "AllowWebinars",
   "Description",
   "EventAccessType",
+  "ForceStreamingAttendeeMode",
   "Identity",
   "MsftInternalProcessingMode",
   "Verbose",

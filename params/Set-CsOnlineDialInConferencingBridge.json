@@ -1,12 +1,13 @@
 [
-  "Identity",
-  "DefaultServiceNumber",
-  "Force",
-  "SetDefault",
-  "TenantDomain",
-  "MsftInternalProcessingMode",
-  "Instance",
   "Name",
+  "DefaultServiceNumber",
+  "SetDefault",
+  "Identity",
+  "DomainController",
+  "Force",
+  "Instance",
+  "AsJob",
+  "HttpPipelinePrepend",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -17,7 +18,5 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "PipelineVariable"
 ]

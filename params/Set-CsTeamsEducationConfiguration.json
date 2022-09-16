@@ -1,7 +1,7 @@
 [
   "Identity",
-  "ResultSize",
-  "HttpPipelinePrepend",
+  "ParentGuardianPreferredContactMethod",
+  "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -12,5 +12,7 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

@@ -16,6 +16,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Enable-CsOnlineSipDomain",
     "CommandType": "Function"
   },
@@ -140,11 +144,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineDialInConferencingBridge",
+    "Name": "Get-CsOnlineDialinConferencingBridge",
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineDialInConferencingLanguagesSupported",
+    "Name": "Get-CsOnlineDialinConferencingLanguagesSupported",
     "CommandType": "Function"
   },
   {
@@ -325,6 +329,10 @@
   },
   {
     "Name": "Get-CsTeamsEducationAssignmentsAppPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Get-CsTeamsEducationConfiguration",
     "CommandType": "Function"
   },
   {
@@ -1424,7 +1432,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsOnlineDialInConferencingUserDefaultNumber",
+    "Name": "Set-CsOnlineDialinConferencingUserDefaultNumber",
     "CommandType": "Function"
   },
   {
@@ -1541,6 +1549,10 @@
   },
   {
     "Name": "Set-CsTeamsEducationAssignmentsAppPolicy",
+    "CommandType": "Function"
+  },
+  {
+    "Name": "Set-CsTeamsEducationConfiguration",
     "CommandType": "Function"
   },
   {
@@ -1776,6 +1788,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Add-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -1789,6 +1805,10 @@
   },
   {
     "Name": "Get-AssociatedTeam",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -1832,6 +1852,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
@@ -1872,6 +1896,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
@@ -1901,6 +1929,10 @@
   },
   {
     "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]

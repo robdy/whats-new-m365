@@ -1,7 +1,12 @@
 [
   "TelephoneNumber",
-  "Force",
-  "MsftInternalProcessingMode",
+  "InputObject",
+  "Break",
+  "HttpPipelineAppend",
+  "HttpPipelinePrepend",
+  "Proxy",
+  "ProxyCredential",
+  "ProxyUseDefaultCredentials",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -12,5 +17,7 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
 ]

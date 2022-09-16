@@ -1,7 +1,5 @@
 [
-  "AllowAllAcsResources",
   "AllowedAcsResources",
-  "BlockedAcsResources",
   "EnableAcsUsers",
   "Identity",
   "MsftInternalProcessingMode",

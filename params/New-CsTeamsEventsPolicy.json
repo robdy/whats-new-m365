@@ -3,6 +3,7 @@
   "AllowWebinars",
   "Description",
   "EventAccessType",
+  "ForceStreamingAttendeeMode",
   "MsftInternalProcessingMode",
   "Verbose",
   "Debug",
