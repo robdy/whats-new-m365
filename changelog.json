@@ -1,6 +1,70 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Identity",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Key",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "DataSource",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Description",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "DisableComplianceRecordingAudioNotificationForCalls",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "WarnUserOnRemoval",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Enabled",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "ComplianceRecordingApplications",
+    "Module": "4.7.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-05 03:29:26"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "AllowCallQueueAgentSelectionChange",
     "Module": "4.7.1",
