@@ -2,6 +2,7 @@
   "Name",
   "Menu",
   "Greetings",
+  "ForceListenMenuEnabled",
   "Force",
   "HttpPipelinePrepend",
   "Verbose",

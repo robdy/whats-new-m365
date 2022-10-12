@@ -1,5 +1,69 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Param": "ForceListenMenuEnabled",
+    "Module": "4.8.0",
+    "Event": "Add",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEducationConfiguration",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.8.0",
+    "Event": "Remove",
+    "Timestamp": "2022-10-12 04:01:21"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
     "Param": "Identity",
