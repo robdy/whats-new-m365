@@ -26,6 +26,7 @@
   "AllowFluidCollaborate",
   "AllowVideoMessages",
   "AllowCommunicationComplianceEndUserReporting",
+  "AllowChatWithGroup",
   "DataSource",
   "Key",
   "Identity"

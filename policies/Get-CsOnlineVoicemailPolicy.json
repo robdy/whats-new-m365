@@ -1,4 +1,5 @@
 [
+  "Description",
   "EnableTranscription",
   "ShareData",
   "EnableTranscriptionProfanityMasking",
@@ -7,6 +8,9 @@
   "EnableTranscriptionTranslation",
   "PrimarySystemPromptLanguage",
   "SecondarySystemPromptLanguage",
+  "PreambleAudioFile",
+  "PostambleAudioFile",
+  "PreamblePostambleMandatory",
   "DataSource",
   "Key",
   "Identity"

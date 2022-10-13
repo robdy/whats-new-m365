@@ -4,6 +4,7 @@
   "AllowScreenshotCollection",
   "AllowEmailCollection",
   "AllowLogCollection",
+  "EnableFeatureSuggestions",
   "DataSource",
   "Key",
   "Identity"
