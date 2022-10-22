@@ -1,5 +1,160 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": null,
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:53"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoicemailPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMessagingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMeetingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineVoicemailPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineVoicemailPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Module": "4.8.1",
+    "Event": "Remove",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEducationConfiguration",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.8.1",
+    "Event": "Add",
+    "Timestamp": "2022-10-22 03:51:52"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "AllowChatWithGroup",

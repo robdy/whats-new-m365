@@ -16,6 +16,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Enable-CsOnlineSipDomain",
     "CommandType": "Function"
   },
@@ -244,10 +248,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsOnlineVoicemailPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsOnlineVoicemailUserSettings",
     "CommandType": "Function"
   },
@@ -328,6 +328,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsTeamsEducationConfiguration",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Function"
   },
@@ -381,14 +385,6 @@
   },
   {
     "Name": "Get-CsTeamsMeetingConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsMessagingPolicy",
     "CommandType": "Function"
   },
   {
@@ -884,10 +880,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsOnlineVoicemailPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsOnlineVoiceRoute",
     "CommandType": "Function"
   },
@@ -965,14 +957,6 @@
   },
   {
     "Name": "New-CsTeamsMeetingBroadcastPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsMessagingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1168,10 +1152,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsOnlineVoicemailPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsOnlineVoiceRoute",
     "CommandType": "Function"
   },
@@ -1253,14 +1233,6 @@
   },
   {
     "Name": "Remove-CsTeamsMeetingBroadcastPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsMessagingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1472,10 +1444,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsOnlineVoicemailPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsOnlineVoicemailUserSettings",
     "CommandType": "Function"
   },
@@ -1544,6 +1512,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Set-CsTeamsEducationConfiguration",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Set-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Function"
   },
@@ -1593,14 +1565,6 @@
   },
   {
     "Name": "Set-CsTeamsMeetingConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsMeetingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsMessagingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1768,11 +1732,19 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Update-CsTeamsShiftsConnectionInstance",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Update-CsTeamTemplate",
     "CommandType": "Function"
   },
   {
     "Name": "Add-TeamChannelUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Add-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   },
   {
@@ -1789,6 +1761,10 @@
   },
   {
     "Name": "Get-AssociatedTeam",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
   {
@@ -1832,6 +1808,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
@@ -1872,6 +1852,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-TeamsAppInstallation",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
@@ -1901,6 +1885,10 @@
   },
   {
     "Name": "Set-TeamTargetingHierarchy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]
