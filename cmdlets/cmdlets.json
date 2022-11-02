@@ -16,10 +16,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Disable-CsTeamsShiftsConnectionErrorReport",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Enable-CsOnlineSipDomain",
     "CommandType": "Function"
   },
@@ -345,10 +341,6 @@
   },
   {
     "Name": "Get-CsTeamsEventsPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
   {
@@ -944,10 +936,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsFeedbackPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsFilesPolicy",
     "CommandType": "Function"
   },
@@ -1217,10 +1205,6 @@
   },
   {
     "Name": "Remove-CsTeamsEventsPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
   {
@@ -1532,10 +1516,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsFeedbackPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsFilesPolicy",
     "CommandType": "Function"
   },
@@ -1744,10 +1724,6 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Add-TeamsAppInstallation",
-    "CommandType": "Cmdlet"
-  },
-  {
     "Name": "Add-TeamUser",
     "CommandType": "Cmdlet"
   },
@@ -1764,7 +1740,19 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Get-LicenseReportForChangeNotificationSubscription",
+    "Name": "Get-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsMessagingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1808,15 +1796,27 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Get-TeamsAppInstallation",
-    "CommandType": "Cmdlet"
-  },
-  {
     "Name": "Get-TeamTargetingHierarchyStatus",
     "CommandType": "Cmdlet"
   },
   {
     "Name": "Get-TeamUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMessagingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1829,6 +1829,22 @@
   },
   {
     "Name": "New-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsMessagingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1852,15 +1868,27 @@
     "CommandType": "Cmdlet"
   },
   {
-    "Name": "Remove-TeamsAppInstallation",
-    "CommandType": "Cmdlet"
-  },
-  {
     "Name": "Remove-TeamTargetingHierarchy",
     "CommandType": "Cmdlet"
   },
   {
     "Name": "Remove-TeamUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsMessagingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1885,10 +1913,6 @@
   },
   {
     "Name": "Set-TeamTargetingHierarchy",
-    "CommandType": "Cmdlet"
-  },
-  {
-    "Name": "Update-TeamsAppInstallation",
     "CommandType": "Cmdlet"
   }
 ]

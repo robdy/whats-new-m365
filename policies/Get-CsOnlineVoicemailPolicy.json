@@ -1,4 +1,5 @@
 [
+  "Identity",
   "Description",
   "EnableTranscription",
   "ShareData",
@@ -10,8 +11,5 @@
   "SecondarySystemPromptLanguage",
   "PreambleAudioFile",
   "PostambleAudioFile",
-  "PreamblePostambleMandatory",
-  "DataSource",
-  "Key",
-  "Identity"
+  "PreamblePostambleMandatory"
 ]
