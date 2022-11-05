@@ -1,0 +1,19 @@
+[
+  "ChassisID",
+  "Force",
+  "IsDebug",
+  "NCSApiUrl",
+  "TargetStore",
+  "MsftInternalProcessingMode",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

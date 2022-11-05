@@ -1,0 +1,21 @@
+[
+  "Identity",
+  "BridgeId",
+  "BridgeName",
+  "Force",
+  "RemoveDefaultServiceNumber",
+  "TenantDomain",
+  "MsftInternalProcessingMode",
+  "Instance",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

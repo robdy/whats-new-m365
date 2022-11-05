@@ -1,0 +1,19 @@
+[
+  "Identity",
+  "Type",
+  "EnableTranscription",
+  "EnableSharedVoicemailSystemPromptSuppression",
+  "Force",
+  "HttpPipelinePrepend",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

@@ -1,0 +1,23 @@
+[
+  "Identity",
+  "ConfigurationSnapshot",
+  "Error",
+  "Force",
+  "Status",
+  "Version",
+  "MsftInternalProcessingMode",
+  "Instance",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
+]

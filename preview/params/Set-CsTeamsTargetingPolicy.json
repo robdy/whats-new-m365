@@ -1,0 +1,23 @@
+[
+  "CustomTagsMode",
+  "Description",
+  "Identity",
+  "ManageTagsPermissionMode",
+  "ShiftBackedTagsMode",
+  "SuggestedPresetTags",
+  "TeamOwnersEditWhoCanManageTagsMode",
+  "MsftInternalProcessingMode",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
+]

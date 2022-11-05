@@ -1,0 +1,14 @@
+[
+  "AllowedDomains",
+  "BlockedDomains",
+  "AllowFederatedUsers",
+  "AllowPublicUsers",
+  "AllowTeamsConsumer",
+  "AllowTeamsConsumerInbound",
+  "TreatDiscoveredPartnersAsUnverified",
+  "SharedSipAddressSpace",
+  "RestrictTeamsConsumerToExternalUserProfiles",
+  "DataSource",
+  "Key",
+  "Identity"
+]

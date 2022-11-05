@@ -1,0 +1,12 @@
+[
+  "SdnProviderName",
+  "SdnLicenseId",
+  "SdnApiTemplateUrl",
+  "SdnApiToken",
+  "SdnRuntimeConfiguration",
+  "SupportURL",
+  "AllowSdnProviderForBroadcastMeeting",
+  "DataSource",
+  "Key",
+  "Identity"
+]

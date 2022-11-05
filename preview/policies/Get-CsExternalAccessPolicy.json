@@ -1,0 +1,15 @@
+[
+  "Description",
+  "EnableFederationAccess",
+  "EnableXmppAccess",
+  "EnablePublicCloudAccess",
+  "EnablePublicCloudAudioVideoAccess",
+  "EnableOutsideAccess",
+  "EnableAcsFederationAccess",
+  "EnableTeamsConsumerAccess",
+  "EnableTeamsConsumerInbound",
+  "RestrictTeamsConsumerAccessToExternalUserProfiles",
+  "DataSource",
+  "Key",
+  "Identity"
+]

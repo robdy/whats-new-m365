@@ -1,0 +1,23 @@
+[
+  "IncludeStatus",
+  "First",
+  "Skip",
+  "ExcludeContent",
+  "NameFilter",
+  "SortBy",
+  "Descending",
+  "Force",
+  "HttpPipelinePrepend",
+  "Identity",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

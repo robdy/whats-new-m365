@@ -1,0 +1,22 @@
+[
+  "Global",
+  "PassThru",
+  "PolicyName",
+  "MsftInternalProcessingMode",
+  "Group",
+  "Rank",
+  "Identity",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
+]

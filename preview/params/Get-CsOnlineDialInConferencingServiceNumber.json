@@ -1,0 +1,21 @@
+[
+  "BridgeName",
+  "City",
+  "Force",
+  "ResultSize",
+  "MsftInternalProcessingMode",
+  "BridgeId",
+  "TenantDomain",
+  "Identity",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

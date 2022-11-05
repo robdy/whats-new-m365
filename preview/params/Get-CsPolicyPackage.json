@@ -1,0 +1,21 @@
+[
+  "Identity",
+  "InputObject",
+  "Break",
+  "HttpPipelineAppend",
+  "HttpPipelinePrepend",
+  "Proxy",
+  "ProxyCredential",
+  "ProxyUseDefaultCredentials",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

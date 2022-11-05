@@ -1,0 +1,16 @@
+[
+  "HostTeamId",
+  "ChannelId",
+  "SharedWithTeamId",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

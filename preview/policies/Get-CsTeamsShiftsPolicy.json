@@ -1,0 +1,12 @@
+[
+  "EnableShiftPresence",
+  "ShiftNoticeFrequency",
+  "ShiftNoticeMessageType",
+  "ShiftNoticeMessageCustom",
+  "AccessType",
+  "AccessGracePeriodMinutes",
+  "EnableScheduleOwnerPermissions",
+  "DataSource",
+  "Key",
+  "Identity"
+]

@@ -1,0 +1,22 @@
+[
+  "Filter",
+  "First",
+  "Force",
+  "SearchQuery",
+  "Select",
+  "Skip",
+  "SortDescending",
+  "MsftInternalProcessingMode",
+  "Identity",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable"
+]

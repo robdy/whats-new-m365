@@ -1,0 +1,19 @@
+[
+  "AllowTollFreeDialin",
+  "Identity",
+  "MeetingInvitePhoneNumbers",
+  "MsftInternalProcessingMode",
+  "Verbose",
+  "Debug",
+  "ErrorAction",
+  "WarningAction",
+  "InformationAction",
+  "ErrorVariable",
+  "WarningVariable",
+  "InformationVariable",
+  "OutVariable",
+  "OutBuffer",
+  "PipelineVariable",
+  "WhatIf",
+  "Confirm"
+]

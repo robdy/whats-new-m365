@@ -1,0 +1,20 @@
+[
+  "AllowEmailIntoChannel",
+  "RestrictedSenderList",
+  "AllowDropBox",
+  "AllowBox",
+  "AllowGoogleDrive",
+  "AllowShareFile",
+  "AllowEgnyte",
+  "AllowOrganizationTab",
+  "AllowSkypeBusinessInterop",
+  "ContentPin",
+  "AllowResourceAccountSendMessage",
+  "ResourceAccountContentAccess",
+  "AllowGuestUser",
+  "AllowScopedPeopleSearchandAccess",
+  "AllowRoleBasedChatPermissions",
+  "DataSource",
+  "Key",
+  "Identity"
+]

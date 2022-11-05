@@ -1,0 +1,17 @@
+[
+  "Description",
+  "EnableTranscription",
+  "ShareData",
+  "EnableTranscriptionProfanityMasking",
+  "EnableEditingCallAnswerRulesSetting",
+  "MaximumRecordingLength",
+  "EnableTranscriptionTranslation",
+  "PrimarySystemPromptLanguage",
+  "SecondarySystemPromptLanguage",
+  "PreambleAudioFile",
+  "PostambleAudioFile",
+  "PreamblePostambleMandatory",
+  "DataSource",
+  "Key",
+  "Identity"
+]
