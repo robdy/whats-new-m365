@@ -1,6 +1,46 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "AllowTeamsSms",
+    "Module": "4.9.0",
+    "Event": "Add",
+    "Timestamp": "2022-11-11 19:26:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.0",
+    "Event": "Add",
+    "Timestamp": "2022-11-11 19:26:47"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowPrivateTeamDiscovery",
+    "Module": "4.9.0",
+    "Event": "Remove",
+    "Timestamp": "2022-11-11 19:26:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.0",
+    "Event": "Add",
+    "Timestamp": "2022-11-11 19:26:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableTeamsSmsAccess",
+    "Module": "4.9.0",
+    "Event": "Add",
+    "Timestamp": "2022-11-11 19:26:33"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "Key",
     "Module": "4.9.0",

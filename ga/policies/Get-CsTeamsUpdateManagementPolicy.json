@@ -6,6 +6,7 @@
   "UpdateTime",
   "UpdateTimeOfDay",
   "AllowPublicPreview",
+  "UseNewTeamsClient",
   "DataSource",
   "Key",
   "Identity"

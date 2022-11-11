@@ -4,6 +4,7 @@
   "EnableXmppAccess",
   "EnablePublicCloudAccess",
   "EnablePublicCloudAudioVideoAccess",
+  "EnableTeamsSmsAccess",
   "EnableOutsideAccess",
   "EnableAcsFederationAccess",
   "EnableTeamsConsumerAccess",
