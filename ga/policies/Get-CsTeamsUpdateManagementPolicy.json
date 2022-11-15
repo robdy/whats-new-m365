@@ -1,4 +1,5 @@
 [
+  "Identity",
   "Description",
   "AllowManagedUpdates",
   "AllowPreview",
@@ -6,8 +7,5 @@
   "UpdateTime",
   "UpdateTimeOfDay",
   "AllowPublicPreview",
-  "UseNewTeamsClient",
-  "DataSource",
-  "Key",
-  "Identity"
+  "UseNewTeamsClient"
 ]

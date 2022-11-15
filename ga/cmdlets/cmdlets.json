@@ -300,10 +300,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsChannelsPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsClientConfiguration",
     "CommandType": "Function"
   },
@@ -457,10 +453,6 @@
   },
   {
     "Name": "Get-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -896,10 +888,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsChannelsPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsComplianceRecordingApplication",
     "CommandType": "Function"
   },
@@ -989,10 +977,6 @@
   },
   {
     "Name": "New-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -1176,10 +1160,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsChannelsPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsComplianceRecordingApplication",
     "CommandType": "Function"
   },
@@ -1269,10 +1249,6 @@
   },
   {
     "Name": "Remove-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -1472,10 +1448,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsChannelsPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsClientConfiguration",
     "CommandType": "Function"
   },
@@ -1597,10 +1569,6 @@
   },
   {
     "Name": "Set-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -1744,6 +1712,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsFeedbackPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1753,6 +1725,10 @@
   },
   {
     "Name": "Get-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsUpdateManagementPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1808,6 +1784,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-CsTeamsFeedbackPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1817,6 +1797,10 @@
   },
   {
     "Name": "New-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsUpdateManagementPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1836,6 +1820,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsTeamsFeedbackPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1845,6 +1833,10 @@
   },
   {
     "Name": "Remove-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsUpdateManagementPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1880,6 +1872,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsFeedbackPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1889,6 +1885,10 @@
   },
   {
     "Name": "Set-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsUpdateManagementPolicy",
     "CommandType": "Cmdlet"
   },
   {

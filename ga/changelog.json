@@ -1,6 +1,126 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "Key",
+    "Module": "4.9.1",
+    "Event": "Remove",
+    "Timestamp": "2022-11-15 16:56:46"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.1",
+    "Event": "Remove",
+    "Timestamp": "2022-11-15 16:56:46"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "Key",
+    "Module": "4.9.1",
+    "Event": "Remove",
+    "Timestamp": "2022-11-15 16:56:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.1",
+    "Event": "Remove",
+    "Timestamp": "2022-11-15 16:56:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowPrivateTeamDiscovery",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:44"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "Force",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "Force",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsUpdateManagementPolicy",
+    "Param": "Force",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsChannelsPolicy",
+    "Param": "Force",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "Force",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "Force",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.1",
+    "Event": "Add",
+    "Timestamp": "2022-11-15 16:56:19"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTenantFederationConfiguration",
     "Param": "AllowTeamsSms",
     "Module": "4.9.0",
