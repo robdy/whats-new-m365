@@ -1,7 +1,7 @@
 [
   "TenantId",
   "Credential",
-  "CertificateThumbprint",
+  "Certificate",
   "ApplicationId",
   "AccessTokens",
   "AccountId",

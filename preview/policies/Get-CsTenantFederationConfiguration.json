@@ -3,6 +3,7 @@
   "BlockedDomains",
   "AllowFederatedUsers",
   "AllowPublicUsers",
+  "AllowTeamsSms",
   "AllowTeamsConsumer",
   "AllowTeamsConsumerInbound",
   "TreatDiscoveredPartnersAsUnverified",

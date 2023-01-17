@@ -1,5 +1,7 @@
 [
+  "Identity",
   "Description",
+  "AllowOwnerEditMessage",
   "AllowUrlPreviews",
   "AllowOwnerDeleteMessage",
   "AllowUserEditMessage",
@@ -27,7 +29,5 @@
   "AllowVideoMessages",
   "AllowCommunicationComplianceEndUserReporting",
   "AllowChatWithGroup",
-  "DataSource",
-  "Key",
-  "Identity"
+  "AllowSecurityEndUserReporting"
 ]

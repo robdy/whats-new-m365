@@ -1,5 +1,743 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowSecurityEndUserReporting",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowOwnerEditMessage",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "CommaSeparator",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowedPrivateMeetingScheduling",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnableLowBandwidthConsumption",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowTeamsMeeting",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingRecordingExpirationDays",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage2",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage1",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AppDesktopSharingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AdmitAnonymousUsersByDefault",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnableAppDesktopSharing",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnableOutlookAddIn",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "AllowTeamsSms",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:29"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "Identity",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "Key",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "DataSource",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "ParentGuardianPreferredContactMethod",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "EnableTeamsSmsAccess",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:17"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsFeedbackPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsFeedbackPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsFeedbackPolicy",
+    "Param": "EnableFeatureSuggestions",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "AllowPrivateTeamDiscovery",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsUpdateManagementPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsUpdateManagementPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMessagingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsFeedbackPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsFeedbackPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsChannelsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsChannelsPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineVoicemailPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:13"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsFeedbackPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsFeedbackPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsFeedbackPolicy",
+    "Param": "EnableFeatureSuggestions",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "AllowPrivateTeamDiscovery",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "Force",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineVoicemailPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "CertificateThumbprint",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "Certificate",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "WelcomeTextToSpeechPrompt",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsSdgBulkSignInRequest",
+    "Param": null,
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "WelcomeTextToSpeechPrompt",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestStatus",
+    "Param": null,
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoicemailPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMessagingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMeetingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineVoicemailPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineVoicemailPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsSdgBulkSignInRequest",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestStatus",
+    "Module": "4.9.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-01-17 14:18:12"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
     "Param": null,

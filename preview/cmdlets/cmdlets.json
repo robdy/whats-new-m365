@@ -276,6 +276,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "Get-CsSdgBulkSignInRequestStatus",
+    "CommandType": "Function"
+  },
+  {
     "Name": "Get-CsTeamsAcsFederationConfiguration",
     "CommandType": "Function"
   },
@@ -301,10 +305,6 @@
   },
   {
     "Name": "Get-CsTeamsCallParkPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsChannelsPolicy",
     "CommandType": "Function"
   },
   {
@@ -345,10 +345,6 @@
   },
   {
     "Name": "Get-CsTeamsEventsPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
   {
@@ -465,10 +461,6 @@
   },
   {
     "Name": "Get-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -888,6 +880,10 @@
     "CommandType": "Function"
   },
   {
+    "Name": "New-CsSdgBulkSignInRequest",
+    "CommandType": "Function"
+  },
+  {
     "Name": "New-CsTeamsAudioConferencingPolicy",
     "CommandType": "Function"
   },
@@ -901,10 +897,6 @@
   },
   {
     "Name": "New-CsTeamsCallParkPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsChannelsPolicy",
     "CommandType": "Function"
   },
   {
@@ -941,10 +933,6 @@
   },
   {
     "Name": "New-CsTeamsEventsPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
   {
@@ -1001,10 +989,6 @@
   },
   {
     "Name": "New-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -1188,10 +1172,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsChannelsPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsComplianceRecordingApplication",
     "CommandType": "Function"
   },
@@ -1217,10 +1197,6 @@
   },
   {
     "Name": "Remove-CsTeamsEventsPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
   {
@@ -1285,10 +1261,6 @@
   },
   {
     "Name": "Remove-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -1488,10 +1460,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsChannelsPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsClientConfiguration",
     "CommandType": "Function"
   },
@@ -1529,10 +1497,6 @@
   },
   {
     "Name": "Set-CsTeamsEventsPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsFeedbackPolicy",
     "CommandType": "Function"
   },
   {
@@ -1617,10 +1581,6 @@
   },
   {
     "Name": "Set-CsTeamsUnassignedNumberTreatment",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsUpdateManagementPolicy",
     "CommandType": "Function"
   },
   {
@@ -1764,6 +1724,30 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsUpdateManagementPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-LicenseReportForChangeNotificationSubscription",
     "CommandType": "Cmdlet"
   },
@@ -1820,6 +1804,30 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsUpdateManagementPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-Team",
     "CommandType": "Cmdlet"
   },
@@ -1829,6 +1837,30 @@
   },
   {
     "Name": "New-TeamsApp",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsUpdateManagementPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1861,6 +1893,30 @@
   },
   {
     "Name": "Remove-TeamUser",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsMeetingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsUpdateManagementPolicy",
     "CommandType": "Cmdlet"
   },
   {

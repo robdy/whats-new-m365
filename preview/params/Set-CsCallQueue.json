@@ -6,6 +6,7 @@
   "DistributionLists",
   "UseDefaultMusicOnHold",
   "WelcomeMusicAudioFileId",
+  "WelcomeTextToSpeechPrompt",
   "MusicOnHoldAudioFileId",
   "OverflowAction",
   "OverflowActionTarget",
