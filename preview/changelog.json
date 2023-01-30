@@ -1,6 +1,110 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PreamblePostambleMandatory",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PostambleAudioFile",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PreambleAudioFile",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "SecondarySystemPromptLanguage",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PrimarySystemPromptLanguage",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableTranscriptionTranslation",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "MaximumRecordingLength",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableEditingCallAnswerRulesSetting",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableTranscriptionProfanityMasking",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "ShareData",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableTranscription",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Description",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Identity",
+    "Module": "4.9.2-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-01-30 02:37:40"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
     "Param": "Key",
     "Module": "4.9.2-preview",
