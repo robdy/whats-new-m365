@@ -1,6 +1,525 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "UpaSeparator4",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "UpaSeparator3",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "UpaSeparator2",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "UpaSeparator",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "EnableMeetingBackgroundImages",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "EnableNdiAssuranceSlate",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "EnableMeetingOptionsThemeOverride",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "DefaultTheme",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "EnableLobbyBackgroundBranding",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "EnableLobbyLogoBranding",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "MeetingBrandingThemes",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "MeetingBackgroundImages",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "NdiAssuranceSlateImages",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "LobbyBackgroundBrandingImages",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "LobbyLogoBrandingImages",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "Identity",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "Key",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExtendedNotifications",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "Key",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceAuthType",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceUrl",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:37"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "Force",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExtendedNotifications",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "Force",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceAuthType",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceUrl",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallingPolicy",
+    "Param": "Force",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallHoldPolicy",
+    "Param": "Force",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsNdiAssuranceSlate",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "Force",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExtendedNotifications",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingExtendedNotification",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "Force",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceAuthType",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceUrl",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "CertificateThumbprint",
+    "Module": "4.9.3",
+    "Event": "Remove",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "Certificate",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "WelcomeTextToSpeechPrompt",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:22"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "WelcomeTextToSpeechPrompt",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsNdiAssuranceSlate",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEmergencyCallingExtendedNotification",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.3",
+    "Event": "Add",
+    "Timestamp": "2023-02-01 02:51:21"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsEducationConfiguration",
     "Param": "Identity",
     "Module": "4.9.1",

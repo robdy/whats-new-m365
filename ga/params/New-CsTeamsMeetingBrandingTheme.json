@@ -1,10 +1,12 @@
 [
-  "Description",
-  "AudioFileId",
-  "StreamingSourceUrl",
-  "StreamingSourceAuthType",
+  "DisplayName",
+  "LogoImageLightUri",
+  "LogoImageDarkUri",
+  "BackgroundImageLightUri",
+  "BackgroundImageDarkUri",
+  "BrandAccentColor",
+  "Enabled",
   "Identity",
-  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -15,7 +17,5 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "PipelineVariable"
 ]

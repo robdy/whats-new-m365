@@ -1,7 +1,7 @@
 [
+  "Identity",
   "Description",
   "AudioFileId",
-  "DataSource",
-  "Key",
-  "Identity"
+  "StreamingSourceUrl",
+  "StreamingSourceAuthType"
 ]

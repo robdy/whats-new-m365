@@ -288,10 +288,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsCallHoldPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
@@ -321,10 +317,6 @@
   },
   {
     "Name": "Get-CsTeamsEducationConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -876,10 +868,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsCallHoldPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
@@ -901,10 +889,6 @@
   },
   {
     "Name": "New-CsTeamsCortanaPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1148,10 +1132,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsCallHoldPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
@@ -1169,10 +1149,6 @@
   },
   {
     "Name": "Remove-CsTeamsCortanaPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1436,10 +1412,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsCallHoldPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
@@ -1469,10 +1441,6 @@
   },
   {
     "Name": "Set-CsTeamsEducationConfiguration",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1712,11 +1680,23 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsCallHoldPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsChannelsPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsMeetingBrandingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1780,7 +1760,15 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Grant-CsTeamsMeetingBrandingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsCallHoldPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1788,7 +1776,27 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsTeamsEmergencyCallingExtendedNotification",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMeetingBackgroundImage",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMeetingBrandingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsMeetingBrandingTheme",
     "CommandType": "Cmdlet"
   },
   {
@@ -1797,6 +1805,10 @@
   },
   {
     "Name": "New-CsTeamsMessagingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsNdiAssuranceSlate",
     "CommandType": "Cmdlet"
   },
   {
@@ -1820,11 +1832,23 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsTeamsCallHoldPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsTeamsChannelsPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsMeetingBrandingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1872,11 +1896,23 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsCallHoldPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsChannelsPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsFeedbackPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsMeetingBrandingPolicy",
     "CommandType": "Cmdlet"
   },
   {

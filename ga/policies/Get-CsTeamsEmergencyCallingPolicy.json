@@ -1,11 +1,10 @@
 [
+  "Identity",
+  "ExtendedNotifications",
   "NotificationGroup",
   "NotificationDialOutNumber",
   "ExternalLocationLookupMode",
   "NotificationMode",
   "EnhancedEmergencyServiceDisclaimer",
-  "Description",
-  "DataSource",
-  "Key",
-  "Identity"
+  "Description"
 ]
