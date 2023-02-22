@@ -1,6 +1,4564 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "UseNewTeamsClient",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "AllowPublicPreview",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "UpdateTimeOfDay",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "UpdateTime",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "UpdateDayOfWeek",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "AllowPreview",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "AllowManagedUpdates",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowSecurityEndUserReporting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowChatWithGroup",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowCommunicationComplianceEndUserReporting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowVideoMessages",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowFluidCollaborate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowFullChatPermissionUserToDeleteAnyMessage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "ChatPermissionRole",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AudioMessageEnabledType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "ChannelsInChatListEnabledType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowSmartCompose",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowSmartReply",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowPriorityMessages",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "ReadReceiptsEnabledType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUserTranslation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowStickers",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowImmersiveReader",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowMemes",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowPasteInternetImage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowGiphyDisplay",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "GiphyRatingType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowGiphy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowRemoveUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUserChat",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUserDeleteChat",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUserDeleteMessage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUserEditMessage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowOwnerDeleteMessage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowUrlPreviews",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowOwnerEditMessage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowedPrivateMeetingScheduling",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnableLowBandwidthConsumption",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowTeamsMeeting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AudibleRecordingNotification",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkForCameraVideo",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkForScreenSharing",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowDocumentCollaboration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAnnotations",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAvatarsInGallery",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowImmersiveView",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "QnAEngagementMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "LiveInterpretationEnabledType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "InfoShownInReportMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowTasksFromTranscript",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowCartCaptionsScheduling",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ChannelRecordingDownload",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguages",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "LiveStreamingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "NewMeetingRecordingExpirationDays",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingRecordingExpirationDays",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage2",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingInviteLanguage1",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowMeetingCoach",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "RoomPeopleNameUserOverride",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowCarbonSummary",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowScreenContentDigitization",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "WhoCanRegister",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowMeetingRegistration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowMeetingReactions",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "TeamsCameraFarEndPTZMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowBreakoutRooms",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "StreamingAttendeeMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "RoomAttributeUserOverride",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnrollUserOverride",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "SpeakerAttributionMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowUserToJoinExternalMeeting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowNDIStreaming",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "PreferredMeetingProviderForIslandsMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowOrganizersToOverrideLobbySettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowPSTNUsersToBypassLobby",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "VideoFiltersMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ScreenSharingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MediaBitRateKb",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowTranscription",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowWhiteboard",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowSharedNotes",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AppDesktopSharingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowExternalParticipantGiveRequestControl",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowParticipantGiveRequestControl",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowPowerPointSharing",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowOutlookAddIn",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "RecordingStorageMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowRecordingStorageOutsideRegion",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowCloudRecording",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AutoAdmittedUsers",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowPrivateMeetingScheduling",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AdmitAnonymousUsersByDefault",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ExplicitRecordingConsent",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowedStreamingMediaInput",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "BlockedAnonymousJoinClientTypes",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAnonymousUsersToJoinMeeting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAnonymousUsersToStartMeeting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowAnonymousUsersToDialOut",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "IPVideoMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "IPAudioMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowTrackingInReport",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowEngagementReport",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowIPVideo",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowIPAudio",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnableAppDesktopSharing",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "EnableOutlookAddIn",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "DesignatedPresenterRoleMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "LiveCaptionsEnabledType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "MeetingChatEnabledType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowPrivateMeetNow",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowMeetNow",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowChannelMeetingScheduling",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "EnableFeatureSuggestions",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "AllowLogCollection",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "AllowEmailCollection",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "AllowScreenshotCollection",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "ReceiveSurveysMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "UserInitiatedMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "Key",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "EnhancedEmergencyServiceDisclaimer",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "NotificationMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExternalLocationLookupMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "NotificationDialOutNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "NotificationGroup",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExtendedNotifications",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowUserToParticipateInExternalSharedChannel",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowChannelSharingToExternalUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowSharedChannelCreation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowPrivateChannelCreation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "EnablePrivateTeamDiscovery",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowPrivateTeamDiscovery",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "AllowOrgWideTeamCreation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "Key",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "DataSource",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceAuthType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceUrl",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "AudioFileId",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PreamblePostambleMandatory",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PostambleAudioFile",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PreambleAudioFile",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "SecondarySystemPromptLanguage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "PrimarySystemPromptLanguage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableTranscriptionTranslation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "MaximumRecordingLength",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableEditingCallAnswerRulesSetting",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableTranscriptionProfanityMasking",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "ShareData",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "EnableTranscription",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Description",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "Identity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-22 14:05:37"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "Force",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExtendedNotifications",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "Force",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceAuthType",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceUrl",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallingPolicy",
+    "Param": "Force",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallHoldPolicy",
+    "Param": "Force",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsNdiAssuranceSlate",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "Force",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "ExtendedNotifications",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingExtendedNotification",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "Force",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceAuthType",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "StreamingSourceUrl",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": null,
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsTeamTemplate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsCustomPolicyPackage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsAutoAttendant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Unregister-CsOnlineDialInConferencingServiceNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsVoiceNormalizationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsUnassignedNumberTreatment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsTranslationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsInboundBlockedNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Test-CsEffectiveTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Sync-CsOnlineApplicationInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Start-CsExMeetingMigration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsVideoInteropServiceProvider",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUserCallingDelegate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantTrustedIPAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantNetworkSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantNetworkSite",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantNetworkRegion",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantMigrationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantFederationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTenantBlockedCallingNumbers",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsWorkLoadPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsVdiPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsUpgradeConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsUnassignedNumberTreatment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsTranslationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsTargetingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsSurvivableBranchAppliancePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsSurvivableBranchAppliance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsAppPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsNotificationAndFeedsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsNetworkRoamingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMobilityPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMigrationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingBroadcastPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingBroadcastConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsIPPhonePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsGuestMessagingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsGuestMeetingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsGuestCallingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsFilesPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEnhancedEncryptionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEmergencyCallRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEducationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsEducationAssignmentsAppPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsCortanaPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingApplication",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsClientConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsCallParkPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAudioConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAcsFederationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsPrivacyConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoiceUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoiceRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoiceRoute",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoicemailUserSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineVoiceApplicationInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineSchedule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlinePstnUsage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlinePSTNGateway",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineLisWirelessAccessPoint",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineLisSwitch",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineLisSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineLisPort",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineLisLocation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineLisCivicAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineEnhancedEmergencyServiceDisclaimer",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineDialInConferencingTenantSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineDialInConferencingServiceNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineAudioConferencingRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsOnlineApplicationInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsInternalOnlinePowerShellEndpoint",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsInboundExemptNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsInboundBlockedNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsCallQueue",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsCallingLineIdentity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsAutoAttendant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsApplicationMeetingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsApplicationAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsVideoInteropServiceProvider",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsUserCallingDelegate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantTrustedIPAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantNetworkSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantNetworkSite",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantNetworkRegion",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamTemplate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsWorkLoadPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsVdiPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsUnassignedNumberTreatment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsTranslationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsTargetingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsSurvivableBranchAppliancePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsSurvivableBranchAppliance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsScheduleRecord",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsNotificationAndFeedsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsNetworkRoamingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMobilityPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMeetingBroadcastPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsIPPhonePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsFilesPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsEventsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsEnhancedEncryptionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsCortanaPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingApplication",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsCallParkPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsCallingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAudioConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAppSetupPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsAppPermissionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsPhoneNumberAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineVoiceRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineVoiceRoute",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineTelephoneNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineSchedule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlinePSTNGateway",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineLisWirelessAccessPoint",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineLisSwitch",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineLisSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineLisPort",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineLisLocation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineLisCivicAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineDialInConferencingTenantSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineAudioFile",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineAudioConferencingRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsOnlineApplicationInstanceAssociation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsInboundExemptNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsInboundBlockedNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsGroupPolicyAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsExternalAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsCustomPolicyPackage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsCallQueue",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsCallingLineIdentity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsAutoAttendant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsApplicationAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Register-CsOnlineDialInConferencingServiceNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsVoiceNormalizationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsVideoInteropServiceProvider",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsUserCallingDelegate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantTrustedIPAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantNetworkSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantNetworkSite",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantNetworkRegion",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamTemplate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsWorkLoadPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsVdiPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsUnassignedNumberTreatment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsTranslationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsSurvivableBranchAppliancePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsSurvivableBranchAppliance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionBatchTeamMap",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsNetworkRoamingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMobilityPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBroadcastPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsIPPhonePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsFilesPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEnhancedEncryptionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEmergencyNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEmergencyCallRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsCortanaPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPairedApplication",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsComplianceRecordingApplication",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsCallParkPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAudioConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsSdgBulkSignInRequest",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineVoiceRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineVoiceRoute",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineTimeRange",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineTelephoneNumberOrder",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineSchedule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlinePSTNGateway",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineLisLocation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineLisCivicAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineDateTimeRange",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineAudioConferencingRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineApplicationInstanceAssociation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsOnlineApplicationInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsInboundExemptNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsInboundBlockedNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsGroupPolicyAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsEdgeDomainPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsEdgeAllowList",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsEdgeAllowAllKnownDomains",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsCustomPolicyPackage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsCloudCallDataConnection",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsCallQueue",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsCallingLineIdentity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchPolicyPackageAssignmentOperation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsBatchPolicyAssignmentOperation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantPrompt",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantMenuOption",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantMenu",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantDialScope",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantCallHandlingAssociation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendantCallableEntity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsApplicationAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Move-CsInternalHelper",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Invoke-CsInternalPsTelemetry",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Import-CsAutoAttendantHolidays",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsUserPolicyPackage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsWorkLoadPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsVideoInteropServicePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsVdiPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsUpgradePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsUpdateManagementPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsSurvivableBranchAppliancePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsShiftsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMobilityPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMessagingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMeetingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMeetingBroadcastPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMediaLoggingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsIPPhonePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsFilesPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsFeedbackPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsEnhancedEncryptionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsCortanaPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsComplianceRecordingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsChannelsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsCallParkPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsCallHoldPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsOnlineVoiceRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsOnlineVoicemailPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsOnlineAudioConferencingRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsGroupPolicyPackageAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsDialoutPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsCallingLineIdentity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsApplicationAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsVideoInteropServiceProvider",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserPolicyPackageRecommendation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserPolicyPackage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserPolicyAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsUserCallingSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantTrustedIPAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantNetworkSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantNetworkSite",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantNetworkRegion",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantNetworkConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantMigrationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantLicensingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenantBlockedCallingNumbers",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTenant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamTemplateList",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamTemplate",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsVdiPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsUpgradeConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsUnassignedNumberTreatment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsTranslationRule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsTargetingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionOperation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsAppPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsNotificationAndFeedsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMobilityPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsIPPhonePolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsGuestMessagingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsGuestMeetingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsGuestCallingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsFilesPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsEducationAssignmentsAppPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsCortanaPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingApplication",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsClientConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsCallParkPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAudioConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestStatus",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsPrivacyConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsPolicyPackage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineVoiceUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineVoiceRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineVoiceRoute",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineVoicemailUserSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberType",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberOrder",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberCountry",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineTelephoneNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineSipDomain",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineSchedule",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlinePstnUsage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlinePSTNGateway",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlinePowerShellEndpoint",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineLisWirelessAccessPoint",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineLisSwitch",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineLisSubnet",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineLisPort",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineLisLocation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineLisCivicAddress",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineEnhancedEmergencyServiceDisclaimer",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDirectoryTenant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialInConferencingTenantSettings",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialInConferencingServiceNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineAudioFile",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociationStatus",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsOnlineApplicationInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsMeetingMigrationStatus",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsInboundExemptNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsInboundBlockedNumberPattern",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsHybridTelephoneNumber",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsGroupPolicyAssignment",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsEffectiveTenantDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsDialPlan",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsCloudCallDataConnection",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsCallQueue",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsCallingLineIdentity",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsBatchPolicyAssignmentOperation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAutoAttendantTenantInformation",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAutoAttendantSupportedTimeZone",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAutoAttendantSupportedLanguage",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAutoAttendantStatus",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAutoAttendantHolidays",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsAutoAttendant",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Find-CsOnlineApplicationInstance",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Find-CsGroup",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Export-CsOnlineAudioFile",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Export-CsAutoAttendantHolidays",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Enable-CsOnlineSipDomain",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsOnlineSipDomain",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Disable-CsMeetingRoom",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Complete-CsOnlineTelephoneNumberOrder",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberOrder",
+    "Module": "4.9.4-preview",
+    "Event": "Remove",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsNdiAssuranceSlate",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsEmergencyCallingExtendedNotification",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Module": "4.9.4-preview",
+    "Event": "Add",
+    "Timestamp": "2023-02-21 16:35:54"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsOnlineVoicemailPolicy",
     "Param": "PreamblePostambleMandatory",
     "Module": "4.9.2-preview",

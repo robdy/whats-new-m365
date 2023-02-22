@@ -1,10 +1,8 @@
 [
-  "Description",
-  "AudioFileId",
-  "StreamingSourceUrl",
-  "StreamingSourceAuthType",
-  "Identity",
-  "Force",
+  "Id",
+  "Order",
+  "Name",
+  "ImageUri",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -15,7 +13,5 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "PipelineVariable"
 ]

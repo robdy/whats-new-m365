@@ -1,8 +1,10 @@
 [
-  "AudioFileId",
   "Description",
+  "AudioFileId",
+  "StreamingSourceUrl",
+  "StreamingSourceAuthType",
   "Identity",
-  "MsftInternalProcessingMode",
+  "Force",
   "Verbose",
   "Debug",
   "ErrorAction",
