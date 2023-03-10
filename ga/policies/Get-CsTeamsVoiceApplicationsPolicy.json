@@ -26,6 +26,9 @@
   "AllowCallQueueTimeoutRoutingChange",
   "AllowCallQueueNoAgentsRoutingChange",
   "AllowCallQueueConferenceModeChange",
+  "RealTimeAutoAttendantMetricsPermission",
+  "RealTimeCallQueueMetricsPermission",
+  "RealTimeAgentMetricsPermission",
   "DataSource",
   "Key",
   "Identity"
