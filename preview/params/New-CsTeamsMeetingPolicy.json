@@ -4,6 +4,7 @@
   "AllowMeetNow",
   "AllowPrivateMeetNow",
   "MeetingChatEnabledType",
+  "AllowExternalNonTrustedMeetingChat",
   "LiveCaptionsEnabledType",
   "DesignatedPresenterRoleMode",
   "AllowIPAudio",

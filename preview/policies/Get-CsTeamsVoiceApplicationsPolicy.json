@@ -1,4 +1,5 @@
 [
+  "Identity",
   "Description",
   "AllowAutoAttendantBusinessHoursGreetingChange",
   "AllowAutoAttendantAfterHoursGreetingChange",
@@ -26,7 +27,7 @@
   "AllowCallQueueTimeoutRoutingChange",
   "AllowCallQueueNoAgentsRoutingChange",
   "AllowCallQueueConferenceModeChange",
-  "DataSource",
-  "Key",
-  "Identity"
+  "RealTimeAutoAttendantMetricsPermission",
+  "RealTimeCallQueueMetricsPermission",
+  "RealTimeAgentMetricsPermission"
 ]

@@ -1,0 +1,11 @@
+[
+  "Identity",
+  "Description",
+  "AllowManagedUpdates",
+  "AllowPreview",
+  "UpdateDayOfWeek",
+  "UpdateTime",
+  "UpdateTimeOfDay",
+  "AllowPublicPreview",
+  "UseNewTeamsClient"
+]

@@ -1,6 +1,10 @@
 [
-  "Identity",
-  "Force",
+  "Break",
+  "HttpPipelineAppend",
+  "HttpPipelinePrepend",
+  "Proxy",
+  "ProxyCredential",
+  "ProxyUseDefaultCredentials",
   "Verbose",
   "Debug",
   "ErrorAction",
@@ -11,7 +15,5 @@
   "InformationVariable",
   "OutVariable",
   "OutBuffer",
-  "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "PipelineVariable"
 ]
