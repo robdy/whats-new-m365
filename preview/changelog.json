@@ -1,6 +1,22 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowEmailEditing",
+    "Module": "5.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-03-30 02:37:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowTownhalls",
+    "Module": "5.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-03-30 02:37:22"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingConfiguration",
     "Param": "EnableVideoMessageCaptions",
     "Module": "5.0.1-preview",
