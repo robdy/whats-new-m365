@@ -28,6 +28,7 @@
   "AllowCommunicationComplianceEndUserReporting",
   "AllowChatWithGroup",
   "AllowSecurityEndUserReporting",
+  "InOrganizationChatControl",
   "Identity",
   "Force",
   "Verbose",

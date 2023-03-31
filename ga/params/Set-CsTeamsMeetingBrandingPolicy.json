@@ -6,6 +6,7 @@
   "EnableMeetingOptionsThemeOverride",
   "EnableNdiAssuranceSlate",
   "EnableMeetingBackgroundImages",
+  "RequireBackgroundEffect",
   "Identity",
   "Force",
   "Verbose",

@@ -20,6 +20,8 @@
   "SpamFilteringEnabledType",
   "CallRecordingExpirationDays",
   "AllowCallRedirect",
+  "InboundPstnCallRoutingTreatment",
+  "InboundFederatedCallRoutingTreatment",
   "DataSource",
   "Key",
   "Identity"

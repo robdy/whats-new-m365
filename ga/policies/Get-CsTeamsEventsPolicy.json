@@ -1,6 +1,8 @@
 [
   "AllowWebinars",
   "EventAccessType",
+  "AllowTownhalls",
+  "AllowEmailEditing",
   "Description",
   "DataSource",
   "Key",

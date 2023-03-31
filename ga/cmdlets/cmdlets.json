@@ -304,10 +304,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsComplianceRecordingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsCortanaPolicy",
     "CommandType": "Function"
   },
@@ -461,10 +457,6 @@
   },
   {
     "Name": "Get-CsTeamsVideoInteropServicePolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Function"
   },
   {
@@ -884,10 +876,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsComplianceRecordingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsCortanaPolicy",
     "CommandType": "Function"
   },
@@ -965,10 +953,6 @@
   },
   {
     "Name": "New-CsTeamsVdiPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Function"
   },
   {
@@ -1144,10 +1128,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsComplianceRecordingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsCortanaPolicy",
     "CommandType": "Function"
   },
@@ -1229,10 +1209,6 @@
   },
   {
     "Name": "Remove-CsTeamsVdiPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Function"
   },
   {
@@ -1428,10 +1404,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsComplianceRecordingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsCortanaPolicy",
     "CommandType": "Function"
   },
@@ -1545,10 +1517,6 @@
   },
   {
     "Name": "Set-CsTeamsVdiPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Function"
   },
   {
@@ -1688,6 +1656,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1704,11 +1676,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsMessagingConfiguration",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsMessagingPolicy",
     "CommandType": "Cmdlet"
   },
   {
     "Name": "Get-CsTeamsUpdateManagementPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1776,6 +1756,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-CsTeamsEmergencyCallingExtendedNotification",
     "CommandType": "Cmdlet"
   },
@@ -1816,6 +1800,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsTeamsVoiceApplicationsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-Team",
     "CommandType": "Cmdlet"
   },
@@ -1840,6 +1828,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1861,6 +1853,10 @@
   },
   {
     "Name": "Remove-CsTeamsUpdateManagementPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1904,6 +1900,10 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsEmergencyCallingPolicy",
     "CommandType": "Cmdlet"
   },
@@ -1920,11 +1920,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsMessagingConfiguration",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsMessagingPolicy",
     "CommandType": "Cmdlet"
   },
   {
     "Name": "Set-CsTeamsUpdateManagementPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsVoiceApplicationsPolicy",
     "CommandType": "Cmdlet"
   },
   {

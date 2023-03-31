@@ -2,6 +2,1052 @@
   {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Key",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "DataSource",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeAgentMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeCallQueueMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeAutoAttendantMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "InOrganizationChatControl",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:53"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": null,
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:53"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": "EnableInOrganizationChatControl",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:53"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": "EnableVideoMessageCaptions",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:53"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": "Identity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:53"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForScreenSharingPattern",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForScreenSharingOpacity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkCustomizationForScreenSharing",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForCameraVideoPattern",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForCameraVideoOpacity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkCustomizationForCameraVideo",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowExternalNonTrustedMeetingChat",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "RequireBackgroundEffect",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Key",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "DataSource",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:50"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowEmailEditing",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowTownhalls",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "InboundFederatedCallRoutingTreatment",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "InboundPstnCallRoutingTreatment",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:35"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeAgentMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeCallQueueMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeAutoAttendantMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "InOrganizationChatControl",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingConfiguration",
+    "Param": null,
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForScreenSharingPattern",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForScreenSharingOpacity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkCustomizationForScreenSharing",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForCameraVideoPattern",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForCameraVideoOpacity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkCustomizationForCameraVideo",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowExternalNonTrustedMeetingChat",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingBrandingPolicy",
+    "Param": "RequireBackgroundEffect",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVoiceApplicationsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeAgentMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeCallQueueMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "RealTimeAutoAttendantMetricsPermission",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "InOrganizationChatControl",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForScreenSharingPattern",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForScreenSharingOpacity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkCustomizationForScreenSharing",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForCameraVideoPattern",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForCameraVideoOpacity",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowWatermarkCustomizationForCameraVideo",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowExternalNonTrustedMeetingChat",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingPolicy",
+    "Param": "RequireBackgroundEffect",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": null,
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.1.0",
+    "Event": "Remove",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectVoicemailTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectVoicemailAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectPhoneNumberTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectPhoneNumberAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectVoiceAppTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectVoiceAppAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectPersonTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentRedirectPersonAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentDisconnectTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentDisconnectAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectVoicemailTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectVoicemailAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectPhoneNumberTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectPhoneNumberAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectVoiceAppTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectVoiceAppAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectPersonTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutRedirectPersonAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutDisconnectTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutDisconnectAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectVoicemailTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectVoicemailAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectPhoneNumberTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectPhoneNumberAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectVoiceAppTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectVoiceAppAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectPersonTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowRedirectPersonAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowDisconnectTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowDisconnectAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectVoicemailTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectVoicemailAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectPhoneNumberTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectPhoneNumberAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectVoiceAppTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectVoiceAppAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectPersonTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentRedirectPersonAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentDisconnectTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentDisconnectAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectVoicemailTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectVoicemailAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectPhoneNumberTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectPhoneNumberAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectVoiceAppTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectVoiceAppAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectPersonTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutRedirectPersonAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutDisconnectTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutDisconnectAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectVoicemailTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectVoicemailAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectPhoneNumberTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectPhoneNumberAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectVoiceAppTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectVoiceAppAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectPersonTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowRedirectPersonAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowDisconnectTextToSpeechPrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowDisconnectAudioFilePrompt",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpgradePolicy",
+    "Param": "Force",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineUser",
+    "Param": "OrderBy",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMessagingConfiguration",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:23"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Module": "5.1.0",
+    "Event": "Add",
+    "Timestamp": "2023-03-31 02:37:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "RealTimeAgentMetricsPermission",
     "Module": "5.0.0",
     "Event": "Remove",

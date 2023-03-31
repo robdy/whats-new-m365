@@ -4,6 +4,7 @@
   "PassThru",
   "PolicyName",
   "MsftInternalProcessingMode",
+  "Force",
   "Global",
   "Group",
   "Rank",
