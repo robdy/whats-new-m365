@@ -1,12 +1,10 @@
 [
+  "Identity",
   "DefaultCatalogApps",
   "GlobalCatalogApps",
   "PrivateCatalogApps",
   "Description",
   "DefaultCatalogAppsType",
   "GlobalCatalogAppsType",
-  "PrivateCatalogAppsType",
-  "DataSource",
-  "Key",
-  "Identity"
+  "PrivateCatalogAppsType"
 ]

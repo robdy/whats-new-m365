@@ -1,4 +1,5 @@
 [
+  "Identity",
   "AppPresetList",
   "PinnedAppBarApps",
   "PinnedMessageBarApps",
@@ -6,7 +7,5 @@
   "Description",
   "AllowSideLoading",
   "AllowUserPinning",
-  "DataSource",
-  "Key",
-  "Identity"
+  "UpaSeparator"
 ]

@@ -1,4 +1,5 @@
 [
+  "Identity",
   "Description",
   "EnableFederationAccess",
   "EnableXmppAccess",
@@ -10,7 +11,5 @@
   "EnableTeamsConsumerAccess",
   "EnableTeamsConsumerInbound",
   "RestrictTeamsConsumerAccessToExternalUserProfiles",
-  "DataSource",
-  "Key",
-  "Identity"
+  "LegacyPointer"
 ]

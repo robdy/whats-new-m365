@@ -1,5 +1,6 @@
 [
   "EnableVideoMessageCaptions",
+  "EnableInOrganizationChatControl",
   "Identity",
   "Force",
   "Verbose",

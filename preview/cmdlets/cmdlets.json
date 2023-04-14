@@ -100,10 +100,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsExternalAccessPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsGroupPolicyAssignment",
     "CommandType": "Function"
   },
@@ -288,19 +284,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Get-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsAppSetupPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Get-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -313,10 +297,6 @@
   },
   {
     "Name": "Get-CsTeamsComplianceRecordingApplication",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsComplianceRecordingPolicy",
     "CommandType": "Function"
   },
   {
@@ -337,10 +317,6 @@
   },
   {
     "Name": "Get-CsTeamsEnhancedEncryptionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Get-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -564,10 +540,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsExternalAccessPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Grant-CsGroupPolicyPackageAssignment",
     "CommandType": "Function"
   },
@@ -584,23 +556,11 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Grant-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsTeamsAppSetupPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Grant-CsTeamsAudioConferencingPolicy",
     "CommandType": "Function"
   },
   {
     "Name": "Grant-CsTeamsCallHoldPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -629,10 +589,6 @@
   },
   {
     "Name": "Grant-CsTeamsEnhancedEncryptionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Grant-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -804,10 +760,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsExternalAccessPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsGroupPolicyAssignment",
     "CommandType": "Function"
   },
@@ -880,10 +832,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "New-CsTeamsCallingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "New-CsTeamsCallParkPolicy",
     "CommandType": "Function"
   },
@@ -893,10 +841,6 @@
   },
   {
     "Name": "New-CsTeamsComplianceRecordingPairedApplication",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsComplianceRecordingPolicy",
     "CommandType": "Function"
   },
   {
@@ -913,10 +857,6 @@
   },
   {
     "Name": "New-CsTeamsEnhancedEncryptionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "New-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -1044,10 +984,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsExternalAccessPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsGroupPolicyAssignment",
     "CommandType": "Function"
   },
@@ -1128,19 +1064,7 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Remove-CsTeamsAppPermissionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsAppSetupPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Remove-CsTeamsAudioConferencingPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsCallingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1149,10 +1073,6 @@
   },
   {
     "Name": "Remove-CsTeamsComplianceRecordingApplication",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsComplianceRecordingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1165,10 +1085,6 @@
   },
   {
     "Name": "Remove-CsTeamsEnhancedEncryptionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Remove-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -1296,10 +1212,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsExternalAccessPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsInboundBlockedNumberPattern",
     "CommandType": "Function"
   },
@@ -1416,10 +1328,6 @@
     "CommandType": "Function"
   },
   {
-    "Name": "Set-CsTeamsCallingPolicy",
-    "CommandType": "Function"
-  },
-  {
     "Name": "Set-CsTeamsCallParkPolicy",
     "CommandType": "Function"
   },
@@ -1429,10 +1337,6 @@
   },
   {
     "Name": "Set-CsTeamsComplianceRecordingApplication",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsComplianceRecordingPolicy",
     "CommandType": "Function"
   },
   {
@@ -1453,10 +1357,6 @@
   },
   {
     "Name": "Set-CsTeamsEnhancedEncryptionPolicy",
-    "CommandType": "Function"
-  },
-  {
-    "Name": "Set-CsTeamsEventsPolicy",
     "CommandType": "Function"
   },
   {
@@ -1680,7 +1580,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsExternalAccessPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsAppPermissionPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsAppSetupPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1688,11 +1600,23 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsChannelsPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Get-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Get-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Get-CsTeamsEventsPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1780,7 +1704,31 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Grant-CsExternalAccessPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Grant-CsTeamsAppPermissionPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Grant-CsTeamsAppSetupPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Grant-CsTeamsCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Grant-CsTeamsEventsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Grant-CsTeamsMeetingBrandingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsExternalAccessPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1788,11 +1736,27 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsTeamsAppPermissionPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsAppSetupPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-CsTeamsCallHoldPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "New-CsTeamsCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "New-CsTeamsChannelsPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsComplianceRecordingPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1801,6 +1765,10 @@
   },
   {
     "Name": "New-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "New-CsTeamsEventsPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1852,7 +1820,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsExternalAccessPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsAppPermissionPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsAppSetupPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1860,11 +1840,23 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsTeamsCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsTeamsChannelsPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Remove-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Remove-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Remove-CsTeamsEventsPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1924,7 +1916,19 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsExternalAccessPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsOnlineVoicemailPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsAppPermissionPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsAppSetupPolicy",
     "CommandType": "Cmdlet"
   },
   {
@@ -1932,11 +1936,23 @@
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsChannelsPolicy",
     "CommandType": "Cmdlet"
   },
   {
+    "Name": "Set-CsTeamsComplianceRecordingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
     "Name": "Set-CsTeamsEmergencyCallingPolicy",
+    "CommandType": "Cmdlet"
+  },
+  {
+    "Name": "Set-CsTeamsEventsPolicy",
     "CommandType": "Cmdlet"
   },
   {

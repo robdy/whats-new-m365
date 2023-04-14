@@ -29,5 +29,6 @@
   "AllowVideoMessages",
   "AllowCommunicationComplianceEndUserReporting",
   "AllowChatWithGroup",
-  "AllowSecurityEndUserReporting"
+  "AllowSecurityEndUserReporting",
+  "InOrganizationChatControl"
 ]
