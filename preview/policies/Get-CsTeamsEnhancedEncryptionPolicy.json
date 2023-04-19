@@ -1,8 +1,8 @@
 [
   "CallingEndtoEndEncryptionEnabledType",
-  "MeetingEndToEndEncryption",
-  "Description",
   "DataSource",
+  "Description",
+  "Identity",
   "Key",
-  "Identity"
+  "MeetingEndToEndEncryption"
 ]

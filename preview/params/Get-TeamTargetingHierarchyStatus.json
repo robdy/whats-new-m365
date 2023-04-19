@@ -1,14 +1,14 @@
 [
-  "RequestId",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "RequestId",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

@@ -1,17 +1,17 @@
 [
-  "TeamId",
-  "UserId",
-  "AppInstallationId",
   "AppId",
-  "Verbose",
+  "AppInstallationId",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "TeamId",
+  "UserId",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

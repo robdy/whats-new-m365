@@ -1,17 +1,17 @@
 [
-  "PhoneNumber",
-  "MsftInternalProcessingMode",
-  "Verbose",
+  "Confirm",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
+  "OutVariable",
+  "PhoneNumber",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]

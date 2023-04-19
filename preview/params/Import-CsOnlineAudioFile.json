@@ -1,18 +1,18 @@
 [
-  "FileName",
-  "Content",
   "ApplicationId",
-  "Force",
-  "HttpPipelinePrepend",
-  "Verbose",
+  "Content",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "FileName",
+  "Force",
+  "HttpPipelinePrepend",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

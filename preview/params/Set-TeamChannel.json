@@ -1,17 +1,17 @@
 [
-  "GroupId",
   "CurrentDisplayName",
-  "NewDisplayName",
-  "Description",
-  "Verbose",
   "Debug",
+  "Description",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "GroupId",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "NewDisplayName",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

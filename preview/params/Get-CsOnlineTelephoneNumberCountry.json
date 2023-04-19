@@ -1,19 +1,19 @@
 [
   "Break",
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
   "HttpPipelineAppend",
   "HttpPipelinePrepend",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",
   "Verbose",
-  "Debug",
-  "ErrorAction",
   "WarningAction",
-  "InformationAction",
-  "ErrorVariable",
-  "WarningVariable",
-  "InformationVariable",
-  "OutVariable",
-  "OutBuffer",
-  "PipelineVariable"
+  "WarningVariable"
 ]

@@ -1,17 +1,17 @@
 [
-  "Id",
-  "Order",
-  "Name",
-  "ImageUri",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Id",
+  "ImageUri",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "Name",
+  "Order",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

@@ -1,16 +1,16 @@
 [
-  "Identity",
-  "Delegate",
-  "HttpPipelinePrepend",
-  "Verbose",
   "Debug",
+  "Delegate",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "HttpPipelinePrepend",
+  "Identity",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

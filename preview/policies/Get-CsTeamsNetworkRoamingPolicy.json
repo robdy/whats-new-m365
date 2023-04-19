@@ -1,8 +1,8 @@
 [
   "AllowIPVideo",
-  "MediaBitRateKb",
-  "Description",
   "DataSource",
+  "Description",
+  "Identity",
   "Key",
-  "Identity"
+  "MediaBitRateKb"
 ]

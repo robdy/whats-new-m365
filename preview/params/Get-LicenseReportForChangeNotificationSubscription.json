@@ -1,14 +1,14 @@
 [
-  "Period",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "Period",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

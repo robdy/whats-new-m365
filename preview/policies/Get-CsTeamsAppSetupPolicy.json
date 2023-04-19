@@ -1,11 +1,11 @@
 [
-  "Identity",
-  "AppPresetList",
-  "PinnedAppBarApps",
-  "PinnedMessageBarApps",
-  "AppPresetMeetingList",
-  "Description",
   "AllowSideLoading",
   "AllowUserPinning",
+  "AppPresetList",
+  "AppPresetMeetingList",
+  "Description",
+  "Identity",
+  "PinnedAppBarApps",
+  "PinnedMessageBarApps",
   "UpaSeparator"
 ]

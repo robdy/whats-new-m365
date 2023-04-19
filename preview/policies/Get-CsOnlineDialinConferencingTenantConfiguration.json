@@ -1,8 +1,8 @@
 [
-  "Status",
-  "EnableCustomTrunking",
-  "ThirdPartyNumberStatus",
   "DataSource",
+  "EnableCustomTrunking",
+  "Identity",
   "Key",
-  "Identity"
+  "Status",
+  "ThirdPartyNumberStatus"
 ]

@@ -1,16 +1,16 @@
 [
-  "Identity",
-  "ResultSize",
-  "HttpPipelinePrepend",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "HttpPipelinePrepend",
+  "Identity",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "ResultSize",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

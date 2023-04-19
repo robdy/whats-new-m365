@@ -1,15 +1,15 @@
 [
-  "Identity",
   "Description",
+  "EnableAcsFederationAccess",
   "EnableFederationAccess",
-  "EnableXmppAccess",
+  "EnableOutsideAccess",
   "EnablePublicCloudAccess",
   "EnablePublicCloudAudioVideoAccess",
-  "EnableTeamsSmsAccess",
-  "EnableOutsideAccess",
-  "EnableAcsFederationAccess",
   "EnableTeamsConsumerAccess",
   "EnableTeamsConsumerInbound",
-  "RestrictTeamsConsumerAccessToExternalUserProfiles",
-  "LegacyPointer"
+  "EnableTeamsSmsAccess",
+  "EnableXmppAccess",
+  "Identity",
+  "LegacyPointer",
+  "RestrictTeamsConsumerAccessToExternalUserProfiles"
 ]

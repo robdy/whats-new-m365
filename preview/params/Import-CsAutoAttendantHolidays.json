@@ -1,17 +1,17 @@
 [
-  "Identity",
-  "InputBytes",
-  "Force",
-  "HttpPipelinePrepend",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "HttpPipelinePrepend",
+  "Identity",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "InputBytes",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

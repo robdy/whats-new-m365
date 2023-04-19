@@ -1,16 +1,16 @@
 [
-  "HostTeamId",
   "ChannelId",
-  "SharedWithTeamId",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "HostTeamId",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "SharedWithTeamId",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

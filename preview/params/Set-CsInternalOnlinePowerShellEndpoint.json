@@ -1,15 +1,15 @@
 [
-  "OverridePowershellUri",
-  "TargetDomain",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "OverridePowershellUri",
+  "PipelineVariable",
+  "TargetDomain",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

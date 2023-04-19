@@ -2,6 +2,6 @@
   "AllowPSTNConferencingDialOutType",
   "AllowPSTNOutboundCallingType",
   "DataSource",
-  "Key",
-  "Identity"
+  "Identity",
+  "Key"
 ]

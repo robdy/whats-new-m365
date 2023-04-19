@@ -1,15 +1,15 @@
 [
-  "Identity",
   "Description",
-  "EnableTranscription",
-  "ShareData",
-  "EnableTranscriptionProfanityMasking",
   "EnableEditingCallAnswerRulesSetting",
-  "MaximumRecordingLength",
+  "EnableTranscription",
+  "EnableTranscriptionProfanityMasking",
   "EnableTranscriptionTranslation",
+  "Identity",
+  "MaximumRecordingLength",
+  "PostambleAudioFile",
+  "PreambleAudioFile",
+  "PreamblePostambleMandatory",
   "PrimarySystemPromptLanguage",
   "SecondarySystemPromptLanguage",
-  "PreambleAudioFile",
-  "PostambleAudioFile",
-  "PreamblePostambleMandatory"
+  "ShareData"
 ]

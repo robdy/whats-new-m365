@@ -1,17 +1,17 @@
 [
-  "GroupScope",
-  "GroupIds",
-  "Force",
-  "HttpPipelinePrepend",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "GroupIds",
+  "GroupScope",
+  "HttpPipelinePrepend",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

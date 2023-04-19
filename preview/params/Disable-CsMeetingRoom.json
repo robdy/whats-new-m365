@@ -1,18 +1,18 @@
 [
-  "Identity",
-  "PassThru",
-  "MsftInternalProcessingMode",
-  "Verbose",
+  "Confirm",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Identity",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
+  "OutVariable",
+  "PassThru",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]

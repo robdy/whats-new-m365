@@ -1,14 +1,14 @@
 [
-  "TeamsModuleAuthTypeUsed",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "TeamsModuleAuthTypeUsed",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

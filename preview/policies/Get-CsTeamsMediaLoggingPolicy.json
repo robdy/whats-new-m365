@@ -1,7 +1,7 @@
 [
-  "Description",
   "AllowMediaLogging",
   "DataSource",
-  "Key",
-  "Identity"
+  "Description",
+  "Identity",
+  "Key"
 ]

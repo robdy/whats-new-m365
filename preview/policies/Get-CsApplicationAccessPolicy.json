@@ -1,7 +1,7 @@
 [
   "AppIds",
-  "Description",
   "DataSource",
-  "Key",
-  "Identity"
+  "Description",
+  "Identity",
+  "Key"
 ]

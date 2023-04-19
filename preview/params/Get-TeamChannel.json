@@ -1,15 +1,15 @@
 [
-  "GroupId",
-  "MembershipType",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "GroupId",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MembershipType",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

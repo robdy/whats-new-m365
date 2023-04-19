@@ -1,17 +1,17 @@
 [
   "AppId",
-  "TeamId",
-  "UserId",
-  "Permissions",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "Permissions",
+  "PipelineVariable",
+  "TeamId",
+  "UserId",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

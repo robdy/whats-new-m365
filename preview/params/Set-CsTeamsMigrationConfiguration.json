@@ -1,18 +1,18 @@
 [
-  "EnableLegacyClientInterop",
-  "Identity",
-  "MsftInternalProcessingMode",
-  "Verbose",
+  "Confirm",
   "Debug",
+  "EnableLegacyClientInterop",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Identity",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
+  "OutVariable",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]

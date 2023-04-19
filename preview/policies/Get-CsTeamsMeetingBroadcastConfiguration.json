@@ -1,12 +1,12 @@
 [
-  "SdnProviderName",
-  "SdnLicenseId",
-  "SdnApiTemplateUrl",
-  "SdnApiToken",
-  "SdnRuntimeConfiguration",
-  "SupportURL",
   "AllowSdnProviderForBroadcastMeeting",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "SdnApiTemplateUrl",
+  "SdnApiToken",
+  "SdnLicenseId",
+  "SdnProviderName",
+  "SdnRuntimeConfiguration",
+  "SupportURL"
 ]

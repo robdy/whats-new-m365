@@ -1,9 +1,9 @@
 [
-  "Description",
-  "IPVideoMobileMode",
-  "IPAudioMobileMode",
-  "MobileDialerPreference",
   "DataSource",
+  "Description",
+  "Identity",
+  "IPAudioMobileMode",
+  "IPVideoMobileMode",
   "Key",
-  "Identity"
+  "MobileDialerPreference"
 ]

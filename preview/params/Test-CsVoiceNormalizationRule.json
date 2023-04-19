@@ -1,16 +1,16 @@
 [
-  "DialedNumber",
-  "NormalizationRule",
-  "MsftInternalProcessingMode",
-  "Verbose",
   "Debug",
+  "DialedNumber",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
+  "NormalizationRule",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

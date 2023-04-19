@@ -1,15 +1,15 @@
 [
   "AllowedDomains",
-  "BlockedDomains",
   "AllowFederatedUsers",
   "AllowPublicUsers",
-  "AllowTeamsSms",
   "AllowTeamsConsumer",
   "AllowTeamsConsumerInbound",
-  "TreatDiscoveredPartnersAsUnverified",
-  "SharedSipAddressSpace",
-  "RestrictTeamsConsumerToExternalUserProfiles",
+  "AllowTeamsSms",
+  "BlockedDomains",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "RestrictTeamsConsumerToExternalUserProfiles",
+  "SharedSipAddressSpace",
+  "TreatDiscoveredPartnersAsUnverified"
 ]

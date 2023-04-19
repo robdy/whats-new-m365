@@ -1,6 +1,6 @@
 [
-  "EnableLegacyClientInterop",
   "DataSource",
-  "Key",
-  "Identity"
+  "EnableLegacyClientInterop",
+  "Identity",
+  "Key"
 ]

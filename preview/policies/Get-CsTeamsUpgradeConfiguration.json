@@ -1,7 +1,7 @@
 [
-  "DownloadTeams",
-  "SfBMeetingJoinUx",
   "DataSource",
+  "DownloadTeams",
+  "Identity",
   "Key",
-  "Identity"
+  "SfBMeetingJoinUx"
 ]

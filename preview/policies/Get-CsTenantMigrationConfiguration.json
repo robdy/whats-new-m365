@@ -1,6 +1,6 @@
 [
-  "MeetingMigrationEnabled",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "MeetingMigrationEnabled"
 ]

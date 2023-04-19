@@ -1,16 +1,16 @@
 [
-  "MsftInternalProcessingMode",
-  "Verbose",
+  "Confirm",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
+  "OutVariable",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]

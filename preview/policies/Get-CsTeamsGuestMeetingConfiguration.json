@@ -1,10 +1,10 @@
 [
   "AllowIPVideo",
-  "ScreenSharingMode",
   "AllowMeetNow",
-  "LiveCaptionsEnabledType",
   "AllowTranscription",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "LiveCaptionsEnabledType",
+  "ScreenSharingMode"
 ]

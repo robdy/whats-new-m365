@@ -1,18 +1,18 @@
 [
-  "Domain",
-  "Force",
-  "MsftInternalProcessingMode",
-  "Verbose",
+  "Confirm",
   "Debug",
+  "Domain",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
+  "OutVariable",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]
