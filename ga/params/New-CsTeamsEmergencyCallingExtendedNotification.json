@@ -1,17 +1,17 @@
 [
-  "EmergencyDialString",
-  "NotificationGroup",
-  "NotificationDialOutNumber",
-  "NotificationMode",
-  "Verbose",
   "Debug",
+  "EmergencyDialString",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "NotificationDialOutNumber",
+  "NotificationGroup",
+  "NotificationMode",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

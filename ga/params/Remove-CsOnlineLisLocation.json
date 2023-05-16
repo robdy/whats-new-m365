@@ -1,18 +1,18 @@
 [
-  "LocationId",
-  "Force",
-  "MsftInternalProcessingMode",
-  "Verbose",
+  "Confirm",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "LocationId",
+  "MsftInternalProcessingMode",
   "OutBuffer",
+  "OutVariable",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]

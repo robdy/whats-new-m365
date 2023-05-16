@@ -1,12 +1,12 @@
 [
-  "Description",
+  "AllowCalling",
+  "AllowCallingPinned",
   "AllowMeeting",
   "AllowMeetingPinned",
   "AllowMessaging",
   "AllowMessagingPinned",
-  "AllowCalling",
-  "AllowCallingPinned",
   "DataSource",
-  "Key",
-  "Identity"
+  "Description",
+  "Identity",
+  "Key"
 ]

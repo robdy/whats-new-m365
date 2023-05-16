@@ -1,17 +1,17 @@
 [
+  "Debug",
   "EmergencyDialMask",
   "EmergencyDialString",
-  "OnlinePSTNUsage",
-  "MsftInternalProcessingMode",
-  "Verbose",
-  "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
+  "OnlinePSTNUsage",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

@@ -1,17 +1,17 @@
 [
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "HttpPipelinePrepend",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
   "TeamsFilePath",
   "UsersFilePath",
   "UsersToNotify",
-  "HttpPipelinePrepend",
   "Verbose",
-  "Debug",
-  "ErrorAction",
   "WarningAction",
-  "InformationAction",
-  "ErrorVariable",
-  "WarningVariable",
-  "InformationVariable",
-  "OutVariable",
-  "OutBuffer",
-  "PipelineVariable"
+  "WarningVariable"
 ]

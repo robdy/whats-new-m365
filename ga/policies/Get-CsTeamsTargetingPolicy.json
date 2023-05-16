@@ -1,11 +1,11 @@
 [
-  "Description",
-  "ManageTagsPermissionMode",
-  "TeamOwnersEditWhoCanManageTagsMode",
-  "SuggestedPresetTags",
   "CustomTagsMode",
-  "ShiftBackedTagsMode",
   "DataSource",
+  "Description",
+  "Identity",
   "Key",
-  "Identity"
+  "ManageTagsPermissionMode",
+  "ShiftBackedTagsMode",
+  "SuggestedPresetTags",
+  "TeamOwnersEditWhoCanManageTagsMode"
 ]

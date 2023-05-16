@@ -1,11 +1,12 @@
 [
-  "Identity",
-  "Description",
   "AllowManagedUpdates",
   "AllowPreview",
+  "AllowPublicPreview",
+  "BlockLegacyAuthorization",
+  "Description",
+  "Identity",
   "UpdateDayOfWeek",
   "UpdateTime",
   "UpdateTimeOfDay",
-  "AllowPublicPreview",
   "UseNewTeamsClient"
 ]

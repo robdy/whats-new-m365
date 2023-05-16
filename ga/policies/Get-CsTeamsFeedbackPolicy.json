@@ -1,9 +1,9 @@
 [
-  "Identity",
-  "UserInitiatedMode",
-  "ReceiveSurveysMode",
-  "AllowScreenshotCollection",
   "AllowEmailCollection",
   "AllowLogCollection",
-  "EnableFeatureSuggestions"
+  "AllowScreenshotCollection",
+  "EnableFeatureSuggestions",
+  "Identity",
+  "ReceiveSurveysMode",
+  "UserInitiatedMode"
 ]

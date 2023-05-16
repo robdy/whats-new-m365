@@ -1,15 +1,15 @@
 [
-  "GroupId",
-  "OperationId",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "GroupId",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "OperationId",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

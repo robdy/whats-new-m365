@@ -1,17 +1,17 @@
 [
-  "Identity",
-  "IncludeResources",
-  "Force",
-  "HttpPipelinePrepend",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "HttpPipelinePrepend",
+  "Identity",
+  "IncludeResources",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

@@ -1,17 +1,17 @@
 [
-  "Id",
-  "ExternalId",
+  "Debug",
   "DisplayName",
   "DistributionMethod",
-  "Verbose",
-  "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "ExternalId",
+  "Id",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

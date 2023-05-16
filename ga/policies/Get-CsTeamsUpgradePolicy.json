@@ -1,9 +1,9 @@
 [
-  "Description",
-  "Mode",
-  "NotifySfbUsers",
   "Action",
   "DataSource",
+  "Description",
+  "Identity",
   "Key",
-  "Identity"
+  "Mode",
+  "NotifySfbUsers"
 ]

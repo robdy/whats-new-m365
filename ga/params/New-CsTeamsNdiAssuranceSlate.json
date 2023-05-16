@@ -1,17 +1,17 @@
 [
-  "Id",
-  "Name",
-  "NdiImageUri",
-  "IsDefault",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Id",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "IsDefault",
+  "Name",
+  "NdiImageUri",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

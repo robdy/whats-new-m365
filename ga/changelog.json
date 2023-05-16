@@ -2,6 +2,1433 @@
   {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueNoAgentSharedVoicemailGreetingChange",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:44"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "BlockLegacyAuthorization",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "AllowGroupChatJoinLinks",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:43"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "Key",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:41"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "DataSource",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:41"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "Key",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "DataSource",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowNetworkConfigurationSettingsLookup",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "SafeTransferEnabled",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowGroupCalling",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowUserControl",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowSimulRing",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowCallForwarding",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "AllowCalling",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "Key",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "DataSource",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "UpaSeparator",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "Key",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "DataSource",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "Key",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "DataSource",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "LegacyPointer",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "Key",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:20"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "DataSource",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:20"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamsEnvironmentConfig",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueNoAgentSharedVoicemailGreetingChange",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "BlockLegacyAuthorization",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "AllowGroupChatJoinLinks",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "AllowEmailEditing",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "AllowTownhalls",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "InboundFederatedCallRoutingTreatment",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "InboundPstnCallRoutingTreatment",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAppSetupPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAppPermissionPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Param": "EnableTeamsSmsAccess",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEventsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEventsPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAppSetupPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAppSetupPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAppPermissionPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAppPermissionPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsExternalAccessPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsExternalAccessPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "AllowCallQueueNoAgentSharedVoicemailGreetingChange",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "BlockLegacyAuthorization",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "AllowGroupChatJoinLinks",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "ForceStreamingAttendeeMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "AllowEmailEditing",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "AllowTownhalls",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "InboundFederatedCallRoutingTreatment",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "InboundPstnCallRoutingTreatment",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsAppSetupPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsAppPermissionPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Param": "EnableTeamsSmsAccess",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": "Confirm",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": "WhatIf",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": "PassThru",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "Confirm",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "WhatIf",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "PassThru",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "Confirm",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "WhatIf",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "PassThru",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "Confirm",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "WhatIf",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "PassThru",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "Confirm",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "WhatIf",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "PassThru",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Clear-TeamsEnvironmentConfig",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "EnabledWfiScenario",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "EnabledConnectorScenario",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorSpecificSettings",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioUserShiftPreference",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeOffRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeOff",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeCard",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioSwapRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioShift",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOpenShiftRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOpenShift",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOfferShiftRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "Etag",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectionId",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnection",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "EnabledWfiScenario",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "EnabledConnectorScenario",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorSpecificSettings",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorId",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioUserShiftPreference",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeOffRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeOff",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeCard",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioSwapRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioShift",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOpenShiftRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOpenShift",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOfferShiftRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "Etag",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectionId",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnection",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsSettingsCustomApp",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "HideAuthorizedUsers",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "EnabledWfiScenario",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "EnabledConnectorScenario",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorSpecificSettings",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectorId",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioUserShiftPreference",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeOffRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeOff",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioTimeCard",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioSwapRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioShift",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOpenShiftRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOpenShift",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "SyncScenarioOfferShiftRequest",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ConnectionId",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnection",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:11"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "HideAuthorizedUsers",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "HideAuthorizedUsers",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Param": "Authorization",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Param": "ConnectionId",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionErrorReport",
+    "Param": "Authorization",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionErrorReport",
+    "Param": "ConnectionId",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnection",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsSettingsCustomApp",
+    "Param": null,
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "MsftInternalProcessingMode",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnectionTeamMap",
+    "Module": "5.2.0",
+    "Event": "Remove",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-TeamsEnvironmentConfig",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAppSetupPolicy",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAppPermissionPolicy",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAppSetupPolicy",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsAppPermissionPolicy",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Clear-TeamsEnvironmentConfig",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Update-CsTeamsShiftsConnection",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsShiftsConnection",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsSettingsCustomApp",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsShiftsConnection",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsShiftsConnection",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsSettingsCustomApp",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-05-16 02:35:10"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "Key",
     "Module": "5.1.0",
     "Event": "Remove",

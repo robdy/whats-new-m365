@@ -1,10 +1,10 @@
 [
-  "ParentDigestEnabledType",
-  "MakeCodeEnabledType",
-  "TurnItInEnabledType",
-  "TurnItInApiUrl",
-  "TurnItInApiKey",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "MakeCodeEnabledType",
+  "ParentDigestEnabledType",
+  "TurnItInApiKey",
+  "TurnItInApiUrl",
+  "TurnItInEnabledType"
 ]

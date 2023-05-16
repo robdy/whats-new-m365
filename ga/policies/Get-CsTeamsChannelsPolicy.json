@@ -1,11 +1,11 @@
 [
-  "Identity",
-  "Description",
-  "AllowOrgWideTeamCreation",
-  "AllowPrivateTeamDiscovery",
-  "EnablePrivateTeamDiscovery",
-  "AllowPrivateChannelCreation",
-  "AllowSharedChannelCreation",
   "AllowChannelSharingToExternalUser",
-  "AllowUserToParticipateInExternalSharedChannel"
+  "AllowOrgWideTeamCreation",
+  "AllowPrivateChannelCreation",
+  "AllowPrivateTeamDiscovery",
+  "AllowSharedChannelCreation",
+  "AllowUserToParticipateInExternalSharedChannel",
+  "Description",
+  "EnablePrivateTeamDiscovery",
+  "Identity"
 ]

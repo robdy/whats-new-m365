@@ -1,12 +1,12 @@
 [
+  "AreaCode",
+  "DataSource",
   "Description",
   "Enabled",
-  "AreaCode",
-  "ReceiveExternalCalls",
-  "ReceiveInternalCalls",
+  "Identity",
+  "Key",
   "PlaceExternalCalls",
   "PlaceInternalCalls",
-  "DataSource",
-  "Key",
-  "Identity"
+  "ReceiveExternalCalls",
+  "ReceiveInternalCalls"
 ]

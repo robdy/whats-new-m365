@@ -1,0 +1,17 @@
+[
+  "Confirm",
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "HttpPipelinePrepend",
+  "InformationAction",
+  "InformationVariable",
+  "isSideloadedAppsInteractionEnabled",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
+]

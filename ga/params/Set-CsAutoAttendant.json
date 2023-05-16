@@ -1,18 +1,18 @@
 [
-  "Instance",
-  "Force",
-  "HttpPipelinePrepend",
-  "Verbose",
+  "Confirm",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "HttpPipelinePrepend",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "Instance",
   "OutBuffer",
+  "OutVariable",
   "PipelineVariable",
-  "WhatIf",
-  "Confirm"
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
 ]

@@ -1,10 +1,10 @@
 [
-  "Identity",
-  "ExtendedNotifications",
-  "NotificationGroup",
-  "NotificationDialOutNumber",
-  "ExternalLocationLookupMode",
-  "NotificationMode",
+  "Description",
   "EnhancedEmergencyServiceDisclaimer",
-  "Description"
+  "ExtendedNotifications",
+  "ExternalLocationLookupMode",
+  "Identity",
+  "NotificationDialOutNumber",
+  "NotificationGroup",
+  "NotificationMode"
 ]

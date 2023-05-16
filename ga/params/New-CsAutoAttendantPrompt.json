@@ -1,17 +1,17 @@
 [
-  "TextToSpeechPrompt",
-  "HttpPipelinePrepend",
   "ActiveType",
   "AudioFilePrompt",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "HttpPipelinePrepend",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "TextToSpeechPrompt",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

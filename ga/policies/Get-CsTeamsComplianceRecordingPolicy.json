@@ -1,9 +1,11 @@
 [
-  "Identity",
   "ComplianceRecordingApplications",
-  "Enabled",
-  "WarnUserOnRemoval",
-  "DisableComplianceRecordingAudioNotificationForCalls",
+  "DataSource",
   "Description",
-  "RecordReroutedCalls"
+  "DisableComplianceRecordingAudioNotificationForCalls",
+  "Enabled",
+  "Identity",
+  "Key",
+  "RecordReroutedCalls",
+  "WarnUserOnRemoval"
 ]

@@ -1,6 +1,6 @@
 [
-  "ParentGuardianPreferredContactMethod",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "ParentGuardianPreferredContactMethod"
 ]

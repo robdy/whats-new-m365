@@ -1,17 +1,17 @@
 [
-  "Filter",
-  "Identity",
-  "ResultSize",
-  "MsftInternalProcessingMode",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Filter",
+  "Identity",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "ResultSize",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
 ]

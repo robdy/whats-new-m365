@@ -1,8 +1,8 @@
 [
-  "Description",
-  "ProviderName",
-  "Enabled",
   "DataSource",
+  "Description",
+  "Enabled",
+  "Identity",
   "Key",
-  "Identity"
+  "ProviderName"
 ]

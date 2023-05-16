@@ -1,7 +1,7 @@
 [
-  "NativeFileEntryPoints",
-  "SPChannelFilesTab",
   "DataSource",
+  "Identity",
   "Key",
-  "Identity"
+  "NativeFileEntryPoints",
+  "SPChannelFilesTab"
 ]

@@ -1,17 +1,17 @@
 [
   "CountryOrRegion",
-  "Force",
-  "Version",
-  "MsftInternalProcessingMode",
-  "Verbose",
   "Debug",
   "ErrorAction",
-  "WarningAction",
-  "InformationAction",
   "ErrorVariable",
-  "WarningVariable",
+  "Force",
+  "InformationAction",
   "InformationVariable",
-  "OutVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
-  "PipelineVariable"
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "Version",
+  "WarningAction",
+  "WarningVariable"
 ]

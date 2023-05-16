@@ -1,0 +1,16 @@
+[
+  "Confirm",
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "HttpPipelinePrepend",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
+]

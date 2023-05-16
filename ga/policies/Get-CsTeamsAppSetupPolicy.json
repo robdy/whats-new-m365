@@ -1,12 +1,11 @@
 [
-  "AppPresetList",
-  "PinnedAppBarApps",
-  "PinnedMessageBarApps",
-  "AppPresetMeetingList",
-  "Description",
   "AllowSideLoading",
   "AllowUserPinning",
-  "DataSource",
-  "Key",
-  "Identity"
+  "AppPresetList",
+  "AppPresetMeetingList",
+  "Description",
+  "Identity",
+  "PinnedAppBarApps",
+  "PinnedMessageBarApps",
+  "UpaSeparator"
 ]

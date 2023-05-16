@@ -1,8 +1,8 @@
 [
-  "EmergencyNumbers",
   "AllowEnhancedEmergencyServices",
-  "Description",
   "DataSource",
-  "Key",
-  "Identity"
+  "Description",
+  "EmergencyNumbers",
+  "Identity",
+  "Key"
 ]

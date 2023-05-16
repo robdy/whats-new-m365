@@ -1,7 +1,7 @@
 [
-  "DisableCallsAndMeetings",
-  "DisableAudioVideoInCallsAndMeetings",
   "DataSource",
-  "Key",
-  "Identity"
+  "DisableAudioVideoInCallsAndMeetings",
+  "DisableCallsAndMeetings",
+  "Identity",
+  "Key"
 ]
