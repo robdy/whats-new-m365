@@ -1,6 +1,14 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradeConfiguration",
+    "Param": "BlockLegacyAuthorization",
+    "Module": "5.2.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-01 03:12:32"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "AllowCallQueueNoAgentSharedVoicemailGreetingChange",
     "Module": "5.2.0",

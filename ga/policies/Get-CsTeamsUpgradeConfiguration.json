@@ -1,4 +1,5 @@
 [
+  "BlockLegacyAuthorization",
   "DataSource",
   "DownloadTeams",
   "Identity",
