@@ -1,0 +1,10 @@
+[
+  "AllowCallPark",
+  "DataSource",
+  "Description",
+  "Identity",
+  "Key",
+  "ParkTimeoutSeconds",
+  "PickupRangeEnd",
+  "PickupRangeStart"
+]

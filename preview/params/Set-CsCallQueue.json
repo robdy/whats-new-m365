@@ -15,6 +15,7 @@
   "ErrorAction",
   "ErrorVariable",
   "Force",
+  "HideAuthorizedUsers",
   "HttpPipelinePrepend",
   "Identity",
   "InformationAction",

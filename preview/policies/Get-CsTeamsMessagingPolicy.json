@@ -5,6 +5,7 @@
   "AllowFullChatPermissionUserToDeleteAnyMessage",
   "AllowGiphy",
   "AllowGiphyDisplay",
+  "AllowGroupChatJoinLinks",
   "AllowImmersiveReader",
   "AllowMemes",
   "AllowOwnerDeleteMessage",

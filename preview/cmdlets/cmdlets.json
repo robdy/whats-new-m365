@@ -12,6 +12,9 @@
     "Name": "Clear-CsOnlineTelephoneNumberOrder"
   },
   {
+    "Name": "Clear-TeamsEnvironmentConfig"
+  },
+  {
     "Name": "Complete-CsOnlineTelephoneNumberOrder"
   },
   {
@@ -294,6 +297,9 @@
     "Name": "Get-CsTeamsFilesPolicy"
   },
   {
+    "Name": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration"
+  },
+  {
     "Name": "Get-CsTeamsGuestCallingConfiguration"
   },
   {
@@ -324,6 +330,12 @@
     "Name": "Get-CsTeamsMeetingPolicy"
   },
   {
+    "Name": "Get-CsTeamsMeetingTemplateConfiguration"
+  },
+  {
+    "Name": "Get-CsTeamsMeetingTemplatePermissionPolicy"
+  },
+  {
     "Name": "Get-CsTeamsMessagingConfiguration"
   },
   {
@@ -345,7 +357,13 @@
     "Name": "Get-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "Get-CsTeamsSettingsCustomApp"
+  },
+  {
     "Name": "Get-CsTeamsShiftsAppPolicy"
+  },
+  {
+    "Name": "Get-CsTeamsShiftsConnection"
   },
   {
     "Name": "Get-CsTeamsShiftsConnectionConnector"
@@ -591,6 +609,9 @@
     "Name": "Grant-CsTeamsMeetingPolicy"
   },
   {
+    "Name": "Grant-CsTeamsMeetingTemplatePermissionPolicy"
+  },
+  {
     "Name": "Grant-CsTeamsMessagingPolicy"
   },
   {
@@ -813,6 +834,9 @@
     "Name": "New-CsTeamsFilesPolicy"
   },
   {
+    "Name": "New-CsTeamsHiddenMeetingTemplate"
+  },
+  {
     "Name": "New-CsTeamsIPPhonePolicy"
   },
   {
@@ -831,6 +855,9 @@
     "Name": "New-CsTeamsMeetingPolicy"
   },
   {
+    "Name": "New-CsTeamsMeetingTemplatePermissionPolicy"
+  },
+  {
     "Name": "New-CsTeamsMessagingPolicy"
   },
   {
@@ -846,13 +873,13 @@
     "Name": "New-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "New-CsTeamsShiftsConnection"
+  },
+  {
     "Name": "New-CsTeamsShiftsConnectionBatchTeamMap"
   },
   {
     "Name": "New-CsTeamsShiftsConnectionInstance"
-  },
-  {
-    "Name": "New-CsTeamsShiftsConnectionTeamMap"
   },
   {
     "Name": "New-CsTeamsShiftsPolicy"
@@ -1060,6 +1087,9 @@
   },
   {
     "Name": "Remove-CsTeamsMeetingPolicy"
+  },
+  {
+    "Name": "Remove-CsTeamsMeetingTemplatePermissionPolicy"
   },
   {
     "Name": "Remove-CsTeamsMessagingPolicy"
@@ -1353,6 +1383,9 @@
     "Name": "Set-CsTeamsMeetingPolicy"
   },
   {
+    "Name": "Set-CsTeamsMeetingTemplatePermissionPolicy"
+  },
+  {
     "Name": "Set-CsTeamsMessagingConfiguration"
   },
   {
@@ -1374,7 +1407,13 @@
     "Name": "Set-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "Set-CsTeamsSettingsCustomApp"
+  },
+  {
     "Name": "Set-CsTeamsShiftsAppPolicy"
+  },
+  {
+    "Name": "Set-CsTeamsShiftsConnection"
   },
   {
     "Name": "Set-CsTeamsShiftsConnectionInstance"
@@ -1464,6 +1503,9 @@
     "Name": "Set-TeamsApp"
   },
   {
+    "Name": "Set-TeamsEnvironmentConfig"
+  },
+  {
     "Name": "Set-TeamTargetingHierarchy"
   },
   {
@@ -1498,6 +1540,9 @@
   },
   {
     "Name": "Update-CsCustomPolicyPackage"
+  },
+  {
+    "Name": "Update-CsTeamsShiftsConnection"
   },
   {
     "Name": "Update-CsTeamsShiftsConnectionInstance"

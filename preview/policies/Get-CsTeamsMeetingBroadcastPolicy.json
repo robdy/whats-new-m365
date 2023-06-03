@@ -1,0 +1,10 @@
+[
+  "AllowBroadcastScheduling",
+  "AllowBroadcastTranscription",
+  "BroadcastAttendeeVisibilityMode",
+  "BroadcastRecordingMode",
+  "DataSource",
+  "Description",
+  "Identity",
+  "Key"
+]

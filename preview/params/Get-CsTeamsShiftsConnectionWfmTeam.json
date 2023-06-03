@@ -1,5 +1,7 @@
 [
+  "Authorization",
   "Break",
+  "ConnectionId",
   "ConnectorInstanceId",
   "Debug",
   "ErrorAction",

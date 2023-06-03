@@ -1,0 +1,19 @@
+[
+  "Confirm",
+  "Debug",
+  "Description",
+  "ErrorAction",
+  "ErrorVariable",
+  "Force",
+  "HiddenMeetingTemplates",
+  "Identity",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
+]

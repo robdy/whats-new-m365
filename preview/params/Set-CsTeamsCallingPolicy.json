@@ -16,6 +16,7 @@
   "Confirm",
   "Debug",
   "Description",
+  "EnableWebPstnMediaBypass",
   "ErrorAction",
   "ErrorVariable",
   "Force",

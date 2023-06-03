@@ -9,6 +9,7 @@
   "ErrorVariable",
   "ExclusionScope",
   "Force",
+  "HideAuthorizedUsers",
   "HttpPipelinePrepend",
   "InclusionScope",
   "InformationAction",

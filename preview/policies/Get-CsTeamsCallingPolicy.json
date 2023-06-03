@@ -20,6 +20,7 @@
   "BusyOnBusyEnabledType",
   "CallRecordingExpirationDays",
   "Description",
+  "EnableWebPstnMediaBypass",
   "Identity",
   "InboundFederatedCallRoutingTreatment",
   "InboundPstnCallRoutingTreatment",

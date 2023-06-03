@@ -1,0 +1,19 @@
+[
+  "ClientAppSharingPort",
+  "ClientAppSharingPortRange",
+  "ClientAudioPort",
+  "ClientAudioPortRange",
+  "ClientMediaPortRangeEnabled",
+  "ClientVideoPort",
+  "ClientVideoPortRange",
+  "CustomFooterText",
+  "DataSource",
+  "DisableAnonymousJoin",
+  "DisableAppInteractionForAnonymousUsers",
+  "EnableQoS",
+  "HelpURL",
+  "Identity",
+  "Key",
+  "LegalURL",
+  "LogoURL"
+]

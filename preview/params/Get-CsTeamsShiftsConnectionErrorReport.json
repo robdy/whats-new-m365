@@ -1,9 +1,11 @@
 [
   "Activeness",
   "After",
+  "Authorization",
   "Before",
   "Break",
   "Code",
+  "ConnectionId",
   "ConnectorInstanceId",
   "Debug",
   "ErrorAction",

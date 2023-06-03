@@ -6,6 +6,7 @@
   "Identity",
   "InformationAction",
   "InformationVariable",
+  "MsftInternalProcessingMode",
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",

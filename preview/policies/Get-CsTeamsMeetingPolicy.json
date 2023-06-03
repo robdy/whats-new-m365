@@ -46,6 +46,7 @@
   "AllowWatermarkForScreenSharing",
   "AllowWhiteboard",
   "AppDesktopSharingMode",
+  "AttendeeIdentityMasking",
   "AudibleRecordingNotification",
   "AutoAdmittedUsers",
   "BlockedAnonymousJoinClientTypes",

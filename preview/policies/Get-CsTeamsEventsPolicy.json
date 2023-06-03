@@ -1,5 +1,7 @@
 [
+  "AllowedQuestionTypesInRegistrationForm",
   "AllowEmailEditing",
+  "AllowEventIntegrations",
   "AllowTownhalls",
   "AllowWebinars",
   "Description",

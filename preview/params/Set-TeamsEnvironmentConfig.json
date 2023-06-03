@@ -1,0 +1,17 @@
+[
+  "Confirm",
+  "Debug",
+  "EndpointUris",
+  "ErrorAction",
+  "ErrorVariable",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "TeamsEnvironmentName",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
+]

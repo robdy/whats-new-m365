@@ -2,6 +2,7 @@
   "AllowManagedUpdates",
   "AllowPreview",
   "AllowPublicPreview",
+  "BlockLegacyAuthorization",
   "Description",
   "Identity",
   "UpdateDayOfWeek",

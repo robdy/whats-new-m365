@@ -1,0 +1,10 @@
+[
+  "AllowCortanaAmbientListening",
+  "AllowCortanaInContextSuggestions",
+  "AllowCortanaVoiceInvocation",
+  "CortanaVoiceInvocationMode",
+  "DataSource",
+  "Description",
+  "Identity",
+  "Key"
+]
