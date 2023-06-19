@@ -1,0 +1,19 @@
+[
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "Force",
+  "Global",
+  "Group",
+  "Identity",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "PolicyName",
+  "Rank",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
+]

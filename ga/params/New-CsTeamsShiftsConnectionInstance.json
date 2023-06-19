@@ -19,6 +19,7 @@
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",
+  "State",
   "SyncFrequencyInMin",
   "SyncScenarioOfferShiftRequest",
   "SyncScenarioOpenShift",

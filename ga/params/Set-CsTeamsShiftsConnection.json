@@ -23,6 +23,7 @@
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",
+  "State",
   "Verbose",
   "WarningAction",
   "WarningVariable",

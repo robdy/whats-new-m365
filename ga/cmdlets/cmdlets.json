@@ -285,6 +285,9 @@
     "Name": "Get-CsTeamsFilesPolicy"
   },
   {
+    "Name": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration"
+  },
+  {
     "Name": "Get-CsTeamsGuestCallingConfiguration"
   },
   {
@@ -313,6 +316,12 @@
   },
   {
     "Name": "Get-CsTeamsMeetingPolicy"
+  },
+  {
+    "Name": "Get-CsTeamsMeetingTemplateConfiguration"
+  },
+  {
+    "Name": "Get-CsTeamsMeetingTemplatePermissionPolicy"
   },
   {
     "Name": "Get-CsTeamsMessagingConfiguration"
@@ -582,6 +591,9 @@
     "Name": "Grant-CsTeamsMeetingPolicy"
   },
   {
+    "Name": "Grant-CsTeamsMeetingTemplatePermissionPolicy"
+  },
+  {
     "Name": "Grant-CsTeamsMessagingPolicy"
   },
   {
@@ -801,6 +813,9 @@
     "Name": "New-CsTeamsFilesPolicy"
   },
   {
+    "Name": "New-CsTeamsHiddenMeetingTemplate"
+  },
+  {
     "Name": "New-CsTeamsIPPhonePolicy"
   },
   {
@@ -817,6 +832,9 @@
   },
   {
     "Name": "New-CsTeamsMeetingPolicy"
+  },
+  {
+    "Name": "New-CsTeamsMeetingTemplatePermissionPolicy"
   },
   {
     "Name": "New-CsTeamsMessagingPolicy"
@@ -1048,6 +1066,9 @@
   },
   {
     "Name": "Remove-CsTeamsMeetingPolicy"
+  },
+  {
+    "Name": "Remove-CsTeamsMeetingTemplatePermissionPolicy"
   },
   {
     "Name": "Remove-CsTeamsMessagingPolicy"
@@ -1336,6 +1357,9 @@
   },
   {
     "Name": "Set-CsTeamsMeetingPolicy"
+  },
+  {
+    "Name": "Set-CsTeamsMeetingTemplatePermissionPolicy"
   },
   {
     "Name": "Set-CsTeamsMessagingConfiguration"

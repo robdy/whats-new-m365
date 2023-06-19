@@ -42,6 +42,7 @@
   "AllowWatermarkForCameraVideo",
   "AllowWatermarkForScreenSharing",
   "AllowWhiteboard",
+  "AttendeeIdentityMasking",
   "AudibleRecordingNotification",
   "AutoAdmittedUsers",
   "BlockedAnonymousJoinClientTypes",

@@ -1,5 +1,7 @@
 [
+  "BackgroundImageDarkPreAuthUri",
   "BackgroundImageDarkUri",
+  "BackgroundImageLightPreAuthUri",
   "BackgroundImageLightUri",
   "BrandAccentColor",
   "Debug",
@@ -10,7 +12,9 @@
   "Identity",
   "InformationAction",
   "InformationVariable",
+  "LogoImageDarkPreAuthUri",
   "LogoImageDarkUri",
+  "LogoImageLightPreAuthUri",
   "LogoImageLightUri",
   "OutBuffer",
   "OutVariable",

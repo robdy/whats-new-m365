@@ -1,6 +1,510 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:52:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "Description",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "HiddenMeetingTemplates",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "Identity",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:52:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Param": "Description",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Param": "TeamsMeetingTemplates",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Param": "Identity",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AttendeeIdentityMasking",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:52:20"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Param": "Description",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:20"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Param": "TeamsMeetingTemplates",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:20"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Param": "Identity",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:20"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowEventIntegrations",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowedQuestionTypesInRegistrationForm",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "EnableWebPstnMediaBypass",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:52:17"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AttendeeIdentityMasking",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "AllowEventIntegrations",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "AllowedQuestionTypesInRegistrationForm",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "EnableWebPstnMediaBypass",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AttendeeIdentityMasking",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "BackgroundImageDarkPreAuthUri",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "BackgroundImageLightPreAuthUri",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "LogoImageDarkPreAuthUri",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "LogoImageLightPreAuthUri",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsHiddenMeetingTemplate",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "AllowEventIntegrations",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "AllowedQuestionTypesInRegistrationForm",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "EnableWebPstnMediaBypass",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Param": null,
+    "Module": "5.3.0",
+    "Event": "Remove",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "State",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnection",
+    "Param": "State",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "State",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnection",
+    "Param": "State",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:50"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentApplyTo",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailSystemPromptSuppression",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailTranscription",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailAudioFilePrompt",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailTextToSpeechPrompt",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentActionTarget",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentAction",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "State",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnection",
+    "Param": "State",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentApplyTo",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailSystemPromptSuppression",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailTranscription",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailAudioFilePrompt",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailTextToSpeechPrompt",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentActionTarget",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentAction",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMeetingTemplatePermissionPolicy",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMeetingTemplatePermissionPolicy",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMeetingTemplatePermissionPolicy",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsHiddenMeetingTemplate",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMeetingTemplatePermissionPolicy",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Module": "5.3.0",
+    "Event": "Add",
+    "Timestamp": "2023-06-19 15:51:49"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsUpgradeConfiguration",
     "Param": "BlockLegacyAuthorization",
     "Module": "5.2.0",
