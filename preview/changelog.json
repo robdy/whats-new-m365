@@ -1,6 +1,192 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "EnableSmsNotifications",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "Identity",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:35"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": "AssignmentCategory",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentApplyTo",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailSystemPromptSuppression",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailTranscription",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailAudioFilePrompt",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailTextToSpeechPrompt",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentActionTarget",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentAction",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:06"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentApplyTo",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailSystemPromptSuppression",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "EnableNoAgentSharedVoicemailTranscription",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailAudioFilePrompt",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentSharedVoicemailTextToSpeechPrompt",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentActionTarget",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentAction",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Param": "AssignmentCategory",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnection",
+    "Module": "5.3.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-07-12 02:58:05"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "AllowCallQueueNoAgentSharedVoicemailGreetingChange",
     "Module": "5.2.1-preview",
