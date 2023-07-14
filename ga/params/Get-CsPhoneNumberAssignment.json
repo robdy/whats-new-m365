@@ -1,6 +1,7 @@
 [
   "ActivationState",
   "AssignedPstnTargetId",
+  "AssignmentCategory",
   "Break",
   "CapabilitiesContain",
   "CivicAddressId",

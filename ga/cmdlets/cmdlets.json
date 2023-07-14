@@ -411,6 +411,9 @@
     "Name": "Get-CsTeamsVideoInteropServicePolicy"
   },
   {
+    "Name": "Get-CsTeamsVirtualAppointmentsPolicy"
+  },
+  {
     "Name": "Get-CsTeamsVoiceApplicationsPolicy"
   },
   {
@@ -619,6 +622,9 @@
   },
   {
     "Name": "Grant-CsTeamsVideoInteropServicePolicy"
+  },
+  {
+    "Name": "Grant-CsTeamsVirtualAppointmentsPolicy"
   },
   {
     "Name": "Grant-CsTeamsVoiceApplicationsPolicy"
@@ -882,6 +888,9 @@
     "Name": "New-CsTeamsVdiPolicy"
   },
   {
+    "Name": "New-CsTeamsVirtualAppointmentsPolicy"
+  },
+  {
     "Name": "New-CsTeamsVoiceApplicationsPolicy"
   },
   {
@@ -1086,6 +1095,9 @@
     "Name": "Remove-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "Remove-CsTeamsShiftsConnection"
+  },
+  {
     "Name": "Remove-CsTeamsShiftsConnectionInstance"
   },
   {
@@ -1117,6 +1129,9 @@
   },
   {
     "Name": "Remove-CsTeamsVdiPolicy"
+  },
+  {
+    "Name": "Remove-CsTeamsVirtualAppointmentsPolicy"
   },
   {
     "Name": "Remove-CsTeamsVoiceApplicationsPolicy"
@@ -1420,6 +1435,9 @@
   },
   {
     "Name": "Set-CsTeamsVdiPolicy"
+  },
+  {
+    "Name": "Set-CsTeamsVirtualAppointmentsPolicy"
   },
   {
     "Name": "Set-CsTeamsVoiceApplicationsPolicy"

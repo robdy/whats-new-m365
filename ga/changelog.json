@@ -1,6 +1,80 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "EnableSmsNotifications",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:01:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "Identity",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:01:27"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": "AssignmentCategory",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Param": "AssignmentCategory",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:47"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:46"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsShiftsConnection",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-14 03:00:46"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
     "Param": null,
     "Module": "5.3.0",
