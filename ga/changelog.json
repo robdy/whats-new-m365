@@ -1,6 +1,22 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomPromptsPackageId",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-18 03:02:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomPromptsEnabled",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-18 03:02:21"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
     "Param": "EnableSmsNotifications",
     "Module": "5.4.0",
