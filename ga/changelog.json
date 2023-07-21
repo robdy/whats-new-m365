@@ -1,6 +1,14 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsShiftsPolicy",
+    "Param": "ShiftNoticeMessage",
+    "Module": "5.4.0",
+    "Event": "Add",
+    "Timestamp": "2023-07-21 02:36:58"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
     "Param": "CustomPromptsPackageId",
     "Module": "5.4.0",

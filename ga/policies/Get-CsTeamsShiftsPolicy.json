@@ -7,6 +7,7 @@
   "Identity",
   "Key",
   "ShiftNoticeFrequency",
+  "ShiftNoticeMessage",
   "ShiftNoticeMessageCustom",
   "ShiftNoticeMessageType"
 ]
