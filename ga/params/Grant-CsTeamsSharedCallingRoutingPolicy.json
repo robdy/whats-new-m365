@@ -1,5 +1,4 @@
 [
-  "Confirm",
   "Debug",
   "ErrorAction",
   "ErrorVariable",
@@ -9,15 +8,12 @@
   "Identity",
   "InformationAction",
   "InformationVariable",
-  "MsftInternalProcessingMode",
   "OutBuffer",
   "OutVariable",
-  "PassThru",
   "PipelineVariable",
   "PolicyName",
   "Rank",
   "Verbose",
   "WarningAction",
-  "WarningVariable",
-  "WhatIf"
+  "WarningVariable"
 ]

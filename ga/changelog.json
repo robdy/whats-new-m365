@@ -1,6 +1,520 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalAgentMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:44:00"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalCallQueueMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:44:00"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalAutoAttendantMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:44:00"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsTemplatePermissionPolicy",
+    "Param": "Description",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsTemplatePermissionPolicy",
+    "Param": "HiddenTemplates",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsTemplatePermissionPolicy",
+    "Param": "Identity",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:57"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "Description",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:56"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "ResourceAccount",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:56"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "EmergencyNumbers",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:56"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "Identity",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:56"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ConnectToMeetingControls",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowLocalRecording",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:54"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "TownhallChatExperience",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowedTownhallTypesForRecordingPublish",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:52"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "AllowedWebinarTypesForRecordingPublish",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:52"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalAgentMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalCallQueueMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalAutoAttendantMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpgradeConfiguration",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpgradeConfiguration",
+    "Param": "BlockLegacyAuthorization",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ConnectToMeetingControls",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowLocalRecording",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "TownhallChatExperience",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "AllowedTownhallTypesForRecordingPublish",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "AllowedWebinarTypesForRecordingPublish",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomPromptsPackageId",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomPromptsEnabled",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingApplication",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingApplication",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalAgentMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalCallQueueMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "HistoricalAutoAttendantMetricsPermission",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ConnectToMeetingControls",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowLocalRecording",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "TownhallChatExperience",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "AllowedTownhallTypesForRecordingPublish",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "AllowedWebinarTypesForRecordingPublish",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomPromptsPackageId",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomPromptsEnabled",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "RecordReroutedCalls",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingApplication",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsShiftsPolicy",
+    "Param": "Force",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantNetworkSite",
+    "Param": "IncludePhoneNumbers",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": "NetworkSiteId",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Param": "NetworkSiteId",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsTemplatePermissionPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsSharedCallingRoutingPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsAudioConferencingCustomPromptsConfiguration",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsTemplatePermissionPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsSharedCallingRoutingPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsTemplatePermissionPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsSharedCallingRoutingPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsHiddenTemplate",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsCustomPromptPackage",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsCustomPrompt",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsSharedCallingRoutingPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsTemplatePermissionPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsSharedCallingRoutingPolicy",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsAudioConferencingCustomPromptsConfiguration",
+    "Module": "5.5.0",
+    "Event": "Add",
+    "Timestamp": "2023-08-02 15:43:24"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsShiftsPolicy",
     "Param": "ShiftNoticeMessage",
     "Module": "5.4.0",

@@ -5,6 +5,7 @@
   "Debug",
   "ErrorAction",
   "ErrorVariable",
+  "Force",
   "Id",
   "Identity",
   "InformationAction",

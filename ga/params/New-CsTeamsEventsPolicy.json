@@ -1,5 +1,7 @@
 [
   "AllowedQuestionTypesInRegistrationForm",
+  "AllowedTownhallTypesForRecordingPublish",
+  "AllowedWebinarTypesForRecordingPublish",
   "AllowEmailEditing",
   "AllowEventIntegrations",
   "AllowTownhalls",
@@ -17,6 +19,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "TownhallChatExperience",
   "Verbose",
   "WarningAction",
   "WarningVariable",

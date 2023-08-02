@@ -1,23 +1,15 @@
 [
-  "Confirm",
   "Debug",
   "ErrorAction",
   "ErrorVariable",
-  "Force",
-  "Global",
-  "Group",
+  "Filter",
   "Identity",
   "InformationAction",
   "InformationVariable",
-  "MsftInternalProcessingMode",
   "OutBuffer",
   "OutVariable",
-  "PassThru",
   "PipelineVariable",
-  "PolicyName",
-  "Rank",
   "Verbose",
   "WarningAction",
-  "WarningVariable",
-  "WhatIf"
+  "WarningVariable"
 ]

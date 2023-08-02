@@ -4,6 +4,7 @@
   "ErrorVariable",
   "Filter",
   "Identity",
+  "IncludePhoneNumbers",
   "InformationAction",
   "InformationVariable",
   "MsftInternalProcessingMode",

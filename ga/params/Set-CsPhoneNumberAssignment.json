@@ -9,6 +9,7 @@
   "InformationAction",
   "InformationVariable",
   "LocationId",
+  "NetworkSiteId",
   "OutBuffer",
   "OutVariable",
   "PhoneNumber",

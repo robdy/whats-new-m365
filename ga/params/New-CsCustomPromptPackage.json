@@ -1,0 +1,22 @@
+[
+  "Debug",
+  "DefaultLocale",
+  "ErrorAction",
+  "ErrorVariable",
+  "Id",
+  "InboundEndRecordingPrompt",
+  "InboundStartRecordingPrompt",
+  "InformationAction",
+  "InformationVariable",
+  "MeetingEndRecordingPrompt",
+  "MeetingStartRecordingPrompt",
+  "Name",
+  "OutboundEndRecordingPrompt",
+  "OutboundStartRecordingPrompt",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
+]
