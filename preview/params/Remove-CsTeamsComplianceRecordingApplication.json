@@ -3,6 +3,7 @@
   "Debug",
   "ErrorAction",
   "ErrorVariable",
+  "Force",
   "Identity",
   "InformationAction",
   "InformationVariable",

@@ -1,10 +1,13 @@
 [
   "AllowedQuestionTypesInRegistrationForm",
+  "AllowedTownhallTypesForRecordingPublish",
+  "AllowedWebinarTypesForRecordingPublish",
   "AllowEmailEditing",
   "AllowEventIntegrations",
   "AllowTownhalls",
   "AllowWebinars",
   "Description",
   "EventAccessType",
-  "Identity"
+  "Identity",
+  "TownhallChatExperience"
 ]

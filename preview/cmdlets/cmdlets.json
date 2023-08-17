@@ -246,6 +246,9 @@
     "Name": "Get-CsTeamsAppSetupPolicy"
   },
   {
+    "Name": "Get-CsTeamsAudioConferencingCustomPromptsConfiguration"
+  },
+  {
     "Name": "Get-CsTeamsAudioConferencingPolicy"
   },
   {
@@ -360,6 +363,9 @@
     "Name": "Get-CsTeamsSettingsCustomApp"
   },
   {
+    "Name": "Get-CsTeamsSharedCallingRoutingPolicy"
+  },
+  {
     "Name": "Get-CsTeamsShiftsAppPolicy"
   },
   {
@@ -393,6 +399,9 @@
     "Name": "Get-CsTeamsShiftsPolicy"
   },
   {
+    "Name": "Get-CsTeamsSipDevicesConfiguration"
+  },
+  {
     "Name": "Get-CsTeamsSurvivableBranchAppliance"
   },
   {
@@ -400,6 +409,9 @@
   },
   {
     "Name": "Get-CsTeamsTargetingPolicy"
+  },
+  {
+    "Name": "Get-CsTeamsTemplatePermissionPolicy"
   },
   {
     "Name": "Get-CsTeamsTranslationRule"
@@ -624,6 +636,9 @@
     "Name": "Grant-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "Grant-CsTeamsSharedCallingRoutingPolicy"
+  },
+  {
     "Name": "Grant-CsTeamsShiftsPolicy"
   },
   {
@@ -715,6 +730,12 @@
   },
   {
     "Name": "New-CsCustomPolicyPackage"
+  },
+  {
+    "Name": "New-CsCustomPrompt"
+  },
+  {
+    "Name": "New-CsCustomPromptPackage"
   },
   {
     "Name": "New-CsEdgeAllowAllKnownDomains"
@@ -843,6 +864,9 @@
     "Name": "New-CsTeamsHiddenMeetingTemplate"
   },
   {
+    "Name": "New-CsTeamsHiddenTemplate"
+  },
+  {
     "Name": "New-CsTeamsIPPhonePolicy"
   },
   {
@@ -879,6 +903,9 @@
     "Name": "New-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "New-CsTeamsSharedCallingRoutingPolicy"
+  },
+  {
     "Name": "New-CsTeamsShiftsConnection"
   },
   {
@@ -895,6 +922,9 @@
   },
   {
     "Name": "New-CsTeamsSurvivableBranchAppliancePolicy"
+  },
+  {
+    "Name": "New-CsTeamsTemplatePermissionPolicy"
   },
   {
     "Name": "New-CsTeamsTranslationRule"
@@ -1116,6 +1146,9 @@
     "Name": "Remove-CsTeamsRoomVideoTeleConferencingPolicy"
   },
   {
+    "Name": "Remove-CsTeamsSharedCallingRoutingPolicy"
+  },
+  {
     "Name": "Remove-CsTeamsShiftsConnection"
   },
   {
@@ -1138,6 +1171,9 @@
   },
   {
     "Name": "Remove-CsTeamsTargetingPolicy"
+  },
+  {
+    "Name": "Remove-CsTeamsTemplatePermissionPolicy"
   },
   {
     "Name": "Remove-CsTeamsTranslationRule"
@@ -1320,6 +1356,9 @@
     "Name": "Set-CsTeamsAppSetupPolicy"
   },
   {
+    "Name": "Set-CsTeamsAudioConferencingCustomPromptsConfiguration"
+  },
+  {
     "Name": "Set-CsTeamsAudioConferencingPolicy"
   },
   {
@@ -1425,6 +1464,9 @@
     "Name": "Set-CsTeamsSettingsCustomApp"
   },
   {
+    "Name": "Set-CsTeamsSharedCallingRoutingPolicy"
+  },
+  {
     "Name": "Set-CsTeamsShiftsAppPolicy"
   },
   {
@@ -1437,6 +1479,9 @@
     "Name": "Set-CsTeamsShiftsPolicy"
   },
   {
+    "Name": "Set-CsTeamsSipDevicesConfiguration"
+  },
+  {
     "Name": "Set-CsTeamsSurvivableBranchAppliance"
   },
   {
@@ -1444,6 +1489,9 @@
   },
   {
     "Name": "Set-CsTeamsTargetingPolicy"
+  },
+  {
+    "Name": "Set-CsTeamsTemplatePermissionPolicy"
   },
   {
     "Name": "Set-CsTeamsTranslationRule"

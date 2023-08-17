@@ -1,9 +1,11 @@
 [
+  "BlockLegacyAuthorization",
   "Confirm",
   "Debug",
   "DownloadTeams",
   "ErrorAction",
   "ErrorVariable",
+  "Force",
   "Identity",
   "InformationAction",
   "InformationVariable",

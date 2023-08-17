@@ -14,6 +14,7 @@
   "InformationVariable",
   "IsoCountryCode",
   "LocationId",
+  "NetworkSiteId",
   "NumberType",
   "OutBuffer",
   "OutVariable",
