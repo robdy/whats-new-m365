@@ -1,6 +1,46 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "Identity",
+    "Module": "5.5.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-08-29 02:50:59"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "Key",
+    "Module": "5.5.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-08-29 02:50:59"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "DataSource",
+    "Module": "5.5.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-08-29 02:50:59"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "EnableAcsUsers",
+    "Module": "5.5.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-08-29 02:50:59"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "AllowedAcsResources",
+    "Module": "5.5.1-preview",
+    "Event": "Add",
+    "Timestamp": "2023-08-29 02:50:59"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingConfiguration",
     "Param": "LimitPresenterRolePermissions",
     "Module": "5.5.1-preview",
