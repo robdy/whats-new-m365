@@ -1,0 +1,18 @@
+[
+  "BulkSignIn",
+  "Confirm",
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "Force",
+  "Identity",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable",
+  "WhatIf"
+]

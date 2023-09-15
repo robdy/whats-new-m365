@@ -50,6 +50,8 @@
   "ChannelRecordingDownload",
   "Confirm",
   "ConnectToMeetingControls",
+  "CopilotWithoutTranscript",
+  "CopyRestriction",
   "Debug",
   "Description",
   "DesignatedPresenterRoleMode",

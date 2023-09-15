@@ -1,6 +1,221 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSipDevicesConfiguration",
+    "Param": "BulkSignIn",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSipDevicesConfiguration",
+    "Param": "Identity",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:40"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "CopilotWithoutTranscript",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "CopyRestriction",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingConfiguration",
+    "Param": "LimitPresenterRolePermissions",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomBanner",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "Identity",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "Key",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "DataSource",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "EnableAcsUsers",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "AllowedAcsResources",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "CopilotWithoutTranscript",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "CopyRestriction",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingConfiguration",
+    "Param": "Force",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingConfiguration",
+    "Param": "LimitPresenterRolePermissions",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomBanner",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "CopilotWithoutTranscript",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "CopyRestriction",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "CustomBanner",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:18"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsSipDevicesConfiguration",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsCustomBannerText",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsCustomBannerText",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsCustomBannerText",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsSipDevicesConfiguration",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsCustomBannerText",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsSdgBulkSignInRequest",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestStatus",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestsSummary",
+    "Module": "5.6.0",
+    "Event": "Add",
+    "Timestamp": "2023-09-15 02:23:17"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
     "Param": "HistoricalAgentMetricsPermission",
     "Module": "5.5.0",

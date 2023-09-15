@@ -1,0 +1,20 @@
+[
+  "Batchid",
+  "Break",
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "HttpPipelineAppend",
+  "HttpPipelinePrepend",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Proxy",
+  "ProxyCredential",
+  "ProxyUseDefaultCredentials",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
+]

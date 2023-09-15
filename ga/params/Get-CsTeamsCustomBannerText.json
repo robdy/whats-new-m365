@@ -1,0 +1,15 @@
+[
+  "Debug",
+  "ErrorAction",
+  "ErrorVariable",
+  "Filter",
+  "Identity",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
+]

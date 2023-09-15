@@ -1,0 +1,15 @@
+[
+  "Debug",
+  "DeviceDetailsFilePath",
+  "ErrorAction",
+  "ErrorVariable",
+  "InformationAction",
+  "InformationVariable",
+  "OutBuffer",
+  "OutVariable",
+  "PipelineVariable",
+  "Region",
+  "Verbose",
+  "WarningAction",
+  "WarningVariable"
+]

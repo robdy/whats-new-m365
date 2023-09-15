@@ -53,6 +53,8 @@
   "BlockedAnonymousJoinClientTypes",
   "ChannelRecordingDownload",
   "ConnectToMeetingControls",
+  "CopilotWithoutTranscript",
+  "CopyRestriction",
   "Description",
   "DesignatedPresenterRoleMode",
   "EnableAppDesktopSharing",
