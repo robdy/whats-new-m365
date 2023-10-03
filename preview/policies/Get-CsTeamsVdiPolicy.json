@@ -3,5 +3,6 @@
   "DisableAudioVideoInCallsAndMeetings",
   "DisableCallsAndMeetings",
   "Identity",
-  "Key"
+  "Key",
+  "VDI2Optimization"
 ]

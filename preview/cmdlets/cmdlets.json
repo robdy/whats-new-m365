@@ -276,6 +276,9 @@
     "Name": "Get-CsTeamsCortanaPolicy"
   },
   {
+    "Name": "Get-CsTeamsCustomBannerText"
+  },
+  {
     "Name": "Get-CsTeamsEducationAssignmentsAppPolicy"
   },
   {
@@ -837,6 +840,9 @@
     "Name": "New-CsTeamsCortanaPolicy"
   },
   {
+    "Name": "New-CsTeamsCustomBannerText"
+  },
+  {
     "Name": "New-CsTeamsEmergencyCallingExtendedNotification"
   },
   {
@@ -1096,6 +1102,9 @@
   },
   {
     "Name": "Remove-CsTeamsCortanaPolicy"
+  },
+  {
+    "Name": "Remove-CsTeamsCustomBannerText"
   },
   {
     "Name": "Remove-CsTeamsEmergencyCallingPolicy"
@@ -1384,6 +1393,9 @@
   },
   {
     "Name": "Set-CsTeamsCortanaPolicy"
+  },
+  {
+    "Name": "Set-CsTeamsCustomBannerText"
   },
   {
     "Name": "Set-CsTeamsEducationAssignmentsAppPolicy"
