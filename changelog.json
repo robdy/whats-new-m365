@@ -1,0 +1,126 @@
+[
+	{
+		"Category": "Policy",
+		"Cmdlet": "Get-CsTeamsMeetingPolicy",
+		"Param": "CopilotWithoutTranscript",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:19:17"
+	},
+	{
+		"Category": "Policy",
+		"Cmdlet": "Get-CsTeamsMeetingPolicy",
+		"Param": "CopyRestriction",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:19:17"
+	},
+	{
+		"Category": "Policy",
+		"Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+		"Param": "CustomBanner",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:19:16"
+	},
+	{
+		"Category": "Policy",
+		"Cmdlet": "Get-CsTeamsVdiPolicy",
+		"Param": "VDI2Optimization",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:19:11"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "Set-CsTeamsMeetingPolicy",
+		"Param": "CopilotWithoutTranscript",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "Set-CsTeamsMeetingPolicy",
+		"Param": "CopyRestriction",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "Set-CsTeamsMeetingConfiguration",
+		"Param": "Force",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "Set-CsTeamsMeetingConfiguration",
+		"Param": "LimitPresenterRolePermissions",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+		"Param": "CustomBanner",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "New-CsTeamsMeetingPolicy",
+		"Param": "CopilotWithoutTranscript",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "New-CsTeamsMeetingPolicy",
+		"Param": "CopyRestriction",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Param",
+		"Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+		"Param": "CustomBanner",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:56"
+	},
+	{
+		"Category": "Cmdlet",
+		"Cmdlet": "Set-CsTeamsCustomBannerText",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:55"
+	},
+	{
+		"Category": "Cmdlet",
+		"Cmdlet": "Remove-CsTeamsCustomBannerText",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:55"
+	},
+	{
+		"Category": "Cmdlet",
+		"Cmdlet": "New-CsTeamsCustomBannerText",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:55"
+	},
+	{
+		"Category": "Cmdlet",
+		"Cmdlet": "Get-CsTeamsCustomBannerText",
+		"Module": "5.6.1-preview",
+		"Event": "Add",
+		"Timestamp": "2023-10-03 14:18:55"
+	}
+]
