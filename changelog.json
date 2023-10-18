@@ -1,6 +1,262 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "DeleteCustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:05"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "CreateCustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:05"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": "CustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:05"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ExternalMeetingJoin",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:04"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "VoiceIsolation",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:04"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AutomaticallyStartCopilot",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:04"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "Copilot",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:04"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ParticipantNameChange",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:04"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AutoRecording",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:24:04"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVdiPolicy",
+    "Param": "Force",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVdiPolicy",
+    "Param": "VDI2Optimization",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "DeleteCustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "CreateCustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingConfiguration",
+    "Param": "CustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ExternalMeetingJoin",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "VoiceIsolation",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AutomaticallyStartCopilot",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "Copilot",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ParticipantNameChange",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AutoRecording",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVdiPolicy",
+    "Param": "Force",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVdiPolicy",
+    "Param": "Force",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVdiPolicy",
+    "Param": "VDI2Optimization",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "DeleteCustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "CreateCustomEmojis",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ExternalMeetingJoin",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "VoiceIsolation",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AutomaticallyStartCopilot",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "Copilot",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ParticipantNameChange",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AutoRecording",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVdiPolicy",
+    "Param": "Force",
+    "Module": "5.7.0",
+    "Event": "Add",
+    "Timestamp": "2023-10-18 02:23:40"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "CopilotWithoutTranscript",
     "Module": "5.6.1-preview",

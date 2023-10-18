@@ -27,6 +27,8 @@
   "AudioMessageEnabledType",
   "ChannelsInChatListEnabledType",
   "ChatPermissionRole",
+  "CreateCustomEmojis",
+  "DeleteCustomEmojis",
   "Description",
   "GiphyRatingType",
   "Identity",
