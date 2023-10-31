@@ -9,5 +9,6 @@
   "Description",
   "EventAccessType",
   "Identity",
-  "TownhallChatExperience"
+  "TownhallChatExperience",
+  "UseMicrosoftECDN"
 ]

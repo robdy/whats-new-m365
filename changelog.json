@@ -1,6 +1,54 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ContentSharingInExternalMeetings",
+    "Module": "5.7.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-10-31 14:54:49"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "UseMicrosoftECDN",
+    "Module": "5.7.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-10-31 14:54:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ContentSharingInExternalMeetings",
+    "Module": "5.7.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-10-31 14:54:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "UseMicrosoftECDN",
+    "Module": "5.7.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-10-31 14:54:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ContentSharingInExternalMeetings",
+    "Module": "5.7.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-10-31 14:54:25"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "UseMicrosoftECDN",
+    "Module": "5.7.2-preview",
+    "Event": "Add",
+    "Timestamp": "2023-10-31 14:54:24"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "DeleteCustomEmojis",
     "Module": "5.7.0",

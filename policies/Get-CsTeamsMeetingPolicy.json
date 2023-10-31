@@ -55,6 +55,7 @@
   "BlockedAnonymousJoinClientTypes",
   "ChannelRecordingDownload",
   "ConnectToMeetingControls",
+  "ContentSharingInExternalMeetings",
   "Copilot",
   "CopilotWithoutTranscript",
   "CopyRestriction",

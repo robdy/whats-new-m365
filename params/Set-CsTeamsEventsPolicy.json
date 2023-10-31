@@ -20,6 +20,7 @@
   "OutVariable",
   "PipelineVariable",
   "TownhallChatExperience",
+  "UseMicrosoftECDN",
   "Verbose",
   "WarningAction",
   "WarningVariable",
