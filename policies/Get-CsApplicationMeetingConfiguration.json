@@ -1,5 +1,6 @@
 [
   "AllowRemoveParticipantAppIds",
+  "ConfigMetadata",
   "DataSource",
   "Identity",
   "Key"

@@ -1,5 +1,6 @@
 [
   "AllowMediaLogging",
+  "ConfigMetadata",
   "DataSource",
   "Description",
   "Identity",

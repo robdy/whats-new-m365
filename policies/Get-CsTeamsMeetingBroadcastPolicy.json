@@ -3,6 +3,7 @@
   "AllowBroadcastTranscription",
   "BroadcastAttendeeVisibilityMode",
   "BroadcastRecordingMode",
+  "ConfigMetadata",
   "DataSource",
   "Description",
   "Identity",

@@ -2,6 +2,7 @@
   "AllowCortanaAmbientListening",
   "AllowCortanaInContextSuggestions",
   "AllowCortanaVoiceInvocation",
+  "ConfigMetadata",
   "CortanaVoiceInvocationMode",
   "DataSource",
   "Description",

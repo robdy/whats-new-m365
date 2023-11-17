@@ -1,6 +1,310 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTenantMigrationConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:39"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:38"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:37"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:36"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsTargetingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:35"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsShiftsAppPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:34"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNotificationAndFeedsPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:33"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:32"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMobilityPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:31"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:30"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:29"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsIPPhonePolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:29"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsGuestMessagingConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:28"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsGuestMeetingConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsGuestCallingConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:27"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsFilesPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:26"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:25"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationAssignmentsAppPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:24"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCortanaPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsClientConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:23"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsCallParkPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:22"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineVoiceRoutingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:21"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:20"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:19"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:18"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "ConfigMetadata",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:17"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "MeetingInviteLogoImageDarkPreAuthUri",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:12"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "MeetingInviteLogoImageLightPreAuthUri",
+    "Module": "5.8.0",
+    "Event": "Add",
+    "Timestamp": "2023-11-17 02:28:12"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "ContentSharingInExternalMeetings",
     "Module": "5.7.2-preview",

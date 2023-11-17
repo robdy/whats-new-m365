@@ -1,5 +1,6 @@
 [
   "AllowedAcsResources",
+  "ConfigMetadata",
   "DataSource",
   "EnableAcsUsers",
   "Identity",

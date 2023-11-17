@@ -11,6 +11,7 @@
   "AllowScopedPeopleSearchandAccess",
   "AllowShareFile",
   "AllowSkypeBusinessInterop",
+  "ConfigMetadata",
   "ContentPin",
   "DataSource",
   "Identity",

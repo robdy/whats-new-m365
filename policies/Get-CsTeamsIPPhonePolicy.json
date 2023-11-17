@@ -2,6 +2,7 @@
   "AllowBetterTogether",
   "AllowHomeScreen",
   "AllowHotDesking",
+  "ConfigMetadata",
   "DataSource",
   "Description",
   "HotDeskingIdleTimeoutInMinutes",

@@ -2,6 +2,7 @@
   "AllowIPVideo",
   "AllowMeetNow",
   "AllowTranscription",
+  "ConfigMetadata",
   "DataSource",
   "Identity",
   "Key",

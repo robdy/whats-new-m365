@@ -1,6 +1,7 @@
 [
   "AllowPSTNConferencingDialOutType",
   "AllowPSTNOutboundCallingType",
+  "ConfigMetadata",
   "DataSource",
   "Identity",
   "Key"

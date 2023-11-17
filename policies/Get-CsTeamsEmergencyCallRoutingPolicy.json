@@ -1,5 +1,6 @@
 [
   "AllowEnhancedEmergencyServices",
+  "ConfigMetadata",
   "DataSource",
   "Description",
   "EmergencyNumbers",

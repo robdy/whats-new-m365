@@ -1,5 +1,6 @@
 [
   "AllowPrivateCalling",
+  "ConfigMetadata",
   "DataSource",
   "Identity",
   "Key"

@@ -1,5 +1,6 @@
 [
   "AllowService",
+  "ConfigMetadata",
   "DataSource",
   "Description",
   "Identity",

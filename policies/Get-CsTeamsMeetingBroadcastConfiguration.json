@@ -1,5 +1,6 @@
 [
   "AllowSdnProviderForBroadcastMeeting",
+  "ConfigMetadata",
   "DataSource",
   "Identity",
   "Key",

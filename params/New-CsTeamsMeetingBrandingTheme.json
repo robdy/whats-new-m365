@@ -16,6 +16,8 @@
   "LogoImageDarkUri",
   "LogoImageLightPreAuthUri",
   "LogoImageLightUri",
+  "MeetingInviteLogoImageDarkPreAuthUri",
+  "MeetingInviteLogoImageLightPreAuthUri",
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",

@@ -6,6 +6,7 @@
   "AllowTeamsConsumerInbound",
   "AllowTeamsSms",
   "BlockedDomains",
+  "ConfigMetadata",
   "DataSource",
   "Identity",
   "Key",
