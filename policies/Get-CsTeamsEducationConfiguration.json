@@ -1,6 +1,7 @@
 [
   "ConfigMetadata",
   "DataSource",
+  "EduGenerativeAIEnhancements",
   "Identity",
   "Key",
   "ParentGuardianPreferredContactMethod"

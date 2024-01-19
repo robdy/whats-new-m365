@@ -1,6 +1,14 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "EduGenerativeAIEnhancements",
+    "Module": "5.8.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-01-19 02:31:46"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTenantMigrationConfiguration",
     "Param": "ConfigMetadata",
     "Module": "5.8.0",
