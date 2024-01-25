@@ -14,6 +14,7 @@
   "EnableQoS",
   "ErrorAction",
   "ErrorVariable",
+  "FeedbackSurveyForAnonymousUsers",
   "Force",
   "HelpURL",
   "Identity",

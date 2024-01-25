@@ -1,6 +1,142 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "DesignerForBackgroundsAndImages",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:33:08"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "AllowedUsersForMeetingContext",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:33:06"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForAnonymousUsers",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:33:06"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingConfiguration",
+    "Param": "FeedbackSurveyForAnonymousUsers",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:33:06"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "AdditionalCustomizationApps",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:33:00"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "DesignerForBackgroundsAndImages",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "AllowedUsersForMeetingContext",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForAnonymousUsers",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingConfiguration",
+    "Param": "FeedbackSurveyForAnonymousUsers",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAppSetupPolicy",
+    "Param": "AdditionalCustomizationApps",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "DesignerForBackgroundsAndImages",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "AllowedUsersForMeetingContext",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "WatermarkForAnonymousUsers",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Param": "IsHidden",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Param": "IsRequired",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsAppSetupPolicy",
+    "Param": "AdditionalCustomizationApps",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": "ReverseNumberLookup",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-25 02:32:36"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsEducationConfiguration",
     "Param": "EduGenerativeAIEnhancements",
     "Module": "5.8.1-preview",

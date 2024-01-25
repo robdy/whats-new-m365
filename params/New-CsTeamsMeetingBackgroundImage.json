@@ -6,6 +6,8 @@
   "ImageUri",
   "InformationAction",
   "InformationVariable",
+  "IsHidden",
+  "IsRequired",
   "Name",
   "Order",
   "OutBuffer",

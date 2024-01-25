@@ -15,6 +15,7 @@
   "PhoneNumber",
   "PhoneNumberType",
   "PipelineVariable",
+  "ReverseNumberLookup",
   "Verbose",
   "WarningAction",
   "WarningVariable"
