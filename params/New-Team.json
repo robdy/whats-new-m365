@@ -30,6 +30,7 @@
   "OutVariable",
   "Owner",
   "PipelineVariable",
+  "ProgressAction",
   "RetainCreatedGroup",
   "ShowInTeamsSearchAndSuggestions",
   "Template",

@@ -12,6 +12,7 @@
   "OutVariable",
   "PipelineVariable",
   "PolicyName",
+  "ProgressAction",
   "Rank",
   "Verbose",
   "WarningAction",

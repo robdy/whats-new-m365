@@ -12,6 +12,7 @@
   "PackageName",
   "PipelineVariable",
   "PolicyRankings",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

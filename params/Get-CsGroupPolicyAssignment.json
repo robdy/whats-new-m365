@@ -12,6 +12,7 @@
   "OutVariable",
   "PipelineVariable",
   "PolicyType",
+  "ProgressAction",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

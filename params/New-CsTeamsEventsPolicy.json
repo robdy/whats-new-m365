@@ -19,6 +19,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "TownhallChatExperience",
   "UseMicrosoftECDN",
   "Verbose",

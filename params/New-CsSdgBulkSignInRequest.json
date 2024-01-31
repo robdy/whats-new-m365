@@ -8,6 +8,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "Region",
   "Verbose",
   "WarningAction",

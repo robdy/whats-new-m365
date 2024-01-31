@@ -84,6 +84,7 @@
   "ParticipantNameChange",
   "PipelineVariable",
   "PreferredMeetingProviderForIslandsMode",
+  "ProgressAction",
   "QnAEngagementMode",
   "RecordingStorageMode",
   "RoomAttributeUserOverride",

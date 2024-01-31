@@ -21,6 +21,7 @@
   "OutVariable",
   "PipelineVariable",
   "Procedure",
+  "ProgressAction",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

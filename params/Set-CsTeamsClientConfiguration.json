@@ -23,6 +23,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ResourceAccountContentAccess",
   "RestrictedSenderList",
   "Verbose",

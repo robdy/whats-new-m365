@@ -13,6 +13,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "SfBMeetingJoinUx",
   "Verbose",
   "WarningAction",

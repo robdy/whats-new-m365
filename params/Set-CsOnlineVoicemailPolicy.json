@@ -20,6 +20,7 @@
   "PreambleAudioFile",
   "PreamblePostambleMandatory",
   "PrimarySystemPromptLanguage",
+  "ProgressAction",
   "SecondarySystemPromptLanguage",
   "ShareData",
   "Verbose",

@@ -28,6 +28,7 @@
   "OutVariable",
   "OwnerUserObjectId",
   "PipelineVariable",
+  "ProgressAction",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

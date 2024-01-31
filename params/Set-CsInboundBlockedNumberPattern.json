@@ -13,6 +13,7 @@
   "OutVariable",
   "Pattern",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

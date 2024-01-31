@@ -33,6 +33,7 @@
   "PopoutAppPathForIncomingPstnCalls",
   "PopoutForIncomingPstnCalls",
   "PreventTollBypass",
+  "ProgressAction",
   "SpamFilteringEnabledType",
   "Verbose",
   "WarningAction",

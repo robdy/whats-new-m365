@@ -12,6 +12,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ReceiveCalls",
   "Verbose",
   "WarningAction",

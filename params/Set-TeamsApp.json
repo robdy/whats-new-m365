@@ -9,6 +9,7 @@
   "OutVariable",
   "Path",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable"

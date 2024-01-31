@@ -13,6 +13,7 @@
   "OutVariable",
   "PassThru",
   "PipelineVariable",
+  "ProgressAction",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

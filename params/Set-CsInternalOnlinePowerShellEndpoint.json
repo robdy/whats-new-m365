@@ -8,6 +8,7 @@
   "OutVariable",
   "OverridePowershellUri",
   "PipelineVariable",
+  "ProgressAction",
   "TargetDomain",
   "Verbose",
   "WarningAction",

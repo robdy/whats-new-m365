@@ -20,6 +20,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "TimeZoneId",
   "Verbose",
   "VoiceId",

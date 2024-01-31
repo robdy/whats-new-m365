@@ -12,6 +12,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ResultSize",
   "Skip",
   "Verbose",

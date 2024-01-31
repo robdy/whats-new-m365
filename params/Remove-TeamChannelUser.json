@@ -9,6 +9,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "Role",
   "User",
   "Verbose",

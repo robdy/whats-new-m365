@@ -15,6 +15,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "UpdateDayOfWeek",
   "UpdateTime",
   "UpdateTimeOfDay",

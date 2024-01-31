@@ -26,6 +26,7 @@
   "PostalCode",
   "PostDirectional",
   "PreDirectional",
+  "ProgressAction",
   "StateOrProvince",
   "StreetName",
   "StreetSuffix",

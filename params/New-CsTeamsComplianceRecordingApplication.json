@@ -16,6 +16,7 @@
   "Parent",
   "PipelineVariable",
   "Priority",
+  "ProgressAction",
   "RequiredBeforeCallEstablishment",
   "RequiredBeforeMeetingJoin",
   "RequiredDuringCall",

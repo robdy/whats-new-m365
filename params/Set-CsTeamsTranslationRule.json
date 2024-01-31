@@ -12,6 +12,7 @@
   "OutVariable",
   "Pattern",
   "PipelineVariable",
+  "ProgressAction",
   "Translation",
   "Verbose",
   "WarningAction",

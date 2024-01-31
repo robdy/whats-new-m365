@@ -11,6 +11,7 @@
   "OutVariable",
   "Packages",
   "PipelineVariable",
+  "ProgressAction",
   "Prompts",
   "Verbose",
   "WarningAction",

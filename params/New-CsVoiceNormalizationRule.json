@@ -17,6 +17,7 @@
   "Pattern",
   "PipelineVariable",
   "Priority",
+  "ProgressAction",
   "Translation",
   "Verbose",
   "WarningAction",

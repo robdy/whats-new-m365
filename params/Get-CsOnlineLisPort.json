@@ -13,6 +13,7 @@
   "OutVariable",
   "PipelineVariable",
   "PortID",
+  "ProgressAction",
   "TargetStore",
   "Verbose",
   "WarningAction",

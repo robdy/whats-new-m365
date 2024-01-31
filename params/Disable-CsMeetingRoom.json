@@ -11,6 +11,7 @@
   "OutVariable",
   "PassThru",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

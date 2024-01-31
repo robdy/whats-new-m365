@@ -17,6 +17,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "RequireBackgroundEffect",
   "Verbose",
   "WarningAction",

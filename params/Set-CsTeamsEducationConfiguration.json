@@ -11,6 +11,7 @@
   "OutVariable",
   "ParentGuardianPreferredContactMethod",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

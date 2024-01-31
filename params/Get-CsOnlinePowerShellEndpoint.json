@@ -10,6 +10,7 @@
   "OverrideDesiredLink",
   "OverrideDiscoveryUri",
   "PipelineVariable",
+  "ProgressAction",
   "TargetDomain",
   "TeamsEnvironmentName",
   "Verbose",

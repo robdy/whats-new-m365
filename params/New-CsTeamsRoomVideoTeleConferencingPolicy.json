@@ -15,6 +15,7 @@
   "PipelineVariable",
   "PlaceExternalCalls",
   "PlaceInternalCalls",
+  "ProgressAction",
   "ReceiveExternalCalls",
   "ReceiveInternalCalls",
   "Verbose",

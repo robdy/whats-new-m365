@@ -14,6 +14,7 @@
   "OutVariable",
   "PipelineVariable",
   "PrimaryLanguage",
+  "ProgressAction",
   "RestoreDefaultLanguages",
   "SecondaryLanguages",
   "Verbose",

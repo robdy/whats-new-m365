@@ -12,6 +12,7 @@
   "OutVariable",
   "Owner",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable"

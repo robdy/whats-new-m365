@@ -1,5 +1,4309 @@
 [
   {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamTargetingHierarchy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamsEnvironmentConfig",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamsApp",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamPicture",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamChannel",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-TeamArchivedState",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-Team",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVoiceApplicationsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsVdiPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpgradeConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUpdateManagementPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsSipDevicesConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMessagingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingBrandingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsFeedbackPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEventsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCustomBannerText",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsComplianceRecordingApplication",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsChannelsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallHoldPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAudioConferencingCustomPromptsConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAppSetupPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAppPermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsExternalAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-TeamUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-TeamTargetingHierarchy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-TeamsApp",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-TeamChannelUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-TeamChannel",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-Team",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-SharedWithTeam",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVoiceApplicationsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsVdiPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsUpdateManagementPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMessagingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingBrandingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsFeedbackPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEventsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCustomBannerText",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsComplianceRecordingApplication",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsChannelsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallHoldPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAppSetupPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAppPermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineVoicemailPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsExternalAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-TeamsApp",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-TeamChannel",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-Team",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVoiceApplicationsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsVdiPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUpdateManagementPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsNdiAssuranceSlate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMessagingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingTheme",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBrandingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBackgroundImage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsHiddenTemplate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsHiddenMeetingTemplate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsFeedbackPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEventsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallingExtendedNotification",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCustomBannerText",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingPairedApplication",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsComplianceRecordingApplication",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsChannelsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallHoldPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsAppSetupPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsAppPermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineVoicemailPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsExternalAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCustomPromptPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCustomPrompt",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVdiPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsShiftsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingBrandingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEventsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppSetupPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAppPermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsExternalAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamTargetingHierarchyStatus",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamsApp",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamIncomingChannel",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamChannelUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamChannel",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamAllChannel",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-Team",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-SharedWithTeamUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-SharedWithTeam",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-Operation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-MultiGeoRegion",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantNetworkSite",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsVoiceApplicationsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsVirtualAppointmentsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsVdiPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsUpgradeConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsUpdateManagementPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsSipDevicesConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsSharedCallingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMessagingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMessagingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingTemplatePermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingTemplateConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingBrandingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsFirstPartyMeetingTemplateConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsFeedbackPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEventsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEmergencyCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCustomBannerText",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsComplianceRecordingApplication",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsChannelsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCallHoldPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAudioConferencingCustomPromptsConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAppSetupPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAppPermissionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoicemailPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsExternalAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-AssociatedTeam",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Disconnect-MicrosoftTeams",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Connect-MicrosoftTeams",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Clear-TeamsEnvironmentConfig",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Add-TeamUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Add-TeamChannelUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamTemplate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnectionInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsTeamsShiftsConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsCustomPolicyPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-CsAutoAttendant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Unregister-CsOnlineDialInConferencingServiceNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsVoiceNormalizationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsTeamsUnassignedNumberTreatment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsTeamsTranslationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsTeamsShiftsConnectionValidate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsInboundBlockedNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Test-CsEffectiveTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Sync-CsOnlineApplicationInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Start-CsExMeetingMigration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsVideoInteropServiceProvider",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUserCallingDelegate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantTrustedIPAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantNetworkSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantNetworkSite",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantNetworkRegion",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantMigrationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantFederationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantBlockedCallingNumbers",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsWorkLoadPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsUnassignedNumberTreatment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsTranslationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsTargetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsSurvivableBranchAppliance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnectionInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsShiftsAppPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsSettingsCustomApp",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsNotificationAndFeedsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsNetworkRoamingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMobilityPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMigrationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingBroadcastPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsIPPhonePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsGuestMessagingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsGuestMeetingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsGuestCallingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsFilesPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEducationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsEducationAssignmentsAppPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCortanaPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsClientConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsCallParkPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAudioConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsAcsFederationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPrivacyConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsPhoneNumberAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoiceUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoiceRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoiceRoute",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoicemailUserSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineVoiceApplicationInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineSchedule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlinePstnUsage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlinePSTNGateway",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineLisWirelessAccessPoint",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineLisSwitch",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineLisSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineLisPort",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineLisLocation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineLisCivicAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineEnhancedEmergencyServiceDisclaimer",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialinConferencingUserDefaultNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingTenantSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingServiceNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineDialInConferencingBridge",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsOnlineApplicationInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsInternalOnlinePowerShellEndpoint",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsInboundExemptNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsInboundBlockedNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallingLineIdentity",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsAutoAttendant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsApplicationMeetingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsApplicationAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsVideoInteropServiceProvider",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsUserCallingDelegate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTenantTrustedIPAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTenantNetworkSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTenantNetworkSite",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTenantNetworkRegion",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamTemplate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsWorkLoadPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsUnassignedNumberTreatment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsTranslationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsTargetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsSurvivableBranchAppliance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsScheduleRecord",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionTeamMap",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsConnectionInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsShiftsConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsNotificationAndFeedsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsNetworkRoamingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMobilityPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsMeetingBroadcastPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsIPPhonePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsFilesPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCortanaPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsCallParkPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsTeamsAudioConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsPhoneNumberAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineVoiceRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineVoiceRoute",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineTelephoneNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineSchedule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlinePSTNGateway",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineLisWirelessAccessPoint",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineLisSwitch",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineLisSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineLisPort",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineLisLocation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineLisCivicAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineDialInConferencingTenantSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineAudioFile",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsOnlineApplicationInstanceAssociation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsInboundExemptNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsInboundBlockedNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsHybridTelephoneNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsGroupPolicyAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsCustomPolicyPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsCallQueue",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsCallingLineIdentity",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsAutoAttendant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-CsApplicationAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Register-CsOnlineDialInConferencingServiceNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsVoiceNormalizationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsVideoInteropServiceProvider",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsUserCallingDelegate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTenantTrustedIPAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTenantNetworkSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTenantNetworkSite",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTenantNetworkRegion",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamTemplate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsWorkLoadPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsUnassignedNumberTreatment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsTranslationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsSurvivableBranchAppliance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnectionBatchTeamMap",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsShiftsConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsNetworkRoamingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMobilityPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingBroadcastPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsIPPhonePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsFilesPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCortanaPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsCallParkPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsAudioConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsSdgBulkSignInRequest",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineVoiceRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineVoiceRoute",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineTimeRange",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineTelephoneNumberOrder",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineSchedule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlinePSTNGateway",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineLisLocation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineLisCivicAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineDateTimeRange",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineApplicationInstanceAssociation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineApplicationInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsInboundExemptNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsInboundBlockedNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsHybridTelephoneNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsGroupPolicyAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsEdgeDomainPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsEdgeAllowList",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsEdgeAllowAllKnownDomains",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCustomPolicyPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCloudCallDataConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallingLineIdentity",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsBatchTeamsDeployment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsBatchPolicyPackageAssignmentOperation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsBatchPolicyAssignmentOperation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantPrompt",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenuOption",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantMenu",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantDialScope",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallHandlingAssociation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallFlow",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallableEntity",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsApplicationAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Move-CsInternalHelper",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Invoke-CsInternalPsTelemetry",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsOnlineAudioFile",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Import-CsAutoAttendantHolidays",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsUserPolicyPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsWorkLoadPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVoiceApplicationsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsVideoInteropServicePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpgradePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsUpdateManagementPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMobilityPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMessagingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMeetingBroadcastPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsMediaLoggingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsIPPhonePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFilesPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsFeedbackPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsEmergencyCallingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCortanaPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsComplianceRecordingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsChannelsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallParkPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsCallHoldPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsTeamsAudioConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineVoiceRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineVoicemailPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsGroupPolicyPackageAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsDialoutPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsCallingLineIdentity",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Grant-CsApplicationAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsVideoInteropServiceProvider",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsUserPolicyPackageRecommendation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsUserPolicyPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsUserPolicyAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsUserCallingSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantTrustedIPAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantNetworkSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantNetworkRegion",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantNetworkConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantMigrationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantLicensingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenantBlockedCallingNumbers",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTenant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamTemplateList",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamTemplate",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsWorkLoadPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsVideoInteropServicePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsUpgradePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsUnassignedNumberTreatment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsTranslationRule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsTargetingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliancePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsSurvivableBranchAppliance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionWfmTeam",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionTeamMap",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionSyncResult",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionOperation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionErrorReport",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnectionConnector",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsShiftsAppPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsSettingsCustomApp",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsRoomVideoTeleConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsNotificationAndFeedsPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsNetworkRoamingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMobilityPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMigrationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMeetingBroadcastConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsMediaLoggingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsIPPhonePolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsGuestMessagingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsGuestMeetingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsGuestCallingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsFilesPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEnhancedEncryptionPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEmergencyCallRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsEducationAssignmentsAppPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCortanaPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsClientConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsCallParkPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAudioConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsTeamsAcsFederationConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestStatus",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsSdgBulkSignInRequestsSummary",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPrivacyConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPolicyPackage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsPhoneNumberAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoiceUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoiceRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoiceRoute",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineVoicemailUserSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberType",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberOrder",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineTelephoneNumberCountry",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineTelephoneNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:48"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineSipDomain",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineSchedule",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlinePstnUsage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlinePSTNGateway",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlinePowerShellEndpoint",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineLisWirelessAccessPoint",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineLisSwitch",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineLisSubnet",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineLisPort",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineLisLocation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineLisCivicAddress",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineEnhancedEmergencyServiceDisclaimer",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDirectoryTenant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialOutPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingUser",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingTenantSettings",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingTenantConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialInConferencingServiceNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingLanguagesSupported",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineDialinConferencingBridge",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineAudioFile",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineAudioConferencingRoutingPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociationStatus",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstanceAssociation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsOnlineApplicationInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsMeetingMigrationStatus",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsInboundExemptNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsInboundBlockedNumberPattern",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsHybridTelephoneNumber",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsGroupPolicyAssignment",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsEffectiveTenantDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsDialPlan",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCloudCallDataConnection",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCallQueue",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsCallingLineIdentity",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsBatchTeamsDeploymentStatus",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsBatchPolicyAssignmentOperation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantTenantInformation",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedTimeZone",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantSupportedLanguage",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantStatus",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendantHolidays",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsAutoAttendant",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsApplicationMeetingConfiguration",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-CsApplicationAccessPolicy",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Find-CsOnlineApplicationInstance",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Find-CsGroup",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Export-CsOnlineAudioFile",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Export-CsAutoAttendantHolidays",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Enable-CsOnlineSipDomain",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Disable-CsOnlineSipDomain",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Disable-CsMeetingRoom",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Complete-CsOnlineTelephoneNumberOrder",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Clear-CsOnlineTelephoneNumberOrder",
+    "Param": "ProgressAction",
+    "Module": "5.9.0",
+    "Event": "Add",
+    "Timestamp": "2024-01-31 02:13:47"
+  },
+  {
     "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMessagingPolicy",
     "Param": "DesignerForBackgroundsAndImages",

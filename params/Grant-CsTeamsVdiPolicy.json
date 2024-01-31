@@ -15,6 +15,7 @@
   "PassThru",
   "PipelineVariable",
   "PolicyName",
+  "ProgressAction",
   "Rank",
   "Verbose",
   "WarningAction",

@@ -16,6 +16,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ResultSize",
   "SkipUserPolicies",
   "SoftDeletedUsers",

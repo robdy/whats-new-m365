@@ -29,6 +29,7 @@
   "OutVariable",
   "PidfLoSupported",
   "PipelineVariable",
+  "ProgressAction",
   "ProxySbc",
   "SendSipOptions",
   "SipSignalingPort",

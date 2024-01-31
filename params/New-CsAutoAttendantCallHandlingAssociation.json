@@ -11,6 +11,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ScheduleId",
   "Type",
   "Verbose",

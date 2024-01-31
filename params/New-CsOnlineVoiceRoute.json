@@ -17,6 +17,7 @@
   "OutVariable",
   "PipelineVariable",
   "Priority",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

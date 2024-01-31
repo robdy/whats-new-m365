@@ -10,6 +10,7 @@
   "OutVariable",
   "PhoneNumber",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

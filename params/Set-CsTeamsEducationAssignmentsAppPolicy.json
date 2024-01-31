@@ -12,6 +12,7 @@
   "OutVariable",
   "ParentDigestEnabledType",
   "PipelineVariable",
+  "ProgressAction",
   "TurnItInApiKey",
   "TurnItInApiUrl",
   "TurnItInEnabledType",

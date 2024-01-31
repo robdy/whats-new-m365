@@ -11,6 +11,7 @@
   "PhoneNumber",
   "PhoneNumberType",
   "PipelineVariable",
+  "ProgressAction",
   "RemoveAll",
   "Verbose",
   "WarningAction",

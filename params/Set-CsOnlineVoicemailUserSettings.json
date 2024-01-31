@@ -17,6 +17,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "PromptLanguage",
   "ShareData",
   "TransferTarget",

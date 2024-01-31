@@ -11,6 +11,7 @@
   "OutVariable",
   "PhoneNumber",
   "PipelineVariable",
+  "ProgressAction",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

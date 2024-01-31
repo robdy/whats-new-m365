@@ -15,6 +15,7 @@
   "PickupRangeEnd",
   "PickupRangeStart",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

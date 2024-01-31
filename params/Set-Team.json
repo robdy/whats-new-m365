@@ -29,6 +29,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ShowInTeamsSearchAndSuggestions",
   "Verbose",
   "Visibility",

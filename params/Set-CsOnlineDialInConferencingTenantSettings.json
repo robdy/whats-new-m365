@@ -25,6 +25,7 @@
   "OutVariable",
   "PinLength",
   "PipelineVariable",
+  "ProgressAction",
   "SendEmailFromAddress",
   "SendEmailFromDisplayName",
   "SendEmailFromOverride",

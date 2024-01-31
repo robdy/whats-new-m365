@@ -15,6 +15,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ResetLeaderPin",
   "SendEmail",
   "SendEmailToAddress",

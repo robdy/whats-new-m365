@@ -59,6 +59,7 @@
   "OverflowThreshold",
   "PipelineVariable",
   "PresenceBasedRouting",
+  "ProgressAction",
   "RoutingMethod",
   "ShouldOverwriteCallableChannelProperty",
   "TimeoutAction",

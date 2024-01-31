@@ -20,6 +20,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "RestrictTeamsConsumerAccessToExternalUserProfiles",
   "Verbose",
   "WarningAction",

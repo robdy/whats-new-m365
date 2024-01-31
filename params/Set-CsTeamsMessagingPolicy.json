@@ -43,6 +43,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "ReadReceiptsEnabledType",
   "Verbose",
   "WarningAction",

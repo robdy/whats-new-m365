@@ -17,6 +17,7 @@
   "PipelineVariable",
   "PrivateCatalogApps",
   "PrivateCatalogAppsType",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable",

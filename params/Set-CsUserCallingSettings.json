@@ -18,6 +18,7 @@
   "OutBuffer",
   "OutVariable",
   "PipelineVariable",
+  "ProgressAction",
   "UnansweredDelay",
   "UnansweredTarget",
   "UnansweredTargetType",
