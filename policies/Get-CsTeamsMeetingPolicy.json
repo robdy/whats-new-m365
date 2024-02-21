@@ -62,6 +62,7 @@
   "CopyRestriction",
   "Description",
   "DesignatedPresenterRoleMode",
+  "DetectSensitiveContentDuringScreenSharing",
   "EnableAppDesktopSharing",
   "EnableLowBandwidthConsumption",
   "EnableOutlookAddIn",

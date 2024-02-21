@@ -1,5 +1,100 @@
 [
   {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMeetingPolicy",
+    "Param": "DetectSensitiveContentDuringScreenSharing",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:58"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTeamsMeetingPolicy",
+    "Param": "DetectSensitiveContentDuringScreenSharing",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsTeamsMeetingPolicy",
+    "Param": "DetectSensitiveContentDuringScreenSharing",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NoAgentActionCallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "TimeoutActionCallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "OverflowActionCallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsOnlineApplicationInstanceAssociation",
+    "Param": "CallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NoAgentActionCallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "TimeoutActionCallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "OverflowActionCallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsAutoAttendantCallableEntity",
+    "Param": "CallPriority",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:31"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsUserLicenseGracePeriod",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-21 02:06:30"
+  },
+  {
     "Category": "Param",
     "Cmdlet": "Set-TeamTargetingHierarchy",
     "Param": "ProgressAction",

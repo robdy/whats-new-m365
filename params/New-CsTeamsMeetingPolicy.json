@@ -60,6 +60,7 @@
   "Debug",
   "Description",
   "DesignatedPresenterRoleMode",
+  "DetectSensitiveContentDuringScreenSharing",
   "EnrollUserOverride",
   "ErrorAction",
   "ErrorVariable",
