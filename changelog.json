@@ -1,6 +1,14 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTenantFederationConfiguration",
+    "Param": "BlockAllSubdomains",
+    "Module": "6.0.0",
+    "Event": "Add",
+    "Timestamp": "2024-02-23 02:07:03"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsMeetingPolicy",
     "Param": "DetectSensitiveContentDuringScreenSharing",
     "Module": "6.0.0",

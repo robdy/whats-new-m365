@@ -5,6 +5,7 @@
   "AllowTeamsConsumer",
   "AllowTeamsConsumerInbound",
   "AllowTeamsSms",
+  "BlockAllSubdomains",
   "BlockedDomains",
   "ConfigMetadata",
   "DataSource",
