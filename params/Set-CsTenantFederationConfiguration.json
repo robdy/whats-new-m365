@@ -5,6 +5,7 @@
   "AllowPublicUsers",
   "AllowTeamsConsumer",
   "AllowTeamsConsumerInbound",
+  "BlockAllSubdomains",
   "BlockedDomains",
   "Confirm",
   "Debug",

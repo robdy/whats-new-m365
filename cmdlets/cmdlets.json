@@ -318,6 +318,9 @@
     "Name": "Get-CsTeamsIPPhonePolicy"
   },
   {
+    "Name": "Get-CsTeamsMediaConnectivityPolicy"
+  },
+  {
     "Name": "Get-CsTeamsMediaLoggingPolicy"
   },
   {
@@ -445,6 +448,9 @@
   },
   {
     "Name": "Get-CsTeamsWorkLoadPolicy"
+  },
+  {
+    "Name": "Get-CsTeamsWorkLocationDetectionPolicy"
   },
   {
     "Name": "Get-CsTeamTemplate"
@@ -615,6 +621,9 @@
     "Name": "Grant-CsTeamsIPPhonePolicy"
   },
   {
+    "Name": "Grant-CsTeamsMediaConnectivityPolicy"
+  },
+  {
     "Name": "Grant-CsTeamsMediaLoggingPolicy"
   },
   {
@@ -667,6 +676,9 @@
   },
   {
     "Name": "Grant-CsTeamsWorkLoadPolicy"
+  },
+  {
+    "Name": "Grant-CsTeamsWorkLocationDetectionPolicy"
   },
   {
     "Name": "Grant-CsTenantDialPlan"
@@ -876,6 +888,9 @@
     "Name": "New-CsTeamsIPPhonePolicy"
   },
   {
+    "Name": "New-CsTeamsMediaConnectivityPolicy"
+  },
+  {
     "Name": "New-CsTeamsMeetingBackgroundImage"
   },
   {
@@ -952,6 +967,9 @@
   },
   {
     "Name": "New-CsTeamsWorkLoadPolicy"
+  },
+  {
+    "Name": "New-CsTeamsWorkLocationDetectionPolicy"
   },
   {
     "Name": "New-CsTeamTemplate"
@@ -1128,6 +1146,9 @@
     "Name": "Remove-CsTeamsIPPhonePolicy"
   },
   {
+    "Name": "Remove-CsTeamsMediaConnectivityPolicy"
+  },
+  {
     "Name": "Remove-CsTeamsMeetingBrandingPolicy"
   },
   {
@@ -1204,6 +1225,9 @@
   },
   {
     "Name": "Remove-CsTeamsWorkLoadPolicy"
+  },
+  {
+    "Name": "Remove-CsTeamsWorkLocationDetectionPolicy"
   },
   {
     "Name": "Remove-CsTeamTemplate"
@@ -1437,6 +1461,9 @@
     "Name": "Set-CsTeamsIPPhonePolicy"
   },
   {
+    "Name": "Set-CsTeamsMediaConnectivityPolicy"
+  },
+  {
     "Name": "Set-CsTeamsMeetingBrandingPolicy"
   },
   {
@@ -1531,6 +1558,9 @@
   },
   {
     "Name": "Set-CsTeamsWorkLoadPolicy"
+  },
+  {
+    "Name": "Set-CsTeamsWorkLocationDetectionPolicy"
   },
   {
     "Name": "Set-CsTenantBlockedCallingNumbers"

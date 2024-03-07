@@ -1,6 +1,292 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLocationDetectionPolicy",
+    "Param": "EnableWorkLocationDetection",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:48"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsWorkLocationDetectionPolicy",
+    "Param": "Identity",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:48"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaConnectivityPolicy",
+    "Param": "DirectConnection",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:42"
+  },
+  {
+    "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsMediaConnectivityPolicy",
+    "Param": "Identity",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:42"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Update-TeamsAppInstallation",
+    "Param": "ProgressAction",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:15"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Remove-TeamsAppInstallation",
+    "Param": "ProgressAction",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:15"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-TeamsAppInstallation",
+    "Param": "ProgressAction",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Get-LicenseReportForChangeNotificationSubscription",
+    "Param": "ProgressAction",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Add-TeamsAppInstallation",
+    "Param": "ProgressAction",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsTenantFederationConfiguration",
+    "Param": "BlockAllSubdomains",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "CallbackEmailNotificationTarget",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "CallbackOfferTextToSpeechPrompt",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "CallbackOfferAudioFilePromptResourceId",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "CallToAgentRatioThresholdBeforeOfferingCallback",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "NumberOfCallsInQueueBeforeOfferingCallback",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "WaitTimeBeforeOfferingCallbackInSecond",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "CallbackRequestDtmf",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Set-CsCallQueue",
+    "Param": "IsCallbackEnabled",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "CallbackEmailNotificationTarget",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "CallbackOfferTextToSpeechPrompt",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "CallbackOfferAudioFilePromptResourceId",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "CallToAgentRatioThresholdBeforeOfferingCallback",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "NumberOfCallsInQueueBeforeOfferingCallback",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "WaitTimeBeforeOfferingCallbackInSecond",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "CallbackRequestDtmf",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "New-CsCallQueue",
+    "Param": "IsCallbackEnabled",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Param",
+    "Cmdlet": "Disable-CsTeamsShiftsConnectionErrorReport",
+    "Param": "ProgressAction",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsWorkLocationDetectionPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Set-CsTeamsMediaConnectivityPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsWorkLocationDetectionPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Remove-CsTeamsMediaConnectivityPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsWorkLocationDetectionPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "New-CsTeamsMediaConnectivityPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsWorkLocationDetectionPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Grant-CsTeamsMediaConnectivityPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsWorkLocationDetectionPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Cmdlet",
+    "Cmdlet": "Get-CsTeamsMediaConnectivityPolicy",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-07 02:01:14"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTenantFederationConfiguration",
     "Param": "BlockAllSubdomains",
     "Module": "6.0.0",

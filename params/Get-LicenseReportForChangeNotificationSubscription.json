@@ -8,6 +8,7 @@
   "OutVariable",
   "Period",
   "PipelineVariable",
+  "ProgressAction",
   "Verbose",
   "WarningAction",
   "WarningVariable"

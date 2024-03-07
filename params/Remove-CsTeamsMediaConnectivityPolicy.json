@@ -1,19 +1,18 @@
 [
-  "AppId",
-  "AppInstallationId",
+  "Confirm",
   "Debug",
   "ErrorAction",
   "ErrorVariable",
+  "Force",
+  "Identity",
   "InformationAction",
   "InformationVariable",
   "OutBuffer",
   "OutVariable",
-  "Permissions",
   "PipelineVariable",
   "ProgressAction",
-  "TeamId",
-  "UserId",
   "Verbose",
   "WarningAction",
-  "WarningVariable"
+  "WarningVariable",
+  "WhatIf"
 ]

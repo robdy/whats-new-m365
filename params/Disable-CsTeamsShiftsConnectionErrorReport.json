@@ -20,6 +20,7 @@
   "PassThru",
   "PipelineVariable",
   "Procedure",
+  "ProgressAction",
   "Proxy",
   "ProxyCredential",
   "ProxyUseDefaultCredentials",

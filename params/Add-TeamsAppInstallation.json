@@ -9,6 +9,7 @@
   "OutVariable",
   "Permissions",
   "PipelineVariable",
+  "ProgressAction",
   "TeamId",
   "UserId",
   "Verbose",
