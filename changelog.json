@@ -1,6 +1,14 @@
 [
   {
     "Category": "Policy",
+    "Cmdlet": "Get-CsTeamsEducationConfiguration",
+    "Param": "UpdateParentInformation",
+    "Module": "6.0.1-preview",
+    "Event": "Add",
+    "Timestamp": "2024-03-12 02:06:21"
+  },
+  {
+    "Category": "Policy",
     "Cmdlet": "Get-CsTeamsWorkLocationDetectionPolicy",
     "Param": "EnableWorkLocationDetection",
     "Module": "6.0.1-preview",

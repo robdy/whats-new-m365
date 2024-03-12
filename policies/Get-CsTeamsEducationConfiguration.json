@@ -4,5 +4,6 @@
   "EduGenerativeAIEnhancements",
   "Identity",
   "Key",
-  "ParentGuardianPreferredContactMethod"
+  "ParentGuardianPreferredContactMethod",
+  "UpdateParentInformation"
 ]
